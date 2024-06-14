@@ -1,0 +1,2 @@
+Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
+SiHP12N50E;Enlarge;Single;TO-220AB;N;500.0;30.0;;;;;;;;;0.38;;25.0;6.0;10.0;10.5;114.0;2.0;0.92;image/mosfets/62048.png;Datasheet/mosfets/SiHP12N50E/SiHP12N50E.pdf;

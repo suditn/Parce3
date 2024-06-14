@@ -1,0 +1,4 @@
+Part Number;Product Image;Package;VCEO(V);CTR Min.(1)%;CTR Max.(1)%;Forward Current IF(mA);ton/toff(µs);Operating Temperature(°C);Isolation Voltage VISOVRMS;Safety Standard(s);Image path;Datasheet part;3d model part
+VO617C;Enlarge;DIP-4;80;40;320.0;5;6, 4;-55 to +110;5300;UL, cUL, VDE, FIMKO, CQC;image/optocouplers/83463.png;Datasheet/optocouplers/opt-tran-output/VO617C/VO617C.pdf;Datasheet/optocouplers/opt-tran-output/VO617C/VO617C.zip
+VO617C;Enlarge;SMD-4;80;40;320.0;5;6, 4;-55 to +110;5300;UL, cUL, VDE, FIMKO, CQC;image/optocouplers/83463.png;Datasheet/optocouplers/opt-tran-output/VO617C/VO617C.pdf;Datasheet/optocouplers/opt-tran-output/VO617C/VO617C.zip
+VO617C;Enlarge;DIP-4, 400 mil;80;40;320.0;5;6, 4;-55 to +110;5300;UL, cUL, VDE, FIMKO, CQC;image/optocouplers/83463.png;Datasheet/optocouplers/opt-tran-output/VO617C/VO617C.pdf;Datasheet/optocouplers/opt-tran-output/VO617C/VO617C.zip

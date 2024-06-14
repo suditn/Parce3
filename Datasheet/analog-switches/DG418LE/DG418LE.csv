@@ -1,0 +1,3 @@
+Part Number;Configuration;SingleSupplyMin.;SingleSupplyMax.;DualSupplyMin.;DualSupplyMax.;On-Resistance(Ω);Is(off)Max.;tonMax.;QINJTyp.;XTALK&OIRR;Package;CS(on)(pF);CS(off)(pF);-3 dBBandwidth(MHz);Image path;Datasheet part;3d model part
+DG418LE;SPST x 1, NO;3.0;16.0;3.0;8.0;6.0;2.0;38.0;-17.0;-68.0;SO-8 (narrow) AS;33.0;11.0;;76432;Datasheet/analog-switches/DG418LE/DG418LE.pdf;
+DG418LE;SPST x 1, NO;3.0;16.0;3.0;8.0;6.0;2.0;38.0;-17.0;-68.0;MSOP-8;33.0;11.0;;76432;Datasheet/analog-switches/DG418LE/DG418LE.pdf;

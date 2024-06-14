@@ -1,0 +1,35 @@
+﻿*************************************************
+* Copyright 2020 © Vishay Intertechnology, Inc. *
+* All rights reserved.                          *
+*************************************************
+*Mar 1, 2021
+*DD Vishay semiconduttori italiana SPA
+*davide.dapra@vishay.com
+*File Name: RMPG06G.txt
+*This document is intended as a SPICE modeling guideline and does not
+*constitute a commercial product datasheet. Designers should refer to the
+*appropriate datasheet of the same number for guaranteed specification
+*limits.
+
+
+*Model fit device at 25°C
+*DEVICE=RMPG06G,D
+
+**************************************************** 
+
+.MODEL RMPG06G D
+
++ IS=5.3793E-6
++ N=3.3178
++ RS=21.731E-3
++ IKF=375.83
++ CJO=8.8892E-12
++ M=.40387
++ VJ=3.3086
++ ISR=1.0892E-27
++ NR=79.642
++ BV=450.10
++ IBV=.51954
++ TT=278.69E-9
+
+.ENDS

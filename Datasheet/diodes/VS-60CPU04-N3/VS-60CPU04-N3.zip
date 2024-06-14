@@ -1,0 +1,26 @@
+60CPU04-F
+********************************************
+* Model Diode                              *
+********************************************
+
+MODEL part0 D (IS=3.075N N=1.60061 BV=480 IBV=100U RS=3.89486M CJO=716.596P
+VJ=700M M=477.095M EG=1.2 XTI=2 RL=13.8833G)
+********************************************
+
+.ENDS 60CPU04-F
+
+Thermal Model Subcircuit
+.SUBCKT 60CPU04-F 5 1
+
+CTHERM1 5 4 8.52E-00
+CTHERM2 4 3 6.67E+01
+CTHERM3 3 2 2.20E+02
+CTHERM4 2 1 4.90E+02
+
+RTHERM1 5 4 4.97E-01
+RTHERM2 4 3 3.81E-01
+RTHERM1 3 2 6.63E-02
+RTHERM1 2 1 5.59E-02
+
+
+.ENDS 60CPU04-F

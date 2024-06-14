@@ -1,0 +1,28 @@
+43CTQ100PbF
+********************************************
+* Model Diode                              *
+********************************************
+
+MODEL part0 D (IS=1.2U N=1.44673 BV=110 IBV=10M RS=7.09433M CJO=4.50005N VJ=700M
+M=551.044M EG=980M XTI=2 RL=3.03462MEG
+
+
+********************************************
+
+.ENDS 43CTQ100PbF
+
+Thermal Model Subcircuit
+.SUBCKT 43CTQ100PbF 5 1
+
+CTHERM1 5 4 6.78E-01
+CTHERM2 4 3 1.72E+01
+CTHERM3 3 2 1.75E+02
+CTHERM4 2 1 8.06E+02
+
+RTHERM1 5 4 8.20E-01
+RTHERM2 4 3 9.20E-01
+RTHERM1 3 2 2.00E-02
+RTHERM1 2 1 2.43E-01
+
+
+.ENDS 43CTQ100PbF

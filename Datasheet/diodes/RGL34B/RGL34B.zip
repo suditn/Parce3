@@ -1,0 +1,10 @@
+**********************************
+* Copyright:                     *
+*   Thomatronik GmbH, Germany    *
+*   info@thomatronik.de          *
+**********************************
+*   SPICE3
+.model rgl34k d is = 6.67408E-007 n = 2.66553 rs = 0.189602
++ eg = 1.11 xti = 3 tnom = 27
++ cjo = 7.80516E-012 vj = 0.700111 m = 0.330008 fc = 0.5
++ tt = 5.54918E-007 bv = 880 ibv = 2 af = 1 kf = 0

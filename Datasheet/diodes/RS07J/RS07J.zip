@@ -1,0 +1,34 @@
+********************************
+* Copyright:                   *
+* Vishay Intertechnology, Inc. *
+********************************
+* Technology: DISCRETE DIODE
+* Device: Diode RS07K
+* Description:
+* Type: Typical (nom)
+* Model established: 23.03.2009, by Harald Stix, VSA/ASSP-VOE
+* Wafer:
+* Remarks:
+* Revision: 23.03.2009
+* Simulation Model: 
+* Simulator: PSPICE
+
+*DEVICE=RS07K,D
+
+* RS07K D model
+* created using Parts release 8.0 on 03/23/2009
+* Parts is a MicroSim product.
+.MODEL RS07K D
++ IS=10.627E-9
++ N=1.9008
++ RS=.13404
++ IKF=4.4623E-3
++ CJO=10.694E-12
++ M=.41307
++ VJ=.41613
++ ISR=2.7505E-9
++ NR=4.9950
++ BV=1.2901E3
++ IBV=2.1554E-3
++ TT=616.58E-9
+*$

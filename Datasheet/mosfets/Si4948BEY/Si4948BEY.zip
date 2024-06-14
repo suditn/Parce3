@@ -1,0 +1,64 @@
+*Nov 17, 2008
+*Doc. ID: 64606, ECN S-82730, Rev. A
+*This document is intended as a SPICE modeling guideline and does not
+*constitute a commercial product data sheet.  Designers should refer to the
+*appropriate data sheet of the same number for guaranteed specification
+*limits. 
+.SUBCKT Si7998DP D1 G1 S1 D2 G2 S2 
+X1    D1 G1 S1 Si7998DPC1
+X2    D2 G2 S2 Si7998DPC2
+.ENDS Si7998DP 
+.SUBCKT Si7998DPC1  D G S 
+M1 3 GX S S NMOS W= 2266610u L= 0.25u 
+M2 S GX S D PMOS W= 2266610u L= 2.422e-07 
+R1 D 3 4.820e-03 5.798e-03 1.151e-05 
+CGS GX S 5.909e-10 
+CGD GX D 3.007e-11 
+RG G GY 3.5
+RTCV 100 S 1e6 -1.092e-04 -1.571e-06 
+ETCV GX GY 100 200 1 
+ITCV S 100 1u 
+VTCV 200 S 1 
+DBD S D DBD 
+**************************************************************** 
+.MODEL NMOS NMOS ( LEVEL = 3 TOX = 5e-8 
++ RS = 1.949e-03 KP = 1.814e-05 NSUB = 1.269e+17 
++ KAPPA = 1e-2 ETA = 1.544e-04 NFS = 1.063e+12 
++ LD = 0 IS = 0 TPG = 1) 
+*************************************************************** 
+.MODEL PMOS PMOS ( LEVEL = 3 TOX = 5e-8 
++NSUB = 1.757e+16 IS = 0 TPG = -1 ) 
+**************************************************************** 
+.MODEL DBD D ( 
++FC = 0.1 TT = 1.574e-08 TREF = 25 BV = 31 
++RS = 3.608e-03 N = 1.099e+00 IS = 6.894e-12 
++EG = 1.200e+00 XTI = 2.160e-01 TRS = 1.533e-03 
++CJO = 5.082e-10 VJ = 4.499e-01 M = 3.541e-01 ) 
+.ENDS Si7998DPC1
+.SUBCKT Si7998DPC2  D G S 
+M1 3 GX S S NMOS W= 4666550u L= 0.25u 
+M2 S GX S D PMOS W= 4666550u L= 2.318e-07 
+R1 D 3 2.776e-03 4.469e-03 7.425e-06 
+CGS GX S 1.188e-09 
+CGD GX D 5.546e-11 
+RG G GY 3.5
+RTCV 100 S 1e6 -3.908e-05 -1.869e-07 
+ETCV GX GY 100 200 1 
+ITCV S 100 1u 
+VTCV 200 S 1 
+DBD S D DBD 
+**************************************************************** 
+.MODEL NMOS NMOS ( LEVEL = 3 TOX = 5e-8 
++ RS = 1e-3 KP = 1.114e-05 NSUB = 1.155e+17 
++ KAPPA = 1e-2 ETA = 1.574e-04 NFS = 7.670e+11 
++ LD = 0 IS = 0 TPG = 1) 
+*************************************************************** 
+.MODEL PMOS PMOS ( LEVEL = 3 TOX = 5e-8 
++NSUB = 1.541e+16 IS = 0 TPG = -1 ) 
+**************************************************************** 
+.MODEL DBD D ( 
++FC = 0.1 TT = 1.665e-08 TREF = 25 BV = 31 
++RS = 2.295e-03 N = 1.289e+00 IS = 7.003e-10 
++EG = 1.201e+00 XTI = 2.019e-01 TRS = 2.461e-03 
++CJO = 1.016e-09 VJ = 4.490e-01 M = 3.579e-01 ) 
+.ENDS Si7998DPC2 

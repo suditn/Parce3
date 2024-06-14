@@ -1,0 +1,2 @@
+Part Number;Configuration;SingleSupplyMin.;SingleSupplyMax.;DualSupplyMin.;DualSupplyMax.;On-Resistance(Ω);Is(off)Max.;tonMax.;QINJTyp.;XTALK&OIRR;Package;CS(on)(pF);CS(off)(pF);-3 dBBandwidth(MHz);Image path;Datasheet part;3d model part
+DG2001E;SPDT x 1;1.8;5.5;;;0.85;30.0;35.0;8.0;-63.0;TSOP-6;53.0;16.0;;76471;Datasheet/analog-switches/DG2001E/DG2001E.pdf;

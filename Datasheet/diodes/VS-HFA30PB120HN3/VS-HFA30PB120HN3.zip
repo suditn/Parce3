@@ -1,0 +1,33 @@
+********************************
+* Copyright:                   *
+* Vishay Intertechnology, Inc. *
+********************************
+
+HFA30PB120
+********************************************
+* Model Diode                              *
+********************************************
+MODEL part0 D (IS=134.848F N=2.5 BV=1.27K IBV=100P RS=53.6798M
++ CJO=759.854P VJ=700M M=473.998M EG=2.98 RL=964.268MEG)
+
+
+
+********************************************
+
+.ENDS HFA30PB120
+
+Thermal Model Subcircuit
+.SUBCKT HFA30PB120 5 1
+
+CTHERM1 5 4 6.41E-08
+CTHERM2 4 3 8.03E+00
+CTHERM3 3 2 2.69E+01
+CTHERM4 2 1 2.23E+03
+
+RTHERM1 5 4 1.00E-08
+RTHERM2 4 3 2.42E-03
+RTHERM1 3 2 1.04E-01
+RTHERM1 2 1 2.55E-01
+
+
+.ENDS HFA30PB120

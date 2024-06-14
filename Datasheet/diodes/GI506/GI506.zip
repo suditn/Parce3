@@ -1,0 +1,10 @@
+**********************************
+* Copyright:                     *
+*   Thomatronik GmbH, Germany    *
+*   info@thomatronik.de          *
+**********************************
+*   SPICE3
+.model gi751 d is = 3.5539E-011 n = 1.23 rs = 0.00202675
++ eg = 1.79773 xti = 3.57113 tnom = 27
++ cjo = 2.574E-010 vj = 0.7 m = 0.414814 fc = 0.5
++ tt = 6.16576E-006 bv = 110 ibv = 0.25 af = 1 kf = 0

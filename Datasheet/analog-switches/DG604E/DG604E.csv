@@ -1,0 +1,3 @@
+Part Number;Configuration;SingleSupplyMin.;SingleSupplyMax.;DualSupplyMin.;DualSupplyMax.;On-Resistance(Ω);Is(off)Max.;tonMax.;QINJTyp.;XTALK&OIRR;Package;CS(on)(pF);CS(off)(pF);-3 dBBandwidth(MHz);Image path;Datasheet part;3d model part
+DG604E;4:1 x 1;3.0;16.0;3.0;8.0;64.0;18.0;61.0;-0.3;-65.0;miniQFN-16 (0.55mm);11.0;4.2;414.0;75612;Datasheet/analog-switches/DG604E/DG604E.pdf;
+DG604E;4:1 x 1;3.0;16.0;3.0;8.0;64.0;18.0;61.0;-0.3;-65.0;TSSOP-14;11.0;4.2;414.0;75612;Datasheet/analog-switches/DG604E/DG604E.pdf;

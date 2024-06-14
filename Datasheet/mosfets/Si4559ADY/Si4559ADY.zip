@@ -1,0 +1,64 @@
+*Feb 13, 2006
+*Doc. ID: 78589, S-60180, Rev. A
+*This document is intended as a SPICE modeling guideline and does not
+*constitute a commercial product data sheet.  Designers should refer to the
+*appropriate data sheet of the same number for guaranteed specification
+*limits.
+.SUBCKT Si4559ADY D1 G1 S1 D2 G2 S2 
+X1 D1 G1 S1 Si4559N
+X2 D2 G2 S2 Si4559P
+.ENDS Si4559ADY
+*N-CH
+.SUBCKT Si4559N D G S
+M1  3 G S S NMOS W=989444u L=0.25u      
+M2  S G S D PMOS W=989444u L=0.25u     
+R1  D 3     RTEMP 28.5E-3
+CGS G S     550E-12
+DBD S D     DBD
+************************************************************** 
+.MODEL  NMOS       NMOS ( LEVEL  = 3           TOX    = 5E-8
++ RS     = 14E-3          RD     = 0           NSUB   = 2.9E17  
++ KP     = 1.1E-5         UO     = 650             
++ VMAX   = 0              XJ     = 5E-7        KAPPA  = 2.2E-1
++ ETA    = 1E-4           TPG    = 1  
++ IS     = 0              LD     = 0            
++ CGSO   = 0              CGDO   = 0           CGBO   = 0 
++ TLEV   = 1              BEX    = -1.5        TCV    = 4.4E-3
++ NFS    = 0.8E12         DELTA  = 0.1)
+*************************************************************** 
+.MODEL  PMOS       PMOS ( LEVEL  = 3           TOX    = 5E-8
++NSUB    = 4E16           TPG    = -1)   
+*************************************************************** 
+.MODEL DBD D (CJO=130E-12 VJ=0.38 M=0.30
++RS=0.1 FC=0.5 IS=1E-12 TT=5E-8 N=1 BV=60.5)
+*************************************************************** 
+.MODEL RTEMP R (TC1=9E-3 TC2=5.5E-6)
+*************************************************************** 
+.ENDS Si4559N
+*P-CH
+.SUBCKT Si4559P D G S
+M1  3 G S S PMOS W=1050913u L=0.25u          
+M2  S G S D NMOS W=1050913u L=0.50u
+R1  D 3     RTEMP 50E-3
+CGS G S     470E-12
+DBD D S     DBD
+***************************************************************  
+.MODEL  PMOS        PMOS ( LEVEL  = 3           TOX    = 5E-8
++ RS     = 40E-3           RD     = 0           NSUB   = 1.3E17
++ KP     = 4.5E-6          UO     = 400             
++ VMAX   = 0               XJ     = 5E-7        KAPPA  = 4E-2
++ ETA    = 1E-4            TPG    = -1  
++ IS     = 0               LD     = 0                        
++ CGSO   = 0               CGDO   = 0           CGBO   = 0 
++ TLEV   = 1               BEX    = -1.5        TCV    = 6.1E-3
++ NFS    = 0.8E12          DELTA  = 0.1)
+*************************************************************** 
+.MODEL  NMOS        NMOS ( LEVEL  = 3           TOX    = 5E-8
++NSUB    = 3E16            TPG    = -1)   
+*************************************************************** 
+.MODEL DBD D (CJO=80E-12 VJ=0.38 M=0.32
++RS=0.1 FC=0.5 IS=1E-12 TT=6E-8 N=1 BV=61)
+*************************************************************** 
+.MODEL RTEMP R (TC1=10E-3 TC2=5.5E-6)
+*************************************************************** 
+.ENDS Si4559P

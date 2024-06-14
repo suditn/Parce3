@@ -1,0 +1,2 @@
+Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
+SiHU6N65E;Enlarge;Single;IPAK (TO-251);N;650.0;30.0;;;;;;;;;0.6;;24.0;6.0;11.0;7.0;78.0;2.0;1.4;image/mosfets/75453.png;Datasheet/mosfets/SiHU6N65E/SiHU6N65E.pdf;Datasheet/mosfets/SiHU6N65E/SiHU6N65E.zip

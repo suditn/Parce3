@@ -1,0 +1,2 @@
+Part Number;Configuration;SingleSupplyMin.;SingleSupplyMax.;DualSupplyMin.;DualSupplyMax.;On-Resistance(Ω);Is(off)Max.;tonMax.;QINJTyp.;XTALK&OIRR;Package;CS(on)(pF);CS(off)(pF);-3 dBBandwidth(MHz);Image path;Datasheet part;3d model part
+DG2525;DPDT x 2;1.8;5.5;;;0.37;5.0;60000.0;-19.0;-55.0;miniQFN-16 (0.55mm);26.0;14.5;310.0;78295;Datasheet/analog-switches/DG2525/DG2525.pdf;

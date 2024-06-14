@@ -1,0 +1,2 @@
+Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
+SiA928DJ;Enlarge;Dual;PowerPAK SC-70;N;30.0;20.0;;;;;;0.033;0.029;;0.025;3.0;6.6;1.4;0.5;4.5;7.8;1.2;4.6;image/mosfets/91636.png;Datasheet/mosfets/SiA928DJ/SiA928DJ.pdf;Datasheet/mosfets/SiA928DJ/SiA928DJ.zip

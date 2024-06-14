@@ -1,0 +1,20 @@
+**********************************
+
+* Copyright:                     *
+
+*   Thomatronik GmbH, Germany    *
+
+*   info@thomatronik.de          *
+
+**********************************
+
+*   SPICE3
+
+.model byg24g d is = 1.4539E-007 n = 2.49188 rs = 0.10028
+
++ eg = 1.27529 xti = 3.06969 tnom = 27
+
++ cjo = 2.39913E-011 vj = 0.7 m = 0.427295 fc = 0.5
+
++ tt = 3.32951E-007 bv = 440 ibv = 1 af = 1 kf = 0
+

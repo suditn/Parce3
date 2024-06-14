@@ -1,0 +1,4 @@
+Part Number;Product Image;Package;VCEO(V);CTR Min.(1)%;CTR Max.(1)%;Forward Current IF(mA);ton/toff(µs);Operating Temperature(°C);Isolation Voltage VISOVRMS;Safety Standard(s);Image path;Datasheet part;3d model part
+VO615A;Enlarge;DIP-4;70;13;600.0;5, 10;6, 5;-55 to +110;5000;BSI, VDE, FIMKO, UL, cUL, CQC;image/optocouplers/81753.png;Datasheet/optocouplers/opt-tran-output/VO615A/VO615A.pdf;Datasheet/optocouplers/opt-tran-output/VO615A/VO615A.zip
+VO615A;Enlarge;DIP-4, 400 mil;70;13;600.0;5, 10;6, 5;-55 to +110;5000;BSI, VDE, FIMKO, UL, cUL, CQC;image/optocouplers/81753.png;Datasheet/optocouplers/opt-tran-output/VO615A/VO615A.pdf;Datasheet/optocouplers/opt-tran-output/VO615A/VO615A.zip
+VO615A;Enlarge;SMD-4;70;13;600.0;5, 10;6, 5;-55 to +110;5000;BSI, VDE, FIMKO, UL, cUL, CQC;image/optocouplers/81753.png;Datasheet/optocouplers/opt-tran-output/VO615A/VO615A.pdf;Datasheet/optocouplers/opt-tran-output/VO615A/VO615A.zip

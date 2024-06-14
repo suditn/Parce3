@@ -1,0 +1,5 @@
+*produced by Vishay General Semiconductor Taiwan
+*Allen Su, 2020/2/20
+*   PSPICE
+.MODEL ug4d D IS=3e-6 RS=0.0063 N=2.16 BV=660 IBV=3.366
++ CJO=25p vj=0.78 M=0.3 TT=49n eg=1.11 xti=3.3 t_measured=27

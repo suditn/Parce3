@@ -1,0 +1,10 @@
+**********************************
+* Copyright:                     *
+*   Thomatronik GmbH, Germany    *
+*   info@thomatronik.de          *
+**********************************
+*   SPICE3
+.model uh4pbc d is = 7.54182E-009 n = 1.56085 rs = 0.0204563
++ eg = 0.871127 xti = 5 tnom = 27
++ cjo = 4.03007E-011 vj = 0.7 m = 0.33 fc = 0.5
++ tt = 4.93261E-008 bv = 110 ibv = 1 af = 1 kf = 0

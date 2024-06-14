@@ -1,0 +1,2 @@
+Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
+SiR510DP;Enlarge;Single;PowerPAK SO-8;N;100.0;20.0;;;;;;;;0.0042;0.0036;;54.0;23.3;3.0;126.0;104.0;2.0;1.15;image/mosfets/79230.png;Datasheet/mosfets/SiR510DP/SiR510DP.pdf;Datasheet/mosfets/SiR510DP/SiR510DP.zip

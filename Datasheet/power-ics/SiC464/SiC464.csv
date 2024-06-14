@@ -1,0 +1,3 @@
+Part Number;Status;Description;Product Type;VINMin.(V);VINMax.(V);Package;Package Size(W, L, H)(mm);Image path;Datasheet part;3d model part
+SiC464;Active;2 A, 4.5 V to 60 V input, 100 kHz to 2 MHz, synchronous buck regulator;"microBUCK
+(step down regulator)";4.5;60.0;PowerPAK MLP55-27L;5 x 5 x 0.75;65124;Datasheet/power-ics/networking/SiC464/SiC464.pdf;

@@ -1,0 +1,2 @@
+Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
+Si7460DP;;Single;PowerPAK SO-8;N;60.0;20.0;;;;;;0.012;;;0.0096;32.0;65.0;10.5;16.0;18.0;5.4;1.0;;image/mosfets/75918.png;Datasheet/mosfets/Si7460DP/Si7460DP.pdf;Datasheet/mosfets/Si7460DP/Si7460DP.zip

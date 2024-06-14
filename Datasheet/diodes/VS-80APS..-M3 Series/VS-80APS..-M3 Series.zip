@@ -1,0 +1,15 @@
+80APS12PbF ********************************************************************* * Model Diode * ********************************************************************* 
+MODEL part0 D (IS=2.6781P N=1.16634 BV=1.3K IBV=200U RS=2.92437M 
++ CJO=1.05285N VJ=866.882M M=450.029M EG=1.05 XTI=2 RL=268.881MEG 
+T_MEASURED=25) 
+******************************************************************* 
+
+.ENDS 80APS12PbF 
+Thermal Model Subcircuit .SUBCKT 80APS12PbF 5 1 
+CTHERM1  5  4  8.76E-04  
+CTHERM2  4  3  4.06E-01  
+CTHERM3  3  2  4.96E+00  
+CTHERM4  2  1  1.06E+02  
+
+RTHERM1 5 4 1.00E-07 RTHERM2 4 3 1.83E-01 RTHERM1 3 2 1.27E-01 RTHERM1 2 1 3.21E-02 
+.ENDS 80APS12PbF 

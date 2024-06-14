@@ -1,0 +1,2 @@
+Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
+SQ4184EY;Enlarge;Single;SO-8;N;40.0;20.0;;;;;;0.0056;;;0.0046;;72.0;13.0;11.0;29.0;7.1;1.5;1.6;image/mosfets/65673.png;Datasheet/mosfets/SQ4184EY/SQ4184EY.pdf;Datasheet/mosfets/SQ4184EY/SQ4184EY.zip

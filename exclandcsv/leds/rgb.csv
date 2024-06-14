@@ -1,0 +1,4 @@
+Part Number;Package;Color;Dominant Wavelength Min. (nm)orColor Coordinate(x, y)(nm);Dominant Wavelength Typ. (nm)orColor Coordinate(x, y)(nm);Dominant Wavelength Max. (nm)orColor Coordinate(x, y)(nm);Luminous Intensity IVMin.(mcd);Luminous Intensity IVTyp.(mcd);Luminous Intensity IVMax.(mcd);IFforIV(mA);Luminous Flux ΦVMin.(mIm);Luminous Flux ΦVTyp.(mIm);Luminous Flux ΦVMax.(mIm);IFforΦV(mA);Forward Voltage, VFTyp.(V);Forward Voltage, VFMax.(V);Angle of Half Intensity(± °);Key Feature;Image path;Datasheet part;3d model part
+VLMRGB6112-00;SMD PLCC-6;Blue;463;469;476;180;230;450;20;;;;;3.0;3.6;60;RGB;84342;leds\VLMRGB6112-00\VLMRGB6112-00.pdf;
+VLMRGB6112-00;SMD PLCC-6;True green;519;526;534;900;1030;1800;20;;;;;3.1;3.6;60;RGB;84342;leds\VLMRGB6112-00\VLMRGB6112-00.pdf;
+VLMRGB6112-00;SMD PLCC-6;Red;618;624;629;560;730;920;20;;;;;2.0;2.4;60;RGB;84342;leds\VLMRGB6112-00\VLMRGB6112-00.pdf;

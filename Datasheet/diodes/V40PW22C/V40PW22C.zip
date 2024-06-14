@@ -1,0 +1,37 @@
+*************************************************
+* Copyright 2020 © Vishay Intertechnology, Inc. *
+* All rights reserved.                          *
+*************************************************
+*Feb 14, 2022
+*DD Vishay semiconduttori italiana SPA
+*davide.dapra@vishay.com
+*File Name: V40PW22C.txt
+*This document is intended as a SPICE modeling guideline and does not
+*constitute a commercial product datasheet. Designers should refer to the
+*appropriate datasheet of the same number for guaranteed specification
+*limits.
+
+
+*Model fit device at 25°C
+*DEVICE=V40PW22C,D
+
+**************************************************** 
+
+.MODEL V40PW22C D
++ IS=2.8612E-6
++ N=1.5284
++ RS=4.9172E-3
++ IKF=.22405
++ CJO=1.2105E-9
++ M=1.2033
++ VJ=5.1525
++ ISR=21.743E-6
++ NR=4.1758
++ BV=218.22
++ IBV=1.0346
++ TT=726E-12
++ XTI=-8
++ Tikf=0.060
++ Trs1=0.00008
+ 
+.ENDS

@@ -1,0 +1,11 @@
+***********************************************************
+Copyright 2020 Vishay Intertechnology, Inc.
+All rights reserved.
+***********************************************************
+*produced by Vishay General Semiconductor Taiwan
+*Allen Su, 2016/3/23
+*   PSPICE
+.model gp02d20 d is = 3E-008 n = 4.39 rs = 0.1668
++ eg = 1.11 xti = 54.48 t_measured = 27
++ cjo = 4.882p vj = 2.284 m = 0.4114 fc = 0.5
++ tt = 4.93261u bv = 2200 ibv = 0.225 af = 1 kf = 0

@@ -1,0 +1,15 @@
+*produced by Vishay General Semiconductor Taiwan
+*Sam Liao, 2023/6/6
+*   PSPICE
+
+
+
+
+
+.MODEL V40DM153C D (
++ISR      = 2.9878e-06     t_measured= 27             
++is       = 0.0001         rs       = 0.0158428      n        = 1.97152        
++xti      = 0              bv       = 165            eg       = 0.74           
++cjo      = 1.769e-09      m        = 0.807673       vj       = 2.314          
++tt       = 7.73585e-10    ikf      = 0              fc       = 0.5            
++ibv      = 1e-06          trs1     = -0.00660607 )

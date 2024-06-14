@@ -1,0 +1,2 @@
+Part Number;Product Image;Zero or Non-zero crossing;Package;Trigger Current IFTMax.(mA);Blocking Voltage VDRM(V);On-state Current(mA);Static dv / dt;Isolation Voltage VISOVRMS;Ambient Temperature Range(°C);Creepage Min.(mm);Working Voltage VIORM(Vpeak);Safety Standard;Image path;Datasheet part;3d model part
+VOM160;Enlarge;Non-Zero;SOP-4;5 to 10;600;70;500.0;3750;-40 to +100;;;UL, cUL, VDE, CQC;image/optocouplers/81349.png;Datasheet/optocouplers/opto-triac/VOM160/VOM160.pdf;Datasheet/optocouplers/opto-triac/VOM160/VOM160.zip

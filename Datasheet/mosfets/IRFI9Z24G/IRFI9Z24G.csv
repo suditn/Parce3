@@ -1,0 +1,2 @@
+Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
+IRFI9Z24G;Enlarge;Single;TO-220 FULLPAK;P;-60.0;20.0;;;;;;;;;0.28;;19.0;5.4;11.0;-8.5;37.0;-2.0;;image/mosfets/91181.png;Datasheet/mosfets/IRFI9Z24G/IRFI9Z24G.pdf;

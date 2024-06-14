@@ -1,0 +1,31 @@
+********************************
+* Copyright:                   *
+* Vishay Intertechnology, Inc. *
+********************************
+
+VS-MBRB1645PbF
+********************************************
+* Model Diode                              *
+********************************************
+
+MODEL part0 D (IS=500N N=1.18295 BV=51 IBV=10M RS=5.9528M CJO=3.23313N VJ=700M
+M=493.226M EG=900M XTI=2 RL=875.289K T_MEASURED=25°C)
+********************************************
+
+.ENDS VS-MBRB1645PbF
+
+Thermal Model Subcircuit
+.SUBCKT VS-MBRB1645PbF 5 1
+
+CTHERM1 5 4 1.33E+00
+CTHERM2 4 3 2.80E+01
+CTHERM3 3 2 5.05E+02
+CTHERM4 2 1 3.67E+02
+
+RTHERM1 5 4 6.94E-01
+RTHERM2 4 3 6.02E-01
+RTHERM1 3 2 1.52E-01
+RTHERM1 2 1 4.19E-02
+
+
+.ENDS VS-MBRB1645PbF

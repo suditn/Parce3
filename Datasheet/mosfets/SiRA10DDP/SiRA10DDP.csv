@@ -1,0 +1,2 @@
+Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
+SiRA10DDP;Enlarge;Single;PowerPAK SO-8;N;30.0;20.0;;;;;;0.005;;;0.0031;11.7;24.1;5.5;2.2;96.0;43.0;1.2;1.3;image/mosfets/77182.png;Datasheet/mosfets/SiRA10DDP/SiRA10DDP.pdf;

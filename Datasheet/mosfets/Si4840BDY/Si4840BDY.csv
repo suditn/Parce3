@@ -1,0 +1,2 @@
+Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
+Si4840BDY;Enlarge;Single;SO-8;N;40.0;20.0;;;;;;0.012;;;0.009;15.0;33.0;6.7;5.1;19.0;6.0;1.0;1.4;image/mosfets/77771.png;Datasheet/mosfets/Si4840BDY/Si4840BDY.pdf;Datasheet/mosfets/Si4840BDY/Si4840BDY.zip

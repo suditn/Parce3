@@ -1,0 +1,11 @@
+*produced by Vishay General Semiconductor Taiwan
+*Allen Su, 2020/9/23
+*   PSPICE
+.subckt vx60m100pw 1 2
+ddio 1 2 legd
+dgr 1 2 grd
+.MODEL legd D IS=1e-5 RS=0.0075 N=1.33 eg=0.74 xti=6.33
++ CJO=4200p M=1.6 vj=0.8 TT=246p BV=110 IBV=249 t_measured = 27
+.MODEL grd D IS=1e-5 RS=0.0075 N=1.33 eg=0.74 xti=6.33
++ CJO=4200p M=1.6 vj=0.8 TT=246p BV=110 IBV=249 t_measured = 27
+.ends

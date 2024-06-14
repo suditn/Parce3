@@ -1,0 +1,3 @@
+Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
+SQ3585EV;Enlarge;N- and p-pair;TSOP-6 Dual;N;20.0;12.0;;;;0.12;;0.077;;;;1.8;;0.3;0.4;3.57;1.67;0.6;0.0;image/mosfets/71158.png;Datasheet/mosfets/SQ3585EV/SQ3585EV.pdf;
+SQ3585EV;Enlarge;N- and p-pair;TSOP-6 Dual;P;-20.0;12.0;;;;0.318;;0.166;;;;2.4;;0.4;0.7;-2.5;1.67;-0.6;0.0;image/mosfets/66897.png;Datasheet/mosfets/SQ3585EV/SQ3585EV.pdf;

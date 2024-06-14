@@ -1,0 +1,9 @@
+***********************************************************
+Copyright 2020 Vishay Intertechnology, Inc.
+All rights reserved.
+***********************************************************
+*produced by Vishay General Semiconductor Taiwan
+*Allen Su, 2020/7/3
+*   PSPICE
+.MODEL v20pw22 D IS=1.27e-4 RS=0.0058 N=2.42 BV=220 IBV=187
++ CJO=1652p M=1.49 VJ=5 TT=246p eg=0.765 xti=7.765 t_measured=27

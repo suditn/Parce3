@@ -1,0 +1,37 @@
+********************************
+* Copyright:                   *
+* Vishay Intertechnology, Inc. *
+********************************
+
+MUR2020
+********************************************
+* SPICE Model Diode                        *
+********************************************
+.SUBCKT MUR2020 ANO CAT
+D1 ANO 1 CAT
+*Define diode model
+.MODEL DMOD D (IS=1.04703N N=1.44364 BV=280 IBV=100P RS=7.57994M
++ CJO=218.618P VJ=700M M=399.212M EG=1.11 RL=17.4782G)
+
+
+********************************************
+
+
+.ENDS MUR2020
+
+
+Thermal Model Subcircuit
+.SUBCKT MUR2020 5 1
+
+CTHERM1 5 4 3.93E+01
+CTHERM2 4 3 2.67E+02
+CTHERM3 3 2 5.20E+02
+CTHERM4 2 1 1.66E+03
+
+RTHERM1 5 4 1.12E+00
+RTHERM2 4 3 1.04E+00
+RTHERM1 3 2 1.57E-01
+RTHERM1 2 1 1.89E-01
+
+
+.ENDS MUR2020

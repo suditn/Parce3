@@ -1,0 +1,11 @@
+**********************************
+* Copyright:                     *
+*   Thomatronik GmbH, Germany    *
+*   info@thomatronik.de          *
+**********************************
+*   SPICE3
+.model fep30g d is = 1.03068E-005 n = 2.79605 rs = 0.00510615
++ eg = 1.22592 xti = 3.45132 tnom = 27
++ cjo = 3.77599E-010 vj = 0.7 m = 0.406515 fc = 0.5
++ tt = 4.93261E-008 bv = 440 ibv = 50 af = 1 kf = 0
+.ends

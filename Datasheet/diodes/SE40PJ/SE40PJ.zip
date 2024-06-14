@@ -1,0 +1,5 @@
+*produced by Vishay General Semiconductor Taiwan
+*Allen Su, 2018/3/1
+*   PSPICE
+.MODEL se40pj D IS=1E-07 RS=0.01588 N=2.0732 BV=660 IBV=3.366
++ CJO=62.61p vj=0.5684 M=0.386 TT=5.426u eg=1.11 xti=3.58 t_measured=27

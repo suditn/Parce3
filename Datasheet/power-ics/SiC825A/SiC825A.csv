@@ -1,0 +1,2 @@
+Part Number;Status;Description;Product Type;VINMin.(V);VINMax.(V);Package;Package Size(W, L, H)(mm);Image path;Datasheet part;3d model part
+SiC825A;New;80 A smart power stage, 4.5 VINto 16 VIN, 3.3 V PWM with diode emulation mode;VRPower (DrMOS);3.0;16.0;PowerPAK® MLP39-65;5.0 x 6.0 x 0.75;63016;Datasheet/power-ics/networking/SiC825A/SiC825A.pdf;

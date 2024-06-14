@@ -1,0 +1,2 @@
+Part Number;Configuration;SingleSupplyMin.;SingleSupplyMax.;DualSupplyMin.;DualSupplyMax.;On-Resistance(Ω);Is(off)Max.;tonMax.;QINJTyp.;XTALK&OIRR;Package;CS(on)(pF);CS(off)(pF);-3 dBBandwidth(MHz);Image path;Datasheet part;3d model part
+DG449;SPDT x 1;7.0;36.0;4.5;20.0;38.0;1.0;146.0;5.0;-80.0;SOT-23-8;18.0;8.0;;73897;Datasheet/analog-switches/DG449/DG449.pdf;

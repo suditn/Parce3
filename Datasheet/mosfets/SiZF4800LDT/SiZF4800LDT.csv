@@ -1,0 +1,2 @@
+Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
+SiZF4800LDT;Enlarge;Dual;PowerPAIR 3 x 3FS;N;80.0;20.0;;;;;;0.0238;;;0.019;7.1;15.0;3.1;2.0;36.0;56.8;1.0;0.95;91268;Datasheet/mosfets/IRFR210, IRFU210, SiHFR210, SiHFU210/IRFR210, IRFU210, SiHFR210, SiHFU210.pdf;

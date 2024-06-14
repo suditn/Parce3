@@ -1,0 +1,5 @@
+*produced by Vishay General Semiconductor Taiwan
+*Allen Su, 2017/10/25
+*   PSPICE
+.MODEL se30paj D  IS=2.3E-008 RS=0.043 N=1.946 BV=660 IBV=1.87
++ CJO=28.71p vj=0.412 M=0.359 TT=3.2u eg=1.11 xti=5.49 t_measured=27

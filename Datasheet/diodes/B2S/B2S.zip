@@ -1,0 +1,10 @@
+**********************************
+* Copyright:                     *
+*   Thomatronik GmbH, Germany    *
+*   info@thomatronik.de          *
+**********************************
+*   SPICE3
+.model b6s d is = 6.27288E-009 n = 1.81857 rs = 0.048808
++ eg = 0.996205 xti = 5 tnom = 27
++ cjo = 1.47139E-011 vj = 0.912482 m = 0.330006 fc = 0.5
++ tt = 4.19272E-006 bv = 660 ibv = 1 af = 1 kf = 0

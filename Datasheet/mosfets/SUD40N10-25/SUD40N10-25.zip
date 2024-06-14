@@ -1,0 +1,32 @@
+*October 16, 2006
+*Doc. ID: 75682, S-62041, Rev. D
+*This document is intended as a SPICE modeling guideline and does not
+*constitute a commercial product data sheet.  Designers should refer to the
+*appropriate data sheet of the same number for guaranteed specification
+*limits.
+.SUBCKT SUD40N10-25 4 1 2
+M1  3 1 2 2 NMOS W=4695929u L=0.35u 
+M2  2 1 2 4 PMOS W=4695929u L=0.50u  
+R1  4 3     RTEMP 120E-4
+CGS 1 2     1500E-12
+DBD 2 4     DBD
+**************************************************************************
+.MODEL  NMOS       NMOS  (LEVEL  = 3               TOX    = 7E-8
++ RS     = 70E-4          RD     = 0               NSUB   = 14.7E16  
++ KP     = 2.6E-5         UO     = 650             
++ VMAX   = 0              XJ     = 5E-7            KAPPA  = 7E-1
++ ETA    = 1E-4           TPG    = 1  
++ IS     = 0              LD     = 0                         
++ CGSO   = 0              CGDO   = 0               CGBO   = 0 
++ TLEV   = 1              BEX    = -1.3            TCV    = 4.1E-3
++ NFS    = 0.8E12         DELTA  = 0.1)
+*************************************************************************
+.MODEL  PMOS       PMOS (LEVEL   = 3               TOX    = 7E-8
++NSUB    = 4E17           TPG    = -1)   
+*************************************************************************
+.MODEL DBD D (CJO=1000E-12 VJ=0.38 M=0.33
++RS=0.1 FC=0.5 IS=1E-12 TT=3.8E-8 N=1 BV=101)
+*************************************************************************
+.MODEL RTEMP R (TC1=10.6E-3 TC2=5.5E-6)
+*************************************************************************
+.ENDS

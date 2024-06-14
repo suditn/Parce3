@@ -1,0 +1,2 @@
+Part Number;Configuration;SingleSupplyMin.;SingleSupplyMax.;DualSupplyMin.;DualSupplyMax.;On-Resistance(Ω);Is(off)Max.;tonMax.;QINJTyp.;XTALK&OIRR;Package;CS(on)(pF);CS(off)(pF);-3 dBBandwidth(MHz);Image path;Datasheet part;3d model part
+DGQ2788A;DPDT x 2;1.8;5.5;;;0.37;0.5;50000.0;-245.0;-61.0;miniQFN-16 (0.55mm);26.0;14.5;338.0;75683;Datasheet/analog-switches/DGQ2788A/DGQ2788A.pdf;

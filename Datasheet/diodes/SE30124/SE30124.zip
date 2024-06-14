@@ -1,0 +1,13 @@
+*produced by Vishay General Semiconductor Taiwan
+*Frank Lin, 2023/8/30
+
+
+
+
+.MODEL se30nj D (
++ISR      = -18.75         T_MEASURED     = 25             is       = 2.21308e-09    
++rs       = 0.0168579      n        = 1.66815        xti      = 5.60666        
++bv       = 660            eg       = 1.11           cjo      = 4.26141e-11    
++m        = 0.351228       vj       = 0.445833       tt       = 7.73585e-10    
++ikf      = 0              fc       = 0.5            ibv      = 0              
++trs1     = 0.00499612 )

@@ -1,0 +1,2 @@
+Part Number;Status;Description;Product type;VinMin.(V);VinMax.(V);Package;PackageSize(W,L,H)(mm);Image path;Datasheet part;3d model part
+SiC631;Active;50A, 4.5V - 24V,  5.0V PWM, VRPower with ZCD, with PS4 mode;VRPower (DrMOS);4.5;24.0;PowerPAK MLP55-31L;5.0 x 5.0 x 0.70;67104;Datasheet/power-ics/computer/SiC631/SiC631.pdf;

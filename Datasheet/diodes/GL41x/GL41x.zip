@@ -1,0 +1,10 @@
+**********************************
+* Copyright:                     *
+*   Thomatronik GmbH, Germany    *
+*   info@thomatronik.de          *
+**********************************
+*   SPICE3
+.model legd d is = 8.3551E-009 n = 2 rs = 0.0781379
++ eg = 1.11 xti = 3 tnom = 27
++ cjo = 1.38325E-011 vj = 1.22806 m = 0.356621 fc = 0.5
++ tt = 3.69946E-006 bv = 1100 ibv = 10 af = 1 kf = 0

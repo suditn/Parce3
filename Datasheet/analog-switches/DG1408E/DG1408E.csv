@@ -1,0 +1,2 @@
+Part Number;Configuration;SingleSupplyMin.;SingleSupplyMax.;DualSupplyMin.;DualSupplyMax.;On-Resistance(Ω);Is(off)Max.;tonMax.;QINJTyp.;XTALK&OIRR;Package;CS(on)(pF);CS(off)(pF);-3 dBBandwidth(MHz);Image path;Datasheet part;3d model part
+DG1408E;8:1 x 1;4.5;24.0;4.5;16.5;3.9;0.55;130.0;-31.0;-58.0;QFN-16 4x4;;13.0;55.0;76516;Datasheet/analog-switches/DG1408E/DG1408E.pdf;

@@ -1,0 +1,9 @@
+***********************************************************
+Copyright 2020 Vishay Intertechnology, Inc.
+All rights reserved.
+***********************************************************
+*produced by Vishay General Semiconductor Taiwan
+*Allen Su, 2015/12/4
+*   PSPICE
+.MODEL muh1pb D  IS=206n RS=44m BV=100 IBV=20.0n
++ CJO=35p  M=0.2586 N=2.17 TT=61.66n eg=1.11 xti=4.33

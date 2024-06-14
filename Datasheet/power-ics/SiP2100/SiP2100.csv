@@ -1,0 +1,2 @@
+Part Number;Status;Description;Type;VinMin.(V);VinMax.(V);Package;PackageSize(W,L,H)(mm);Image path;Datasheet part;3d model part
+SiP2100;Active;5 V, 1 A H-Bridge Motor Driver;Motor Drive;3.8;5.5;SOIC-8;5.0 x 6.0 x 1.5;63949;Datasheet/power-ics/consumer/SiP2100/SiP2100.pdf;

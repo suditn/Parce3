@@ -1,0 +1,14 @@
+*produced by Vishay General Semiconductor Taiwan
+*Frank Lin, 2023/10/4
+
+
+
+
+
+.MODEL se60n3d D (
++ISR      = -18.75         T_MEASURED     = 25             is       = 1.72689e-08    
++rs       = 0.0134291      n        = 1.80349        xti      = 4.73959        
++bv       = 220            eg       = 1.11           cjo      = 7.97027e-11    
++m        = 0.402012       vj       = 0.798557       tt       = 7.73585e-10    
++ikf      = 0              fc       = 0.5            ibv      = 0              
++trs1     = 0.00199202 )

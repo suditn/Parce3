@@ -1,0 +1,7 @@
+*produced by Vishay General Semiconductor Taiwan
+*Allen Su, 2016/6/16
+*   PSPICE
+.model s4pg d is = 4.06E-009 n = 1.67 rs = 0.015
++ eg = 1.11 xti = 3.835
++ cjo = 68.93E-012 vj = 0.2773 m = 0.292 fc = 0.5
++ tt = 6.16576E-006 bv = 400 ibv = 2.8 af = 1 kf = 0

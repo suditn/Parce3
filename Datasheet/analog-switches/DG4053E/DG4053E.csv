@@ -1,0 +1,4 @@
+Part Number;Configuration;SingleSupplyMin.;SingleSupplyMax.;DualSupplyMin.;DualSupplyMax.;On-Resistance(Ω);Is(off)Max.;tonMax.;QINJTyp.;XTALK&OIRR;Package;CS(on)(pF);CS(off)(pF);-3 dBBandwidth(MHz);Image path;Datasheet part;3d model part
+DG4053E;2:1 x 3;3.0;16.0;-5.0;5.0;68.0;1.0;75.0;0.3;-68.0;TSSOP-16;8.5;2.0;930.0;69685;Datasheet/analog-switches/DG4053E/DG4053E.pdf;
+DG4053E;2:1 x 3;3.0;16.0;-5.0;5.0;68.0;1.0;75.0;0.3;-68.0;SO-16 (Narrow) AS;8.5;2.0;930.0;69685;Datasheet/analog-switches/DG4053E/DG4053E.pdf;
+DG4053E;2:1 x 3;3.0;16.0;-5.0;5.0;68.0;1.0;75.0;0.3;-68.0;miniQFN-16 (0.55mm);8.5;2.0;930.0;69685;Datasheet/analog-switches/DG4053E/DG4053E.pdf;

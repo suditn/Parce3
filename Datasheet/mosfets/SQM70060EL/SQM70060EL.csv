@@ -1,0 +1,2 @@
+Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
+SQM70060EL;Enlarge;Single;TO-263;N;100.0;20.0;;;;;;0.008;;;0.0059;;66.0;14.0;12.0;75.0;166.0;1.5;1.92;image/mosfets/62099.png;Datasheet/mosfets/SQM70060EL/SQM70060EL.pdf;Datasheet/mosfets/SQM70060EL/SQM70060EL.zip

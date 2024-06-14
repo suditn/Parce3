@@ -1,0 +1,11 @@
+*produced by Vishay General Semiconductor Taiwan
+*Allen Su, 2017/9/11
+*   PSPICE
+.subckt mbrb30h45ct 1 2
+ddio 1 2 legd
+dgr 1 2 grd
+.MODEL legd D IS=7E-006 RS=0.00572 N=1.35 CJO=3127p M=0.495 vj=0.325
++ TT=246p eg=0.75 xti=6.872 BV=49.5 IBV=29.7 t_measured = 27
+.MODEL grd D IS=7E-006 RS=0.00572 N=1.35 CJO=3127p M=0.495 vj=0.325
++ TT=246p eg=0.75 xti=6.872 BV=49.5 IBV=29.7 t_measured = 27
+.ends

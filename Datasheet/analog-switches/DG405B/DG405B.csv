@@ -1,0 +1,3 @@
+Part Number;Configuration;SingleSupplyMin.;SingleSupplyMax.;DualSupplyMin.;DualSupplyMax.;On-Resistance(Ω);Is(off)Max.;tonMax.;QINJTyp.;XTALK&OIRR;Package;CS(on)(pF);CS(off)(pF);-3 dBBandwidth(MHz);Image path;Datasheet part;3d model part
+DG405B;SPST x 4, NO, two pairs;5.0;36.0;5.0;22.0;23.0;0.5;150.0;60.0;-94.8;Plastic DIP-16;39.0;12.0;;73069;Datasheet/analog-switches/DG405B/DG405B.pdf;
+DG405B;SPST x 4, NO, two pairs;5.0;36.0;5.0;22.0;23.0;0.5;150.0;60.0;-94.8;SO-16 (narrow) AS;39.0;12.0;;73069;Datasheet/analog-switches/DG405B/DG405B.pdf;

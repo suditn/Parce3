@@ -1,0 +1,13 @@
+*produced by Vishay General Semiconductor Taiwan
+*Sam Liao, 2023/4/7
+
+
+
+
+.MODEL V2PM10L D (
++ISR      = 1.30948e-06    T_MEASURED= 27             
++is       = 2.26252e-06    rs       = 0.0927259      n        = 1.33969        
++xti      = 0              bv       = 110            eg       = 0.74           
++cjo      = 3.3e-10        m        = 0.736761       vj       = 3.8            
++tt       = 7.73585e-10    ikf      = 0              fc       = 0.5            
++ibv      = 1e-06          trs1     = 0.000791833 )

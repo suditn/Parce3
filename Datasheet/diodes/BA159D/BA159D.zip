@@ -1,0 +1,11 @@
+***********************************************************
+Copyright 2020 Vishay Intertechnology, Inc.
+All rights reserved.
+***********************************************************
+*produced by Vishay General Semiconductor Taiwan
+*Allen Su, 2019/5/20
+*   PSPICE
+.model ba157 d is = 2.8e-7 n = 2.434 rs = 0.035
++ eg = 1.11 xti = 3.06
++ cjo = 21.8p vj = 1.97 m = 0.6 fc = 0.5
++ tt = 370n bv = 440 ibv = 0.42 af = 1 kf = 0

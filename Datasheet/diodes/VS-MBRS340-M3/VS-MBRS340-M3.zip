@@ -1,0 +1,34 @@
+********************************
+* Copyright:                   *
+* Vishay Intertechnology, Inc. *
+********************************
+
+MBRS340TRPbF
+********************************************
+* SPICE Model Diode                        *
+********************************************
+
+*Define diode model
+.MODEL DMOD D (IS=41.171E-6 N=1.2007 RS=35.944E-3 IKF=.35932 EG=.75 CJO=1.0058E-9
+M=.56402 VJ=.3905 ISR=10.010E-21 NR=4.9950 BV=44.926 IBV=574.76E-6)
+
+
+********************************************
+
+.ENDS MBRS340TRPbF
+
+Thermal Model Subcircuit
+.SUBCKT MBRS340TRPbF 5 1
+
+CTHERM1 5 4 6.42E-01
+CTHERM2 4 3 1.03E+01
+CTHERM3 3 2 1.66E+02
+CTHERM4 2 1 6.78E+03
+
+RTHERM1 5 4 3.34E+00
+RTHERM2 4 3 4.93E+00
+RTHERM1 3 2 2.84E+00
+RTHERM1 2 1 7.75E-01
+
+
+.ENDS MBRS340TRPbF

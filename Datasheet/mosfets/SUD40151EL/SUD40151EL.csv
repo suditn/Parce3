@@ -1,0 +1,2 @@
+Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
+SUD40151EL;Enlarge;Single;DPAK (TO-252);P;-40.0;20.0;;;;;;0.0175;;;0.012;;74.3;12.7;11.1;-42.0;50.0;-1.5;4.3;image/mosfets/66984.png;Datasheet/mosfets/SUD40151EL/SUD40151EL.pdf;Datasheet/mosfets/SUD40151EL/SUD40151EL.zip

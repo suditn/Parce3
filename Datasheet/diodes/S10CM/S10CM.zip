@@ -1,0 +1,9 @@
+***********************************************************
+Copyright 2020 Vishay Intertechnology, Inc.
+All rights reserved.
+***********************************************************
+*produced by Vishay General Semiconductor Taiwan
+*Allen Su, 2018/9/13
+*   PSPICE
+.MODEL s10cg D IS=3.5E-07 RS=0.00345 N=2.095 BV=440 IBV=3.3
++ CJO=174p vj=0.395 M=0.32 TT=12.33u eg=1.11 xti=3.94 t_measured=27

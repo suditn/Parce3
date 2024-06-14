@@ -1,0 +1,26 @@
+4EWH02FN-E
+********************************************
+* Model Diode                              *
+********************************************
+
+MODEL part0 D (IS=850P N=1.43386 BV=210 IBV=100U RS=8.43218M TT=17.7022N
++ CJO=105.662P VJ=700M M=364.857M EG=1.05 XTI=2 RL=299.12G)
+********************************************
+
+.ENDS 4EWH02FN-E
+
+Thermal Model Subcircuit
+.SUBCKT 4EWH02FN-E 5 1
+
+CTHERM1 5 4 1.96E+01
+CTHERM2 4 3 5.46E+01
+CTHERM3 3 2 4.82E+02
+CTHERM4 2 1 4.85E+03
+
+RTHERM1 5 4 5.91E-03
+RTHERM2 4 3 1.33E+00
+RTHERM1 3 2 1.31E+00
+RTHERM1 2 1 5.53E-01
+
+
+.ENDS 4EWH02FN-E

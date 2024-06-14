@@ -1,0 +1,26 @@
+12EWH06FN-E
+********************************************
+* Model Diode                              *
+********************************************
+
+MODEL part0 D (IS=1.15N N=2.40875 BV=650 IBV=100U RS=27.64M CJO=186.226P
++ VJ=700M M=472.019M EG=2.1 XTI=2 RL=70.9835G)
+********************************************
+
+.ENDS 12EWH06FN-E
+
+Thermal Model Subcircuit
+.SUBCKT 12EWH06FN-E 5 1
+
+CTHERM1 5 4 8.76E-04
+CTHERM2 4 3 3.32E-02
+CTHERM3 3 2 1.95E+01
+CTHERM4 2 1 2.46E+02
+
+RTHERM1 5 4 1.00E-07
+RTHERM2 4 3 1.00E-05
+RTHERM1 3 2 9.23E-01
+RTHERM1 2 1 8.64E-01
+
+
+.ENDS 12EWH06FN-E

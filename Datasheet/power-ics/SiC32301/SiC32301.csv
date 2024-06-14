@@ -1,0 +1,2 @@
+Part Number;Status;Description;Product Type;VINMin.(V);VINMax.(V);Package;Package Size(W, L, H)(mm);Image path;Datasheet part;3d model part
+SiC32301;;0.6 mΩ, hot-swap eFuse, IMON, PGD, D_OC report latch on fault;Hot swap, eFuse, slew rate, current report;4.5;25.0;MLP55-32;5 x 5 x 0.8;63094;Datasheet/power-ics/industrial/SiC32301/SiC32301.pdf;

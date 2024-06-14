@@ -1,0 +1,21 @@
+**********************************
+* Model created by               *
+*   Uni.Dipl.-Ing. Arpad Buermen *
+*   arpad.burmen@ieee.org        *
+* Copyright:                     *
+*   Thomatronik GmbH, Germany    *
+*   info@thomatronik.de          *
+**********************************
+* May 2001
+*   SPICE3
+* Forward direction: 1 -> 2
+.subckt sb3h100 1 2
+ddio 1 2 legd
+dgr 1 2 grd
+.model legd d is = 3.41542E-008 n = 1.75209 rs = 0.00724936
++ eg = 1.35816 xti = 0.5
++ cjo = 3.50706E-010 vj = 0.526428 m = 0.477227 fc = 0.5
++ tt = 1.4427E-009 bv = 110 ibv = 2.5 af = 1 kf = 0
+.model grd d is = 5.52848E-007 n = 1.52499 rs = 0.0460489
++ eg = 0.902411 xti = 0.500148
+.ends

@@ -1,0 +1,2 @@
+Part Number;Status;Description;Product type;VinMin.(V);VinMax.(V);Package;PackageSize(W,L,H)(mm);Image path;Datasheet part;3d model part
+SiC620A;Active;60 A power stage, 4.5 VINto 18 VIN, 3.3 V PWM with ZCD mode;VRPower (DrMOS);4.5;18.0;PowerPAK MLP55-31L;5.0 x 5.0 x 0.75;62922;Datasheet/power-ics/computer/SiC620A/SiC620A.pdf;

@@ -1,0 +1,7 @@
+*produced by Vishay General Semiconductor Taiwan
+*Allen Su, 2020/10/5
+*   PSPICE
+.model mse07pb d is = 5e-8 n = 2.06 rs = 0.125
++ eg = 1.11 xti = 0.3 t_measured = 27
++ cjo = 11p vj = 0.184 m = 0.26 fc = 0.5
++ tt = 1924n bv = 110 ibv = 0.12 af = 1 kf = 0

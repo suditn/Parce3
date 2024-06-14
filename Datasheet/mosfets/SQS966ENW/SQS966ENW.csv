@@ -1,0 +1,2 @@
+Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
+SQS966ENW;Enlarge;Dual;PowerPAK 1212-8W;N;60.0;20.0;;;;;;0.048;;;0.036;;6.2;1.4;0.8;6.0;27.8;1.5;0.9;image/mosfets/77017.png;Datasheet/mosfets/SQS966ENW/SQS966ENW.pdf;

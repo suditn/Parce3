@@ -1,0 +1,26 @@
+10CWH02FN-E
+********************************************
+* Model Diode                              *
+********************************************
+
+MODEL part0 D (IS=850P N=1.42615 BV=230 IBV=100U RS=8.48473M TT=17.701N
++ CJO=105.662P VJ=700M M=364.857M EG=1.05 XTI=2 RL=299.12G)
+********************************************
+
+.ENDS 10CWH02FN-E
+
+Thermal Model Subcircuit
+.SUBCKT 10CWH02FN-E 5 1
+
+CTHERM1 5 4 3.94E+00
+CTHERM2 4 3 5.50E+01
+CTHERM3 3 2 4.85E+02
+CTHERM4 2 1 4.86E+03
+
+RTHERM1 5 4 1.19E-03
+RTHERM2 4 3 1.33E+00
+RTHERM1 3 2 1.31E+00
+RTHERM1 2 1 5.55E-01
+
+
+.ENDS 10CWH02FN-E

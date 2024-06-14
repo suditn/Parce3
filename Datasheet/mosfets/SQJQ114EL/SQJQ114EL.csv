@@ -1,0 +1,2 @@
+Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
+SQJQ114EL;Enlarge;Single;PowerPAK 8 x 8L;N;100.0;20.0;;;;;;0.0062;;;0.0055;;102.0;20.0;14.0;136.0;277.0;1.4;1.1;image/mosfets/77320.png;Datasheet/mosfets/SQJQ114EL/SQJQ114EL.pdf;

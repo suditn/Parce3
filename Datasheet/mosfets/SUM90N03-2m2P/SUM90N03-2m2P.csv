@@ -1,0 +1,2 @@
+Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
+SUM90N03-2m2P;Enlarge;Single;D2PAK (TO-263);N;30.0;20.0;;;;;;0.0027;;;0.0022;81.5;171.0;34.0;29.0;90.0;250.0;1.5;1.4;image/mosfets/67535.png;Datasheet/mosfets/SUM90N03-2m2P/SUM90N03-2m2P.pdf;Datasheet/mosfets/SUM90N03-2m2P/SUM90N03-2m2P.zip

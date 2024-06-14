@@ -1,0 +1,52 @@
+********************************
+* Copyright:                   *
+* Vishay Intertechnology, Inc. *
+********************************
+* Technology: DISCRETE DIODE
+* Device: Diode S07B
+* Description:
+* Type: Typical (nom)
+* Model established: 20.11.2003, by Harald Stix, VSA/ASSP-VOE
+* Wafer:
+* Remarks:
+* Revision: 20.11.2003
+* Simulation Model: 
+* Simulator: PSPICE
+
+*BeginParam
+*IS=6.1970E-9
+*N=1.8945
+*RS=47.725E-3
+*IKF=1.0000E3
+*XTI=3
+*EG=1.1100
+*CJO=8.8495E-12
+*M=.32179
+*VJ=.3905
+*FC=.5
+*ISR=1.3000E-9
+*NR=1
+*BV=100.77
+*IBV=10
+*TT=2.9596E-6
+*EndParam
+
+*DEVICE=S07B,D
+
+* S07B D model
+* created using Parts release 7.1 on 11/20/03
+* Parts is a MicroSim product.
+.MODEL S07B D
++ IS=6.1970E-9
++ N=1.8945
++ RS=47.725E-3
++ IKF=1.0000E3
++ CJO=8.8495E-12
++ M=.32179
++ VJ=.3905
++ ISR=1.3000E-9
++ NR=1
++ BV=100.77
++ IBV=10
++ TT=2.9596E-6
+*$

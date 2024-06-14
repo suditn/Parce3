@@ -1,0 +1,14 @@
+*produced by Vishay General Semiconductor Taiwan
+*Sam Liao, 2023/9/14
+*   PSPICE
+
+
+
+
+.MODEL V10PM6 D (
++ISR      = 7.09074e-06    t_measured= 27             
++is       = 6.3229e-07     rs       = 0.00879995     n        = 1.15696        
++xti      = 3.81684        bv       = 66             eg       = 0.74           
++cjo      = 3.134e-09      m        = 2.38976        vj       = 12.8           
++tt       = 7.73585e-10    ikf      = 0              fc       = 0.5            
++ibv      = 1e-06          trs1     = 0.00513429 )

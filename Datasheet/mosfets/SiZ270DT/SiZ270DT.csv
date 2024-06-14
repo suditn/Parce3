@@ -1,0 +1,3 @@
+Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
+SiZ270DT;Enlarge;Dual;PowerPAIR 3 x 3S;N;100.0;20.0;;;;;;0.0517;;;0.0377;6.14;13.3;2.9;1.4;19.5;33.0;1.1;1.3;91214;Datasheet/mosfets/IRFP254/IRFP254.pdf;
+SiZ270DT;Enlarge;Dual;PowerPAIR 3 x 3S;N;100.0;20.0;;;;;;0.0541;;;0.0394;6.2;13.3;2.8;1.6;19.1;33.0;1.1;1.0;91215;Datasheet/mosfets/IRFP260/IRFP260.pdf;

@@ -1,0 +1,2 @@
+Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
+Si8816EDB;Enlarge;Single;MICRO FOOT 0.8 x 0.8;N;30.0;12.0;;;;0.142;;0.116;;;0.109;2.4;4.4;0.35;0.55;2.3;0.9;0.6;4.0;image/mosfets/91642.png;Datasheet/mosfets/Si8816EDB/Si8816EDB.pdf;

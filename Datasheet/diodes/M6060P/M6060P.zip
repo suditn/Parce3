@@ -1,0 +1,16 @@
+**********************************
+* Copyright:                     *
+*   Thomatronik GmbH, Germany    *
+*   info@thomatronik.de          *
+**********************************
+*   SPICE3
+.subckt m6060p 1 2
+ddio 1 2 legd
+dgr 1 2 grd
+.model legd d is = 9.99953E-005 n = 1.21496 rs = 0.00899875
++ eg = 0.559619 xti = 4.99845 tnom = 27
++ cjo = 3.30495E-009 vj = 0.7 m = 0.516415 fc = 0.5
++ tt = 2.21967E-013 bv = 66 ibv = 200 af = 1 kf = 0
+.model grd d is = 3.05964E-010 n = 0.897057 rs = 0.00855635
++ eg = 0.601784 xti = 0.255971 tnom = 27
+.ends

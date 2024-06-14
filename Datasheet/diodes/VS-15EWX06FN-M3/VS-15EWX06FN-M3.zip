@@ -1,0 +1,26 @@
+15EWX06FN-E
+********************************************
+* Model Diode                              *
+********************************************
+
+MODEL part0 D (IS=3.9N N=2.88781 BV=660 IBV=100U RS=21.6001M CJO=224.466P
+VJ=700M M=480.709M EG=2.5 XTI=2 RL=30.2646G)
+********************************************
+
+.ENDS 15EWX06FN-E
+
+Thermal Model Subcircuit
+.SUBCKT 15EWX06FN-E 5 1
+
+CTHERM1 5 4 2.49E+01
+CTHERM2 4 3 1.35E+02
+CTHERM3 3 2 3.96E+02
+CTHERM4 2 1 4.97E+02
+
+RTHERM1 5 4 9.32E-01
+RTHERM2 4 3 6.91E-01
+RTHERM1 3 2 1.19E-01
+RTHERM1 2 1 5.68E-02
+
+
+.ENDS 15EWX06FN-E

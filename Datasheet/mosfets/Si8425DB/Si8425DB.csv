@@ -1,0 +1,2 @@
+Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
+Si8425DB;Enlarge;Single;MICRO FOOT 1.6 x 1.6;P;-20.0;10.0;;;0.04;0.027;;0.023;;;;36.0;73.0;5.2;7.3;9.3;2.7;0.4;15.0;image/mosfets/92354.png;Datasheet/mosfets/Si8425DB/Si8425DB.pdf;

@@ -1,0 +1,3 @@
+Part Number;Status;Description;Product type;VinMin.(V);VinMax.(V);Package;PackageSize(W,L,H)(mm);Image path;Datasheet part;3d model part
+SiP4282A;Active;1.5 V to 5.5 V, 105 mΩ, 100 µs rise time;Slew rate;1.5;5.5;TDFN4;1.2 x 1.6 x 0.5;65740;Datasheet/power-ics/computer/SiP4282A/SiP4282A.pdf;
+SiP4282A;Active;1.5 V to 5.5 V, 105 mΩ, 100 µs rise time;Slew rate;1.5;5.5;PowerPAK SC-75-6;0.75 x 1.6 x 0.5;65740;Datasheet/power-ics/computer/SiP4282A/SiP4282A.pdf;

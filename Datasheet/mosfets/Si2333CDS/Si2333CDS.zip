@@ -1,0 +1,35 @@
+*August 11, 2008
+*Doc. ID: 68515, S-81824, Rev. A
+*This document is intended as a SPICE modeling guideline and does not
+*constitute a commercial product data sheet.  Designers should refer to the
+*appropriate data sheet of the same number for guaranteed specification
+*limits.
+.SUBCKT Si2333CDS D G S
+M1  3  GX S S PMOS W=1485600u L=0.250u 
+M2  S  GX S D NMOS W=1485600u L=0.434u 
+RG  G  GX     4
+R1  D  3      RTEMP 1.2E-2
+CGS G  S      200E-12
+DBD D  S      DBD
+************************************************************ 
+.MODEL  PMOS         PMOS (LEVEL  = 3        TOX    = 1.7E-8
++ RS     = 1E-2            RD     = 0        NSUB   = 1.5E16   
++ KP     = 8E-6            UO     = 400             
++ VMAX   = 0               XJ     = 5E-7     KAPPA  = 4E-3
++ ETA    = 1E-4            TPG    = -1  
++ IS     = 0               LD     = 0                 
++ CGSO   = 0               CGDO   = 0        CGBO   = 0 
++ TLEV   = 1               BEX    = -1.5     TCV    = 1.7E-3
++ NFS    = 0.8E12          DELTA  = 0.1)
+************************************************************* 
+.MODEL  NMOS         NMOS (LEVEL  = 3        TOX    = 1.7E-8
++NSUB    = 1.3E17          IS     = 0        TPG    = -1)   
+************************************************************* 
+.MODEL DBD D (CJO=190E-12 VJ=0.38 M=0.38
++FC=0.5 TT=1.71e-08 TREF=25 BV=12.1
++RS=3.430e-02 N=1.175 IS=9.386e-09 IK=1000
++EG=5.703e-01 XTI=8.143 TRS=9.438e-13)
+************************************************************* 
+.MODEL RTEMP R (TC1=5E-3 TC2=5.5E-6)
+************************************************************* 
+.ENDS

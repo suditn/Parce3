@@ -1,0 +1,15 @@
+***********************************************************
+Copyright 2020 Vishay Intertechnology, Inc.
+All rights reserved.
+***********************************************************
+*produced by Vishay General Semiconductor Taiwan
+*Allen Su, 2015/10/5
+*   PSPICE
+.subckt v20150s 1 2
+ddio 1 2 legd
+dgr 1 2 grd
+.MODEL legd D  eg=0.71 xti=2 IS=147u RS=24.2m BV=150 IBV=250u
++ CJO=1.19n  M=0.67 N=1.95 TT=356p t_measured = 27
+.MODEL grd D  eg=0.71 xti=2 IS=147u RS=24.2m BV=150 IBV=250u
++ CJO=1.19n  M=0.67 N=1.95 TT=356p t_measured = 27
+.ends

@@ -1,0 +1,33 @@
+*Apr 19, 2010
+*Doc. ID: 66646, ECN S10-0918, Rev. A
+*This document is intended as a SPICE modeling guideline and does not
+*constitute a commercial product data sheet. Designers should refer to the
+*appropriate data sheet of the same number for guaranteed specification
+*limits.
+.SUBCKT Si4228DY D G S 
+M1 3 GX S S NMOS W= 1366633u L= 0.25u 
+M2 S GX S D PMOS W= 1366633u L= 2.323e-07 
+R1 D 3 8.883e-03 4.423e-03 6.515e-06 
+CGS GX S 5.121e-10 
+CGD GX D 2.237e-11 
+RG G GY 12.5
+RTCV 100 S 1e6 -3.918e-04 -2.264e-06 
+ETCV GX GY 100 200 1 
+ITCV S 100 1u 
+VTCV 200 S 1 
+DBD S D DBD 
+**************************************************************** 
+.MODEL NMOS NMOS ( LEVEL = 3 TOX = 3e-8 
++ RS = 4.200e-03 KP = 2.622e-05 NSUB = 1.011e+17 
++ KAPPA = 1.000e-06 ETA = 9.366e-04 NFS = 6.249e+11 
++ LD = 0 IS = 0 TPG = 1) 
+*************************************************************** 
+.MODEL PMOS PMOS ( LEVEL = 3 TOX = 3e-8 
++NSUB = 4.639e+16 IS = 0 TPG = -1 ) 
+**************************************************************** 
+.MODEL DBD D ( 
++FC = 0.1 TT = 8.720e-09 TREF = 25 BV = 26 
++RS = 1.302e-02 N = 1.508e+00 IS = 4.720e-08 
++EG = 9.745e-01 XTI = 2.126e+00 TRS = 7.193e-04 
++CJO = 2.959e-10 VJ = 6.215e-01 M = 3.697e-01 ) 
+.ENDS 

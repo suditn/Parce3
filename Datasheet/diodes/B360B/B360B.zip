@@ -1,0 +1,5 @@
+*produced by Vishay General Semiconductor Taiwan
+*Allen Su, 2019/9/23
+*   PSPICE
+.MODEL b360b D IS=1e-5 RS=0.021 N=1.6 BV=66 IBV=23.8
++ CJO=500p M=0.45 vj=0.3 TT=246p eg=0.71 xti=10 t_measured=27

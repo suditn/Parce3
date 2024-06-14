@@ -1,0 +1,5 @@
+Series;Product Image;Package (JEDEC®) Code;VRRM(V);IRat VR(nA at V);VFat IF(V at mA);trr(ns);Circuit Configuration;AEC-Q101 Qualified;Image path;Datasheet part;3d model part
+BAV200, BAV201, BAV202, BAV203;Enlarge;QuadroMELF (SOD-80);250.0;100 at 200;1 at 100;50.0;Single;No;image/diodes/85544.png;Datasheet/diodes/switching/BAV200, BAV201, BAV202, BAV203/BAV200, BAV201, BAV202, BAV203.pdf;
+BAV200, BAV201, BAV202, BAV203;Enlarge;QuadroMELF (SOD-80);60.0;100 at 50;1 at 100;50.0;Single;No;image/diodes/85544.png;Datasheet/diodes/switching/BAV200, BAV201, BAV202, BAV203/BAV200, BAV201, BAV202, BAV203.pdf;
+BAV200, BAV201, BAV202, BAV203;Enlarge;QuadroMELF (SOD-80);120.0;100 at 100;1 at 100;50.0;Single;No;image/diodes/85544.png;Datasheet/diodes/switching/BAV200, BAV201, BAV202, BAV203/BAV200, BAV201, BAV202, BAV203.pdf;
+BAV200, BAV201, BAV202, BAV203;Enlarge;QuadroMELF (SOD-80);200.0;100 at 150;1 at 100;50.0;Single;No;image/diodes/85544.png;Datasheet/diodes/switching/BAV200, BAV201, BAV202, BAV203/BAV200, BAV201, BAV202, BAV203.pdf;

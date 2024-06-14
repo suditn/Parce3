@@ -1,0 +1,2 @@
+Part Number;Status;Description;Product Type;VINMin.(V);VINMax.(V);Package;Package Size(W, L, H)(mm);Image path;Datasheet part;3d model part
+SiC675A;Active;60 A smart power stage, 4.5 VINto 18 VIN, 3.3 V PWM with diode emulation mode;VRPower (DrMOS);4.5;18.0;PowerPAK MLP55-30L;5.0 x 5.0 x 0.60;62089;Datasheet/power-ics/networking/SiC675A/SiC675A.pdf;

@@ -1,0 +1,34 @@
+*Sep 28, 2009
+*Doc. ID: 65482, ECN S09-1935, Rev. A
+*File Name: Si7288DP_PS.txt and Si7288DP_PS.lib
+*This document is intended as a SPICE modeling guideline and does not
+*constitute a commercial product data sheet.  Designers should refer to the
+*appropriate data sheet of the same number for guaranteed specification
+*limits.
+.SUBCKT Si7288DP D G S 
+M1 3 GX S S NMOS W= 1457297u L= 0.25u 
+M2 S GX S D PMOS W= 1457297u L= 2.236e-07 
+R1 D 3 8.713e-03 TC=9.355e-03 2.118e-05 
+CGS GX S 3.366e-10 
+CGD GX D 1.166e-11 
+RG G GY 2.7 
+RTCV 100 S 1e6 TC=6.955e-05 -1.012e-08 
+ETCV GX GY 100 200 1 
+ITCV S 100 1u 
+VTCV 200 S 1 
+DBD S D DBD 
+**************************************************************** 
+.MODEL NMOS NMOS ( LEVEL = 3 TOX = 5e-8 
++ RS = 6.269e-03 KP = 1.95e-05 NSUB = 8.192e+16 
++ KAPPA = 3.977e-03 ETA = 5.704e-07 NFS = 6.171e+11 
++ LD = 0 IS = 0 TPG = 1) 
+*************************************************************** 
+.MODEL PMOS PMOS ( LEVEL = 3 TOX = 5e-8 
++NSUB = 2.253e+16 IS = 0 TPG = -1 ) 
+**************************************************************** 
+.MODEL DBD D ( 
++FC = 0.1 TT = 1.098e-08 T_MEASURED = 25 BV = 42 
++RS = 5.985e-03 N = 1.158e+00 IS = 3.500e-11 
++EG = 1.158e+00 XTI = 4.941e-01 TRS1 = 5.074e-04 
++CJO = 3.539e-10 VJ = 8.210e-01 M = 5.025e-01 ) 
+.ENDS 

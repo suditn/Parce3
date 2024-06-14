@@ -1,0 +1,5 @@
+*produced by Vishay General Semiconductor Taiwan
+*Allen Su, 2020/10/12
+*   PSPICE
+.MODEL v35pw10 D IS=7e-5 RS=0.01 N=1.44 BV=110 IBV=330
++ CJO=4200p M=1.63 vj=0.8 TT=246p eg=0.71 xti=7.34 t_measured=27

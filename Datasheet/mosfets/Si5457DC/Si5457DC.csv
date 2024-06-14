@@ -1,0 +1,2 @@
+Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
+Si5457DC;Enlarge;Single;1206-8 ChipFET;P;-20.0;12.0;;;;0.056;;0.036;;;;12.5;25.0;2.0;4.0;-6.0;5.7;-0.6;4.6;image/mosfets/63894.png;Datasheet/mosfets/Si5457DC/Si5457DC.pdf;Datasheet/mosfets/Si5457DC/Si5457DC.zip

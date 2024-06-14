@@ -1,0 +1,7 @@
+*produced by Vishay General Semiconductor Taiwan
+*Allen Su, 2016/4/20
+*   PSPICE
+.model 1n4935 d is = 5.97E-008 n = 2.174 rs = 0.068
++ eg = 1.11 xti = 3 t_measured = 27
++ cjo = 11.45E-012 vj = 0.8 m = 0.6 fc = 0.5
++ tt = 288.54E-009 bv = 200 ibv = 0.25 af = 1 kf = 0

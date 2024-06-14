@@ -1,0 +1,2 @@
+Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
+SUD50N04-8m8P;;Single;DPAK (TO-252);N;40.0;20.0;;;;;;0.0105;;;0.0088;16.0;37.0;6.5;4.5;50.0;48.1;1.5;5.5;image/mosfets/79225.png;Datasheet/mosfets/SUD50N04-8m8P/SUD50N04-8m8P.pdf;Datasheet/mosfets/SUD50N04-8m8P/SUD50N04-8m8P.zip

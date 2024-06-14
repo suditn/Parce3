@@ -1,0 +1,31 @@
+********************************
+* Copyright:                   *
+* Vishay Intertechnology, Inc. *
+********************************
+
+VS-8ETU04PbF
+********************************************
+* Model Diode                              *
+********************************************
+
+MODEL part0 D (IS=250P N=1.66279 BV=450 IBV=100U RS=11.7946M TT=31.8684N
++ CJO=110.953P VJ=700M M=300M EG=1.26 XTI=2 RL=2.8342G T_MEASURED=25)
+********************************************
+
+.ENDS VS-8ETU04PbF
+
+Thermal Model Subcircuit
+.SUBCKT VS-8ETU04PbF-E 5 1
+
+CTHERM1 5 4 4.21E+01
+CTHERM2 4 3 2.46E+02
+CTHERM3 3 2 3.32E-02
+CTHERM4 2 1 1.41E+03
+
+RTHERM1 5 4 1.17E+00
+RTHERM2 4 3 6.70E-01
+RTHERM1 3 2 1.00E-05
+RTHERM1 2 1 1.61E-01
+
+
+.ENDS VS-8ETU04PbF

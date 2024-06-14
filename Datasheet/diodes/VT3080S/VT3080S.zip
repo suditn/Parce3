@@ -1,0 +1,9 @@
+***********************************************************
+Copyright 2020 Vishay Intertechnology, Inc.
+All rights reserved.
+***********************************************************
+*produced by Vishay General Semiconductor Taiwan
+*Allen Su, 2016/5/19
+*   PSPICE
+.MODEL vt3080s D  IS=5.25u RS=11m BV=80 IBV=70u
++ CJO=2.297n  M=0.648 N=1.17 TT=246p eg=0.71 xti=1.635 t_measured=27

@@ -1,0 +1,2 @@
+Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
+SUM110P08-11L;;Single;D2PAK (TO-263);P;-80.0;20.0;;;;;;0.0145;;;0.0112;85.0;180.0;35.0;42.0;110.0;375.0;1.0;3.6;image/mosfets/63039.png;Datasheet/mosfets/SUM110P08-11L/SUM110P08-11L.pdf;Datasheet/mosfets/SUM110P08-11L/SUM110P08-11L.zip

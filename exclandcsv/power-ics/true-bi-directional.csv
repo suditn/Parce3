@@ -1,0 +1,5 @@
+Part Number;Status;Description;Slew Rate Time(µs);On Delay Time(µs);VINMin.(V);VINMax.(V);RDS(on)at VINMax.(mΩ);IQat VINMin.(µA);IQat VINMax.(µA);Cont. Current(A);Package;Package Size(W, L, H)(mm);Image path;Datasheet part;3d model part
+SiP32101;Active;2.3 V to 5.5 V, 6.5 mΩ, 7 A, bidirectional switch, EN active low with internal pull-down resistor;1 000;500;2.3;5.5;5.1;0.11;0.14;7;WCSP12;1.3 x 1.7 x 0.5;78628;Datasheet/power-ics/true-bi-directional/SiP32101/SiP32101.pdf;None
+SiP32102;Active;2.3 V to 5.5 V, 6.5 mΩ, 7 A, bidirectional switch, EN active high with internal pull-down resistor;1 000;500;2.3;5.5;5.1;0.11;0.14;7;WCSP12;1.3 x 1.7 x 0.5;78628;Datasheet/power-ics/true-bi-directional/SiP32102/SiP32102.pdf;None
+SiP32103;Active;2.3 V to 5.5 V, 6.5 mΩ, 7 A, bidirectional switch, EN active low with internal pull-up resistor;1 000;800;2.3;5.5;5.1;4;8.2;7;WCSP12;1.3 x 1.7 x 0.5;78628;Datasheet/power-ics/true-bi-directional/SiP32103/SiP32103.pdf;None
+SiP32104;Active;2.3 V to 5.5 V, 6.5 mΩ, 7 A, bidirectional switch, EN active low;1 000;800;2.3;5.5;5.1;0.11;0.14;7;WCSP12;1.3 x 1.7 x 0.5;78628;Datasheet/power-ics/true-bi-directional/SiP32104/SiP32104.pdf;None

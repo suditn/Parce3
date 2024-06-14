@@ -1,0 +1,28 @@
+********************************
+* Copyright:                   *
+* Vishay Intertechnology, Inc. *
+********************************
+
+VS-8EWF06SPbF
+********************************************
+* Model Diode *
+********************************************
+MODEL part0 D (IS=2.35155P N=1.43423 BV=650 IBV=200U RS=13.6998M TT=178N
+CJO=52.2127P VJ=8.5867 M=300M EG=1.21 XTI=2 RL=11.7567MEG T_MEASURED=25)
+********************************************
+.ENDS VS-8EWF06SPbF
+
+Thermal Model Subcircuit
+.SUBCKT VS-8EWF06SPbF 5 1
+
+CTHERM1 5 4 6.71E+01
+CTHERM2 4 3 3.33E+02
+CTHERM3 3 2 7.94E+02
+CTHERM4 2 1 1.06E+03
+
+RTHERM1 5 4 1.13E+00
+RTHERM2 4 3 1.00E+00
+RTHERM1 3 2 2.40E-01
+RTHERM1 2 1 1.21E-01
+
+.ENDS VS-8EWF06SPbF

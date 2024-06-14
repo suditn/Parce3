@@ -1,0 +1,2 @@
+Part Number;Status;Description;Product Type;VINMin.(V);VINMax.(V);Package;Package Size(W, L, H)(mm);Image path;Datasheet part;3d model part
+SiC454;New;4.5 V to 20 V input 12 A microBUCK DC/DC converter with PMBus;microBUCK;4.5;20.0;PowerPAK MLP29-55;5.0 x 5.0 x 0.75;63042;Datasheet/power-ics/industrial/SiC454/SiC454.pdf;

@@ -1,0 +1,2 @@
+Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
+SiDR570EP;Enlarge;Single;PowerPAK SO-8DC;N;150.0;20.0;;;;;;;;0.0085;0.0079;;46.9;18.1;4.2;90.9;150.0;2.0;1.1;image/mosfets/91454.png;Datasheet/mosfets/SiDR570EP/SiDR570EP.pdf;

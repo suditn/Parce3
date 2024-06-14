@@ -1,0 +1,5 @@
+*produced by Vishay General Semiconductor Taiwan
+*Allen Su, 2015/9/11
+*pspice
+.MODEL BYM07-400 D IS=33.1u RS=0.142 BV=400 IBV=0.062
++ CJO=20.9p vj=0.8 eg=1.11 xti=3 M=0.3 N=4.18 TT=72.0n

@@ -1,0 +1,53 @@
+********************************
+* Copyright:                   *
+* Vishay Intertechnology, Inc. *
+********************************
+****************** 
+*  Model for Vishay Schottky diode SL02
+*  model is valid for 25°C to 125°C and If less than 5A
+*  Hartmut Harmel, March 2008
+*****************
+.SUBCKT SL02 1 2
+.MODEL SD D (
++ N=0.980
++ IS=7.4E-7
++ RS=0.044
++ trs1=0.007
++ IKF= 14.1
++ CJO=160p
++ VJ=0.398
++ M=.45
++ FC=0.5
++ TT=1E-8
++ BV=26
++ ISR=7e-6
++ NR=1.42
++ IBV=0.001
++ KF=0
++ EG=0.64
++ XTI=2
++ TBV1=0.0005
++ AF=1 )
+
+.model AD D (
++ N=1.21
++ IS=1.5n
++ RS=0.085
++ trs1=-0.007
++ IKF= 0.027
++ EG=1.1
++ CJO=68p
++ VJ=0.5
++ M=.5
++ FC=0.5
++ TT=10E-8
++ BV=22
++ TBV1=0.0005
++ ISR=6.4e-10
++ NR=1200
++ IBV=0.001
++ KF=0
++ AF=1 )
+
+D1 1 2 SD
+D3 1 2 AD

@@ -1,0 +1,2 @@
+Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
+SQM100N04-2m7;Enlarge;Single;TO-263;N;40.0;20.0;;;;;;;;;0.0027;;95.5;25.5;14.7;100.0;157.0;2.5;1.48;image/mosfets/63811.png;Datasheet/mosfets/SQM100N04-2m7/SQM100N04-2m7.pdf;Datasheet/mosfets/SQM100N04-2m7/SQM100N04-2m7.zip

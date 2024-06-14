@@ -1,0 +1,3 @@
+Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
+Si1016CX;Enlarge;N&P PAIR;SC89-6;P;-20.0;8.0;;2.4;1.44;1.038;;0.756;;;;1.65;;0.2;0.26;0.6;0.22;0.4;12.0;image/mosfets/68645.png;Datasheet/mosfets/Si1016CX/Si1016CX.pdf;Datasheet/mosfets/Si1016CX/Si1016CX.zip
+Si1016CX;Enlarge;N&P PAIR;SC89-6;N;20.0;8.0;;0.76;0.546;0.456;;0.396;;;;1.3;;0.15;0.13;0.6;0.22;0.4;12.2;image/mosfets/63653.png;Datasheet/mosfets/Si1016CX/Si1016CX.pdf;Datasheet/mosfets/Si1016CX/Si1016CX.zip

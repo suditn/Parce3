@@ -1,0 +1,2 @@
+Part Number;Status;Description;Product Type;VINMin.(V);VINMax.(V);Package;Package Size(W, L, H)(mm);Image path;Datasheet part;3d model part
+SiC32309;;0.6 mΩ, hot-swap eFuse, IMON, GOK, D_OC report latch on fault;Hot swap, eFuse, slew rate, current report;4.5;25.0;PowerPAK MLP32-55;5 x 5 x 1;62376;Datasheet/power-ics/industrial/SiC32309/SiC32309.pdf;

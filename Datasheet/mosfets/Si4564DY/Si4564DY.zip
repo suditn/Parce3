@@ -1,0 +1,66 @@
+*May 03, 2010
+*Doc. ID: 65956, ECN S10-1079, Rev. B
+*This document is intended as a SPICE modeling guideline and does not
+*constitute a commercial product data sheet. Designers should refer to the
+*appropriate data sheet of the same number for guaranteed specification
+*limits.
+.SUBCKT Si4564DY D1 G1 S1 D2 G2 S2 
+X1 D1 G1 S1 Si4564DYN
+X2 D2 G2 S2 Si4564DYP
+.ENDS Si4564DY
+*N-CH
+.SUBCKT Si4564DYN D G S
+M1 3 GX S S NMOS W= 1830621u L= 0.25u 
+M2 S GX S D PMOS W= 1830621u L= 2.882e-07 
+R1 D 3 1.266e-02 5.273e-03 1.330e-05 
+CGS GX S 5.837e-10 
+CGD GX D 6.749e-12 
+RG G GY 1.5
+RTCV 100 S 1e6 -2.614e-04 -1.051e-06 
+ETCV GX GY 100 200 1 
+ITCV S 100 1u 
+VTCV 200 S 1 
+DBD S D DBD 
+**************************************************************** 
+.MODEL NMOS NMOS ( LEVEL = 3 TOX = 5e-8 
++ RS = 5.782e-04 KP = 1.129e-05 NSUB = 6.372e+16 
++ KAPPA = 6.959e-03 ETA = 1.604e-04 NFS = 5.590e+11 
++ LD = 0 IS = 0 TPG = 1) 
+*************************************************************** 
+.MODEL PMOS PMOS ( LEVEL = 3 TOX = 5e-8 
++NSUB = 1.597e+16 IS = 0 TPG = -1 ) 
+**************************************************************** 
+.MODEL DBD D ( 
++FC = 0.1 TT = 1.317e-08 TREF = 25 BV = 42 
++RS = 8.036e-03 N = 1.091e+00 IS = 1.697e-11 
++EG = 1.129e+00 XTI = 2.000e-01 TRS = 4.951e-04 
++CJO = 4.324e-10 VJ = 8.967e-01 M = 5.384e-01 ) 
+.ENDS Si4564DYN
+*P-CH
+.SUBCKT Si4564DYP D G S
+M1 3 GX S S PMOS W= 5460000u L= 0.25u 
+M2 S GX S D NMOS W= 5460000u L= 3.864e-07 
+R1 D 3 1.596e-03 5.000e-01 5.000e-04 
+CGS GX S 8.747e-10 
+CGD GX D 2.758e-11 
+RG G GY 6.4
+RTCV 100 S 1e6 1.996e-04 5.996e-07 
+ETCV GY GX 100 200 1 
+ITCV S 100 1u 
+VTCV 200 S 1 
+DBD D S DBD 
+**************************************************************** 
+.MODEL PMOS PMOS ( LEVEL = 3 TOX = 5e-8 
++ RS = 1.375e-02 KP = 2.958e-06 NSUB = 3.337e+16 
++ KAPPA = 7.634e-05 ETA = 2.882e-07 NFS = 8.159e+11 
++ LD = 0 IS = 0 TPG = -1) 
+*************************************************************** 
+.MODEL NMOS NMOS ( LEVEL = 3 TOX = 5e-8 
++NSUB = 1.625e+16 IS = 0 TPG = -1 ) 
+**************************************************************** 
+.MODEL DBD D ( 
++FC = 0.1 TT = 1.196e-08 TREF = 25 BV = 42 
++RS = 9.169e-03 N = 1.064e+00 IS = 4.808e-12 
++EG = 1.200e+00 XTI = 2.003e-01 TRS = 1.600e-03 
++CJO = 2.759e-10 VJ = 3.000e-01 M = 3.370e-01 ) 
+.ENDS Si4564DYP

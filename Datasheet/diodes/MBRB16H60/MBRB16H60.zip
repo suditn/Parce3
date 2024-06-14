@@ -1,0 +1,16 @@
+**********************************
+* Copyright:                     *
+*   Thomatronik GmbH, Germany    *
+*   info@thomatronik.de          *
+**********************************
+*   SPICE3
+.subckt mbr16h45 1 2
+ddio 1 2 legd
+dgr 1 2 grd
+.model legd d is = 9.88453E-012 n = 0.778853 rs = 0.0326811
++ eg = 0.4 xti = 0.5 tnom = 27
++ cjo = 2.53146E-009 vj = 0.784914 m = 0.562881 fc = 0.5
++ tt = 2.4663E-010 bv = 49.5 ibv = 10 af = 1 kf = 0
+.model grd d is = 1.96552E-007 n = 1.02288 rs = 0.00831646
++ eg = 0.836091 xti = 0.5 tnom = 27
+.ends

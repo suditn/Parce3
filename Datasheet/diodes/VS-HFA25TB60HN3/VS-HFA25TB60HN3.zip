@@ -1,0 +1,30 @@
+VS-HFA25TB60HN3
+********************************************
+* Model Diode                                                          *
+********************************************
+
+MODEL part0 D (IS=89.0798N N=2.5 BV=650 IBV=100U RS=11.3617M TT=59.86N 
++ CJO=1.1586N VJ=700M M=602.832M EG=1.55 XTI=2 RL=580.479MEG T_MEASURED=25)
+
+********************************************
+
+.ENDS VS-HFA25TB60HN3
+
+Thermal Model Subcircuit
+.SUBCKT VS-HFA25TB60HN3  5 1
+
+CTHERM1	5	4	2.98E+00
+CTHERM2	4	3	4.83E+01
+CTHERM3	3	2	3.52E+02
+CTHERM4	2	1	1.31E+02
+
+RTHERM1	5	4	2.85E-01
+RTHERM2	4	3	5.95E-01
+RTHERM1	3	2	1.06E-01
+RTHERM1	2	1	1.50E-02
+
+
+.ENDS VS-HFA25TB60HN3
+
+
+

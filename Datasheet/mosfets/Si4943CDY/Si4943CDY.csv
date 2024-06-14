@@ -1,0 +1,2 @@
+Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
+Si4943CDY;Enlarge;Dual;SO-8;P;;;;;;;;0.033;;;0.0192;20.0;41.0;7.0;9.0;;;-1.0;2.5;image/mosfets/65365.png;Datasheet/mosfets/Si4943CDY/Si4943CDY.pdf;Datasheet/mosfets/Si4943CDY/Si4943CDY.zip

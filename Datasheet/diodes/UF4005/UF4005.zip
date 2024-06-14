@@ -1,0 +1,14 @@
+**********************************
+* Model created by               *
+*   Uni.Dipl.-Ing. Arpad Buermen *
+*   arpad.burmen@ieee.org        *
+* Copyright:                     *
+*   Thomatronik GmbH, Germany    *
+*   info@thomatronik.de          *
+**********************************
+* November 2000
+*   SPICE3
+.model uf4002 d is = 8.03314E-007 n = 2.30554 rs = 0.0375715
++ eg = 1.11 xti = 3 tnom = 25
++ cjo = 2.92237E-011 vj = 0.858244 m = 0.338004 fc = 0.5
++ tt = 1.23315E-007 bv = 110 ibv = 0.01 af = 1 kf = 0

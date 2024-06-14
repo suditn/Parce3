@@ -1,0 +1,2 @@
+Part Number;Status;Description;Product type;VinMin.(V);VinMax.(V);Package;PackageSize(W,L,H)(mm);Image path;Datasheet part;3d model part
+SiP32453;Active;0.9 V to 2.5 V, 55 mΩ, bidirectional off isolation, fast turn on and 98 µs turn off delay;Slew rate;0.9;2.5;WCSP4;0.8 x 0.8 x 0.5;63315;Datasheet/power-ics/computer/SiP32453/SiP32453.pdf;

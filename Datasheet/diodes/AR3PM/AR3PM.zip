@@ -1,0 +1,7 @@
+*produced by Vishay General Semiconductor Taiwan
+*Allen Su, 2019/3/19
+*   PSPICE
+.model ar3pm d is = 3E-7 n = 2.96 rs = 0.063
++ eg = 1.11 xti = 24.67 t_measured = 27
++ cjo = 70.75p vj = 0.81 m = 0.42 fc = 0.5
++ tt = 296n bv = 1100 ibv = 31 af = 1 kf = 0

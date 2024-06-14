@@ -1,0 +1,26 @@
+8EWH06FN-E
+********************************************
+* Model Diode                              *
+********************************************
+
+MODEL part0 D (IS=1.962N N=2.69356 BV=670 IBV=100U RS=22.6437M
++ CJO=56.4233P VJ=4.94004 M=436.264M EG=2.9 XTI=2 RL=65.59G)
+********************************************
+
+.ENDS 8EWH06FN-E
+
+Thermal Model Subcircuit
+.SUBCKT 8EWH06FN-E 5 1
+
+CTHERM1 5 4 2.52E+01
+CTHERM2 4 3 1.85E+02
+CTHERM3 3 2 4.77E+02
+CTHERM4 2 1 1.24E+03
+
+RTHERM1 5 4 1.04E+00
+RTHERM2 4 3 8.78E-01
+RTHERM1 3 2 1.44E-01
+RTHERM1 2 1 1.42E-01
+
+
+.ENDS 8EWH06FN-E

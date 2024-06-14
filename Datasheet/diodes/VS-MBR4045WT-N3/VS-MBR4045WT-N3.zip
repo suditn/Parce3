@@ -1,0 +1,42 @@
+MBR4045WT
+********************************************
+* This model has been developed by         *
+* Wizard SPICE MODEL GENERATOR (1999)      *
+* (Vishay High Power Products)             *
+* contains Proprietary Information         *
+********************************************
+* SPICE Model Diode is composed by a       *
+* simple diode plus paralled VCG2T         *
+********************************************
+.SUBCKT MBR4045WT ANO CAT
+D1 ANO 1 DMOD (0.07089)
+*Define diode model
+.MODEL DMOD D(IS=1.87674447387184E-04A,N=1.0815129563336,BV=51V,
++ IBV=0.370052071012812A,RS= 0.000482052,CJO=1.77083341686508E-08,
++ VJ=2.63120433908928,XTI=2, EG=0.680665296447736)
+********************************************
+*Implementation of VCG2T
+VX 1 2 DC 0V
+R1 2 CAT TRES 1E-6
+.MODEL TRES RES(R=1,TC1=30.266567848718)
+GP1 ANO CAT VALUE={-ABS(I(VX))*(EXP((((-2.374754E-03/30.26657)*((V(2,CAT)*1E6)/(I(VX)+1E-6)-
+1))+1)*6.049001E-02*ABS(V(ANO,CAT)))-1)}
+********************************************
+.ENDS MBR4045WT
+
+
+Thermal Model Subcircuit
+.SUBCKT MBR4045WT 5 1
+
+CTHERM1 5 4 8.75E-01
+CTHERM2 4 3 1.19E+01
+CTHERM3 3 2 7.69E+01
+CTHERM4 2 1 4.98E+02
+
+RTHERM1 5 4 1.00E-04
+RTHERM2 4 3 7.15E-01
+RTHERM1 3 2 5.30E-01
+RTHERM1 2 1 1.50E-01
+
+
+.ENDS MBR4045WT

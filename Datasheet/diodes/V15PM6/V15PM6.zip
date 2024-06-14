@@ -1,0 +1,38 @@
+*************************************************
+* Copyright 2020 © Vishay Intertechnology, Inc. *
+* All rights reserved.                          *
+*************************************************
+*Nov 18, 2021
+*DD Vishay semiconduttori italiana SPA
+*davide.dapra@vishay.com
+*File Name: V15PM6.txt
+*This document is intended as a SPICE modeling guideline and does not
+*constitute a commercial product datasheet. Designers should refer to the
+*appropriate datasheet of the same number for guaranteed specification
+*limits.
+
+
+*Model fit device at 25°C 125°C
+*leakage is not accurate modelled it is optimized to help convergence
+*DEVICE=V15PM6,D
+
+**************************************************** 
+
+* V15PM6 D model
+
+.MODEL V15PM6 D
++ IS=337.93E-9
++ N=1.0494
++ RS=7.3856E-3
++ Trs1=0.0038
++ IKF=292.64
++ CJO=3.8874E-9
++ M=1.5069
++ VJ=7.3744
++ ISR=100.00E-12
++ BV=67
++ IBV=0.53
++ TT=975p
++ XTI=-9.5
+
+.ENDS

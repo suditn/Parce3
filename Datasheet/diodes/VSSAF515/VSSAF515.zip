@@ -1,0 +1,5 @@
+*produced by Vishay General Semiconductor Taiwan
+*Allen Su, 2020/9/8
+*   PSPICE
+.MODEL vssaf515 D IS=2.3E-6 RS=0.065 N=1.71 BV=165 IBV=34.7
++ CJO=523p M=1.89 vj=0.8 TT=246p eg=0.71 xti=16.7 t_measured=27

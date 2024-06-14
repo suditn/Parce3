@@ -1,0 +1,2 @@
+Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
+SiHG70N60AEF;Enlarge;Single;TO-247AC;N;600.0;20.0;;;;;;;;;0.041;;205.0;38.0;99.0;60.0;417.0;2.0;1.0;image/mosfets/92304.png;Datasheet/mosfets/SiHG70N60AEF/SiHG70N60AEF.pdf;Datasheet/mosfets/SiHG70N60AEF/SiHG70N60AEF.zip

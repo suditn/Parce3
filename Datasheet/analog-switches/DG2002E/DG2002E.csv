@@ -1,0 +1,2 @@
+Part Number;Configuration;SingleSupplyMin.;SingleSupplyMax.;DualSupplyMin.;DualSupplyMax.;On-Resistance(Ω);Is(off)Max.;tonMax.;QINJTyp.;XTALK&OIRR;Package;CS(on)(pF);CS(off)(pF);-3 dBBandwidth(MHz);Image path;Datasheet part;3d model part
+DG2002E;SPDT x 2;1.8;5.5;;;6.0;1.5;32.0;1.0;-77.0;SC-70-6;13.0;7.0;;76624;Datasheet/analog-switches/DG2002E/DG2002E.pdf;

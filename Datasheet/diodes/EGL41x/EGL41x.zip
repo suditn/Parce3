@@ -1,0 +1,10 @@
+**********************************
+* Copyright:                     *
+*   Thomatronik GmbH, Germany    *
+*   info@thomatronik.de          *
+**********************************
+*   SPICE3
+.model bym12d400 d is = 8.04963E-009 n = 2 rs = 0.0724951
++ eg = 1.42654 xti = 3.58966 tnom = 27
++ cjo = 2.85878E-011 vj = 2.12797 m = 0.33 fc = 0.5
++ tt = 1.10984E-007 bv = 440 ibv = 10 af = 1 kf = 0

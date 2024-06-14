@@ -1,0 +1,4 @@
+Part Number;Product Image;Package;VCEO(V);CTR Min.(1)%;CTR Max.(1)%;Forward Current IF(mA);ton/toff(µs);Operating Temperature(°C);Isolation Voltage VISOVRMS;Safety Standard(s);Image path;Datasheet part;3d model part
+SFH601;Enlarge;DIP-6;100;40;320.0;10;3, 3;-55 to +100;5000;UL, cUL, VDE, CQC;image/optocouplers/83663.png;Datasheet/optocouplers/opt-tran-output/SFH601/SFH601.pdf;Datasheet/optocouplers/opt-tran-output/SFH601/SFH601.zip
+SFH601;Enlarge;SMD-6;100;40;320.0;10;3, 3;-55 to +100;5000;UL, cUL, VDE, CQC;image/optocouplers/83663.png;Datasheet/optocouplers/opt-tran-output/SFH601/SFH601.pdf;Datasheet/optocouplers/opt-tran-output/SFH601/SFH601.zip
+SFH601;Enlarge;DIP-6, 400 mil;100;40;320.0;10;3, 3;-55 to +100;5000;UL, cUL, VDE, CQC;image/optocouplers/83663.png;Datasheet/optocouplers/opt-tran-output/SFH601/SFH601.pdf;Datasheet/optocouplers/opt-tran-output/SFH601/SFH601.zip

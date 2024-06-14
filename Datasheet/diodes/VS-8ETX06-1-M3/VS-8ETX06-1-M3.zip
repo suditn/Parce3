@@ -1,0 +1,26 @@
+8ETX06
+********************************************
+* Model Diode                              *
+********************************************
+
+MODEL part0 D (IS=1.8807P N=2.5 BV=680 IBV=100U RS=34.2934M TT=26.4698N
++ CJO=175.851P VJ=700M M=459.591M EG=2.5 XTI=2 RL=25.4602MEG))
+********************************************
+
+.ENDS 8ETX06
+
+Thermal Model Subcircuit
+.SUBCKT 8ETX06 5 1
+
+CTHERM1 5 4 3.48E+01
+CTHERM2 4 3 1.85E+02
+CTHERM3 3 2 4.53E+02
+CTHERM4 2 1 6.95E+02
+
+RTHERM1 5 4 9.77E-01
+RTHERM2 4 3 8.06E-01
+RTHERM1 3 2 1.36E-01
+RTHERM1 2 1 7.94E-02
+
+
+.ENDS 8ETX06

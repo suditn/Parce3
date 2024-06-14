@@ -1,0 +1,35 @@
+********************************
+* Copyright:                   *
+* Vishay Intertechnology, Inc. *
+********************************
+
+MUR1520
+********************************************
+* SPICE Model Diode                        *
+********************************************
+.SUBCKT MUR1520 ANO CAT
+D1 ANO 1 CAT
+*Define diode model
+.MODEL DMOD D Is=16.9E-09 N=1.332 Rs=4.439E-03 Ikf=.232 Xti=2 Eg=1.11
+              Cjo=700.3E-09 M=.3715 Vj=.1784 Fc=.5 Isr=1.389E-09
+              Nr=3.002Bv=270Ibv=95.79E-6 Tt=10.49E-9)
+
+********************************************
+
+.ENDS MUR1520
+
+
+Thermal Model Subcircuit
+.SUBCKT MUR1520 5 1
+
+CTHERM1 5 4 2.23E+01
+CTHERM2 4 3 1.23E+02
+CTHERM3 3 2 3.35E+02
+CTHERM4 2 1 4.75E+02
+
+RTHERM1 5 4 7.55E-01
+RTHERM2 4 3 5.90E-02
+RTHERM1 3 2 1.01E-01
+RTHERM1 2 1 5.43E-02
+
+.ENDS MUR1520

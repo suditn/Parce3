@@ -1,0 +1,45 @@
+Part Number;Product Image;Device Type;Package Type;Package Form;Package Dimensions L x W x H(mm);Peak Wavelength λp(nm);Spectral Bandwidth(1)(nm);Output Current(2)(µA);Angle of Half Sensitivity φ;Photo Sensitive Area(mm2);Image path;Datasheet part;3d model part
+BP104;Enlarge;Silicon PIN Photodiode;leaded;Top view;5.4 x 4.3 x 3.2;950;870 to 1050;45;65;7.5;image/photo-detectors81500.png;photo-detectors\BP104\BP104.pdf;None
+BP104S;Enlarge;Silicon PIN Photodiode;leaded;Top view;5.4 x 4.3 x 3.2;950;870 to 1050;45;65;7.5;image/photo-detectors81500.png;photo-detectors\BP104S\BP104S.pdf;None
+BPV09NF;Enlarge;Silicon PIN Photodiode;leaded;T-1¾;∅ 5;940;790 to 1050;55;55;;image/photo-detectors80275.png;photo-detectors\BPV09NF\BPV09NF.pdf;None
+BPV10;Enlarge;Silicon PIN Photodiode;leaded;T-1¾;∅ 5;920;380 to 1100;70;20;;image/photo-detectors81502.png;photo-detectors\BPV10\BPV10.pdf;None
+BPV10NF;Enlarge;Silicon PIN Photodiode;leaded;T-1¾;∅ 5;940;780 to 1050;60;60;;image/photo-detectors81503.png;photo-detectors\BPV10NF\BPV10NF.pdf;None
+BPV10NF;Enlarge;Silicon PIN Photodiode;leaded;T-1;∅ 5;940;780 to 1050;60;60;;image/photo-detectors81503.png;photo-detectors\BPV10NF\BPV10NF.pdf;None
+BPV11;Enlarge;Silicon NPN Phototransistor, RoHS Compliant;leaded;T-1¾;∅ 5;850;450 to 1080;10000;15;;image/photo-detectors81504.png;photo-detectors\BPV11\BPV11.pdf;None
+BPV11F;Enlarge;Silicon NPN Phototransistor, RoHS Compliant;leaded;T-1¾;∅ 5;930;900 to 980;9000;15;;image/photo-detectors81505.png;photo-detectors\BPV11F\BPV11F.pdf;None
+BPV22F;Enlarge;Silicon PIN Photodiode;leaded;Side view;4.5 x 5 x 6;950;870 to 1050;80;60;7.5;image/photo-detectors81508.png;photo-detectors\BPV22F\BPV22F.pdf;None
+BPV22NF;Enlarge;Silicon PIN Photodiode;leaded;Side view;4.5 x 5 x 6;940;790 to 1050;85;60;7.5;image/photo-detectors81509.png;photo-detectors\BPV22NF\BPV22NF.pdf;None
+BPV22NFL;Enlarge;Silicon PIN Photodiode;leaded;Side view, long leads;4.5 x 5 x 6;940;790 to 1050;85;60;7.5;image/photo-detectors81509.png;photo-detectors\BPV22NFL\BPV22NFL.pdf;None
+BPV23F;Enlarge;Silicon PIN Photodiode;leaded;Side view;4.5 x 5 x 6;950;870 to 1050;63;60;4.4;image/photo-detectors81510.png;photo-detectors\BPV23F\BPV23F.pdf;None
+BPV23FL;Enlarge;Silicon PIN Photodiode;leaded;Side view, long leads;4.5 x 5 x 6;950;870 to 1050;63;60;4.4;image/photo-detectors81510.png;photo-detectors\BPV23FL\BPV23FL.pdf;None
+BPV23NF;Enlarge;Silicon PIN Photodiode;leaded;Side view;4.5 x 5 x 6;940;790 to 1050;65;60;4.4;image/photo-detectors81513.png;photo-detectors\BPV23NF\BPV23NF.pdf;None
+BPV23NFL;Enlarge;Silicon PIN Photodiode;leaded;Side view, long leads;4.5 x 5 x 6;940;790 to 1050;65;60;4.4;image/photo-detectors81513.png;photo-detectors\BPV23NFL\BPV23NFL.pdf;None
+BPW16N;Enlarge;Silicon NPN Phototransistor, RoHS Compliant;leaded;T-¾;∅ 1.8;825;450 to 1040;140;40;;image/photo-detectors81515.png;photo-detectors\BPW16N\BPW16N.pdf;None
+BPW17N;Enlarge;Silicon NPN Phototransistor, RoHS Compliant;leaded;T-¾;∅ 1.8;825;450 to 1040;1000;12;;image/photo-detectors81516.png;photo-detectors\BPW17N\BPW17N.pdf;None
+BPW20RF;Enlarge;Silicon Photodiode, RoHS Compliant;leaded;TO-5;∅ 8.13;920;550 to 1040;60;50;7.5;image/photo-detectors81570.png;photo-detectors\BPW20RF\BPW20RF.pdf;None
+BPW21R;Enlarge;Silicon Photodiode, RoHS Compliant;leaded;TO-5;∅ 8.13;565;420 to 675;9;50;7.5;image/photo-detectors81519.png;photo-detectors\BPW21R\BPW21R.pdf;None
+BPW24R;Enlarge;Silicon PIN Photodiode, RoHS-Compliant;leaded;TO-18;∅ 4.7;940;610 to 1040;60;12;0.88;image/photo-detectors81520.png;photo-detectors\BPW24R\BPW24R.pdf;None
+BPW34;Enlarge;Silicon PIN Photodiode;leaded;Top view;5.4 x 4.3 x 3.2;900;430 to 1100;50;65;7.5;image/photo-detectors81521.png;photo-detectors\BPW34\BPW34.pdf;None
+BPW34S;Enlarge;Silicon PIN Photodiode;leaded;Top view;5.4 x 4.3 x 3.2;900;430 to 1100;50;65;7.5;image/photo-detectors81521.png;photo-detectors\BPW34S\BPW34S.pdf;None
+BPW41N;Enlarge;Silicon PIN Photodiode;leaded;Side view;5 x 4 x 6.8;950;870 to 1050;45;65;7.5;image/photo-detectors81522.png;photo-detectors\BPW41N\BPW41N.pdf;None
+BPW46;Enlarge;Silicon PIN Photodiode;leaded;Side view;5 x 3 x 6.4;900;430 to 1100;50;65;7.5;image/photo-detectors81524.png;photo-detectors\BPW46\BPW46.pdf;None
+BPW76A;Enlarge;Silicon NPN Phototransistor, RoHS Compliant;leaded;TO-18;∅ 4.7;850;450 to 1080;400 to 800;40;;image/photo-detectors81526.png;photo-detectors\BPW76A\BPW76A.pdf;None
+BPW76B;Enlarge;Silicon NPN Phototransistor, RoHS Compliant;leaded;TO-18;∅ 4.7;850;450 to 1080;600;40;;image/photo-detectors81526.png;photo-detectors\BPW76B\BPW76B.pdf;None
+BPW77NA;Enlarge;Silicon NPN Phototransistor, RoHS Compliant;leaded;TO-18;∅ 4.7;850;450 to 1080;7500 to 15000;10;;image/photo-detectors81527.png;photo-detectors\BPW77NA\BPW77NA.pdf;None
+BPW77NB;Enlarge;Silicon NPN Phototransistor, RoHS Compliant;leaded;TO-18;∅ 4.7;850;450 to 1080;NaN;10;;image/photo-detectors81527.png;photo-detectors\BPW77NB\BPW77NB.pdf;None
+BPW82;Enlarge;Silicon PIN Photodiode, RoHS Compliant;leaded;Side view;5 x 4 x 6.8;950;790 to 1050;45;65;7.5;image/photo-detectors81529.png;photo-detectors\BPW82\BPW82.pdf;None
+BPW83;Enlarge;Silicon PIN Photodiode, RoHS Compliant;leaded;Side view;5 x 3 x 6.4;950;790 to 1050;45;65;7.5;image/photo-detectors81530.png;photo-detectors\BPW83\BPW83.pdf;None
+BPW85;Enlarge;Silicon NPN Phototransistor;leaded;T-1;∅ 3;850;450 to 1080;800 to 8000;25;;image/photo-detectors81531.png;photo-detectors\BPW85\BPW85.pdf;None
+BPW85A;Enlarge;Silicon NPN Phototransistor;leaded;T-1;∅ 3;850;450 to 1080;800 to 2500;25;;image/photo-detectors81531.png;photo-detectors\BPW85A\BPW85A.pdf;None
+BPW85B;Enlarge;Silicon NPN Phototransistor;leaded;T-1;∅ 3;850;450 to 1080;1500 to 4000;25;;image/photo-detectors81531.png;photo-detectors\BPW85B\BPW85B.pdf;None
+BPW85C;Enlarge;Silicon NPN Phototransistor;leaded;T-1;∅ 3;850;450 to 1080;3000 to 8000;25;;image/photo-detectors81531.png;photo-detectors\BPW85C\BPW85C.pdf;None
+BPW96B;Enlarge;Silicon NPN Phototransistor;leaded;T-1¾;∅ 5;850;450 to 1080;2500 to 7500;20;;image/photo-detectors81532.png;photo-detectors\BPW96B\BPW96B.pdf;None
+BPW96C;Enlarge;Silicon NPN Phototransistor;leaded;T-1¾;∅ 5;850;450 to 1080;4500 to 15000;20;;image/photo-detectors81532.png;photo-detectors\BPW96C\BPW96C.pdf;None
+TEFD4300;Enlarge;Silicon PIN Photodiode;leaded;T-1;∅ 3;950;350 to 1120;17;20;;image/photo-detectors83471.png;photo-detectors\TEFD4300\TEFD4300.pdf;None
+TEFD4300F;Enlarge;Silicon PIN Photodiode;leaded;T-1;∅ 3;950;750 to 1050;17;20;;image/photo-detectors83472.png;photo-detectors\TEFD4300F\TEFD4300F.pdf;None
+TEFT4300;Enlarge;Silicon NPN Phototransistor;leaded;T-1;∅ 3;925;875 to 1000;3200;30;;image/photo-detectors81549.png;photo-detectors\TEFT4300\TEFT4300.pdf;None
+TEKT5400S;Enlarge;Silicon NPN Phototransistor;leaded;Side view lens;5 x 2.65 x 5;920;850 to 980;4000;37;;image/photo-detectors81569.png;photo-detectors\TEKT5400S\TEKT5400S.pdf;None
+TEPT4400;Enlarge;Ambient Light Sensor, RoHS Compliant;leaded;T-1;∅ 3;570;440 to 800;200;30;;image/photo-detectors81341.png;photo-detectors\TEPT4400\TEPT4400.pdf;None
+TEPT5600;Enlarge;Ambient Light Sensor, RoHS Compliant;leaded;T-1¾;∅ 5;570;440 to 800;350;20;;image/photo-detectors84768.png;photo-detectors\TEPT5600\TEPT5600.pdf;None
+TEPT5700;Enlarge;Ambient Light Sensor, RoHS Compliant;leaded;T-1¾;∅ 5;570;440 to 800;75;50;;image/photo-detectors81321.png;photo-detectors\TEPT5700\TEPT5700.pdf;None
+TEST2600;Enlarge;Silicon NPN Phototransistor, RoHS Compliant;leaded;Side view;3.6 x 2.2 x 3.4;920;850 to 980;2500;30;;image/photo-detectors81562.png;photo-detectors\TEST2600\TEST2600.pdf;None

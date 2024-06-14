@@ -1,0 +1,33 @@
+*Mar 19, 2012
+*Doc. ID: 63306, ECN S12-0486, Rev. A
+*This document is intended as a SPICE modeling guideline and does not
+*constitute a commercial product datasheet. Designers should refer to the
+*appropriate datasheet of the same number for guaranteed specification
+*limits.
+.SUBCKT Si1902CDL D G S 
+M1 3 GX S S NMOS W= 78665u L= 0.25u 
+M2 S GX S D PMOS W= 78665u L= 1.310e-07 
+R1 D 3 4.438e-02 1.393e-02 2.818e-05 
+CGS GX S 3.633e-11 
+CGD GX D 4.884e-12 
+RG G GY 12 
+RTCV 100 S 1e6 -1.512e-05 2.390e-07 
+ETCV GX GY 100 200 1 
+ITCV S 100 1u 
+VTCV 200 S 1 
+DBD S D DBD 
+**************************************************************** 
+.MODEL NMOS NMOS ( LEVEL = 3 TOX = 1.7e-8 
++ RS = 1.104e-01 KP = 2.923e-05 NSUB = 2.683e+17 
++ KAPPA = 3.287e-02 ETA = 6.065e-04 NFS = 2.395e+12 
++ LD = 0 IS = 0 TPG = 1) 
+*************************************************************** 
+.MODEL PMOS PMOS ( LEVEL = 3 TOX = 1.7e-8 
++NSUB = 5.913e+16 IS = 0 TPG = -1 ) 
+**************************************************************** 
+.MODEL DBD D ( 
++FC = 0.1 TT = 2.000e-08 TREF = 25 BV = 21 
++RS = 1.000e-01 N = 1.711e+00 IS = 2.360e-08 
++EG = 1.108e+00 XTI = 2.000e-01 TRS = 2.797e-03 
++CJO = 4.577e-11 VJ = 5.001e-01 M = 3.139e-01 ) 
+.ENDS 

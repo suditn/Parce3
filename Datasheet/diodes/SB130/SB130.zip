@@ -1,0 +1,20 @@
+**********************************
+* Model created by               *
+*   Uni.Dipl.-Ing. Arpad Buermen *
+*   arpad.burmen@ieee.org        *
+* Copyright:                     *
+*   Thomatronik GmbH, Germany    *
+*   info@thomatronik.de          *
+**********************************
+* December 2000
+*   SPICE3
+.subckt sb140 1 2
+ddio 1 2 legd
+dgr 1 2 grd
+.model legd d is = 2.41774E-006 n = 2.5213 rs = 0.0180036
++ eg = 1.8 xti = 3.9996
++ cjo = 2.92263E-010 vj = 1.79059 m = 0.67056 fc = 0.5
++ tt = 1.4427E-009 bv = 44 ibv = 5 af = 1 kf = 0
+.model grd d is = 4.84085E-006 n = 1.00268 rs = 0.0661033
++ eg = 0.400002 xti = 3
+.ends

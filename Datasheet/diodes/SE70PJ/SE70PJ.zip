@@ -1,0 +1,5 @@
+*produced by Vishay General Semiconductor Taiwan
+*Allen Su, 2017/2/16
+*   PSPICE
+.MODEL se70pj D IS=3.57E-008 RS=37m BV=660 IBV=3.74
++ CJO=180p vj=0.722 M=0.44 N=1.84 TT=6.412u eg=1.11 xti=5.31

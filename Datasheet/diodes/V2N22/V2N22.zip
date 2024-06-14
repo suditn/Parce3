@@ -1,0 +1,11 @@
+*produced by Vishay General Semiconductor Taiwan
+*Nafion Yang, 2023/6/17
+
+
+.MODEL V2N22 D (
++T_MEASURED = 25           is       = 2.44248e-05    
++rs       = 0.0127786      n        = 2.69359        xti      = 12.9416        
++bv       = 220            eg       = 0.765          cjo      = 1.96e-10       
++m        = 0.832721       vj       = 4.2268         tt       = 7.73585e-10    
++ikf      = 0              fc       = 0.5            ibv      = 0              
++isr      = 1.95876e-08    trs1     = -0.00383584 )

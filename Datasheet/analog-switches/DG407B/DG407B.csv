@@ -1,0 +1,4 @@
+Part Number;Configuration;SingleSupplyMin.;SingleSupplyMax.;DualSupplyMin.;DualSupplyMax.;On-Resistance(Ω);Is(off)Max.;tonMax.;QINJTyp.;XTALK&OIRR;Package;CS(on)(pF);CS(off)(pF);-3 dBBandwidth(MHz);Image path;Datasheet part;3d model part
+DG407B;8:1 x 2;7.5;44.0;5.0;22.0;60.0;;;;;Plastic DIP-28;;;;72552;Datasheet/analog-switches/DG407B/DG407B.pdf;
+DG407B;8:1 x 2;7.5;44.0;5.0;22.0;60.0;;;;;PLCC-28;;;;72552;Datasheet/analog-switches/DG407B/DG407B.pdf;
+DG407B;8:1 x 2;7.5;44.0;5.0;22.0;60.0;;;;;SO-28 (Wide);;;;72552;Datasheet/analog-switches/DG407B/DG407B.pdf;

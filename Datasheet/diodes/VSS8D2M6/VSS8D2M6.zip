@@ -1,0 +1,5 @@
+*produced by Vishay General Semiconductor Taiwan
+*Allen Su, 2020/8/11
+*   PSPICE
+.MODEL vss8d2m6 D IS=3e-6 RS=0.022 N=1.41 BV=66 IBV=37
++ CJO=800p M=1.06 vj=0.8 TT=246p eg=0.74 xti=7.55 t_measured=27

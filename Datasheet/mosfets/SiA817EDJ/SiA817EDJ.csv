@@ -1,0 +1,2 @@
+Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
+SiA817EDJ;Enlarge;Dual plus integrated Schottky;PowerPAK SC-70;P;-30.0;12.0;;;;0.125;;0.08;;;0.065;6.6;14.0;1.3;2.0;-4.5;6.5;-0.6;5.5;image/mosfets/92034.png;Datasheet/mosfets/SiA817EDJ/SiA817EDJ.pdf;

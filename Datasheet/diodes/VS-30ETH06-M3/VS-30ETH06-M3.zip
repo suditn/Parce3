@@ -1,0 +1,19 @@
+30ETH06
+********************************************
+* Model Diode *
+********************************************
+MODEL part0 D (IS=1.83N N=2.36899 BV=680 IBV=100U RS=13.5267M TT=32.3857N
++ CJO=528.577P VJ=700M M=444.433M EG=2.2 XTI=1.6 RL=2.52874G T_MEASURED=25)
+********************************************
+.ENDS 30ETH06
+Thermal Model Subcircuit
+.SUBCKT 30ETH06 5 1
+CTHERM1 5 4 1.99E+01
+CTHERM2 4 3 5.09E+01
+CTHERM3 3 2 6.37E+01
+CTHERM4 2 1 1.85E+02
+RTHERM1 5 4 6.69E-01
+RTHERM2 4 3 5.81E-03
+RTHERM1 3 2 3.69E-01
+RTHERM1 2 1 5.57E-02
+.ENDS 30ETH06

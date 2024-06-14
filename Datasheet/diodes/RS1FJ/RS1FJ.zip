@@ -1,0 +1,5 @@
+*produced by Vishay General Semiconductor Taiwan
+*Allen Su, 2020/8/31
+*   PSPICE
+.MODEL rs1fk D IS=7e-8 RS=0.045 N=2.23 BV=880 IBV=1.06
++ CJO=12.6p M=0.31 vj=0.256 TT=1233n eg=1.11 xti=5 t_measured=27

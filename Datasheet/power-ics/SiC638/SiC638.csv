@@ -1,0 +1,2 @@
+Part Number;Status;Description;Product type;VinMin.(V);VinMax.(V);Package;PackageSize(W,L,H)(mm);Image path;Datasheet part;3d model part
+SiC638;Active;50 A power stage, 2.7 VINto 24 VIN, 5 V PWM with ZCD mode;VRPower (DrMOS);2.7;24.0;PowerPAK MLP55-31L;5.0 x 5.0 x 0.75;76582;Datasheet/power-ics/computer/SiC638/SiC638.pdf;

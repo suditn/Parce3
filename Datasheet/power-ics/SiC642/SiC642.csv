@@ -1,0 +1,2 @@
+Part Number;Status;Description;Product type;VinMin.(V);VinMax.(V);Package;PackageSize(W,L,H)(mm);Image path;Datasheet part;3d model part
+SiC642;New;50 A power stage plus, 2.5 VINto 16 VIN, 5 V PWM with ZCD, PS4 mode;VRPower (DrMOS);2.5;16.0;PowerPAK MLP55-31L;5.0 x 5.0 x 0.75;77483;Datasheet/power-ics/computer/SiC642/SiC642.pdf;

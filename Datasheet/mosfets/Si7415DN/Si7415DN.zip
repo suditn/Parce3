@@ -1,0 +1,52 @@
+*Dec 15, 2008
+*Doc. ID: 64631, S-82900, Rev. A
+*This document is intended as a SPICE modeling guideline and does not
+*constitute a commercial product data sheet.  Designers should refer to the
+*appropriate data sheet of the same number for guaranteed specification
+*limits.
+.subckt  SiA811ADJ d g s a k
+x1 d g s SiA811ADJ_mos
+x2 a k   SiA811ADJ_schottky
+.ends SiA811ADJ
+.SUBCKT SiA811ADJ_mos D G S 
+M1 3 GX S S PMOS W= 408000u L= 0.25u 
+M2 S GX S D NMOS W= 408000u L= 4.42e-07 
+R1 D 3 2.8e-02 1.175e-02 8.446e-06 
+CGS GX S 7.319e-11 
+CGD GX D 1.157e-11 
+RG G GY 6
+RTCV 100 S 1e6 1.172e-04 -1.440e-06 
+ETCV GY GX 100 200 1 
+ITCV S 100 1u 
+VTCV 200 S 1 
+DBD D S DBD 
+**************************************************************** 
+.MODEL PMOS PMOS ( LEVEL = 3 TOX = 1.7e-8 
++ RS = 5.575e-02 KP = 1.53e-05 NSUB = 2.73e+16 
++ KAPPA = 1e-2 ETA = 4.290e-07 NFS = 3.284e+12 
++ LD = 0 IS = 0 TPG = -1) 
+*************************************************************** 
+.MODEL NMOS NMOS ( LEVEL = 3 TOX = 1.7e-8 
++NSUB = 9.06e+16 IS = 0 TPG = -1 ) 
+**************************************************************** 
+.MODEL DBD D ( 
++FC = 0.1 TT = 1.35e-08 TREF = 25 BV = 21 
++RS = 3.841e-02 N = 1.542e+00 IS = 6.516e-09 
++EG = 1.117e+00 XTI = 3.749e-01 TRS = 1.253e-03 
++CJO = 6.235e-11 VJ = 3.103e-01 M = 3.187e-01 ) 
+.ENDS SiA811ADJ_mos
+.subckt SiA811ADJ_schottky 7 5
+r1 7 1 7.97e-02 tc=2.32e-02,-1.52e-04
+d1 1 5 sdsm
+r2 7 2 1.05 tc=0.6,1.96e-02
+d2 2 5 sdlg
+.model sdsm d (
++is=1.81e-06 n=9.32e-01 ik=1 eg=6.23e-01
++xti=2.19e-01 
++bv=50 ibv=1e-1 tlev=1)
+.model sdlg d (
++is=1.95e-05 n=1.61 ik=1 eg=4.9e-01
++xti=10
++bv=50 ibv=1e-1 tlev=1
++vj=0.233 cjo=261e-12 m=0.393)
+.ends SiA811ADJ_schottky

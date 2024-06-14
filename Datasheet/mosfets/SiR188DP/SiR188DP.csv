@@ -1,0 +1,2 @@
+Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
+SiR188DP;Enlarge;Single;PowerPAK SO-8;N;60.0;20.0;;;;;;;;0.0049;0.00385;;29.0;6.8;5.0;60.0;65.7;2.0;0.9;image/mosfets/63176.png;Datasheet/mosfets/SiR188DP/SiR188DP.pdf;Datasheet/mosfets/SiR188DP/SiR188DP.zip

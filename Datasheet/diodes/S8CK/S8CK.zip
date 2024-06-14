@@ -1,0 +1,34 @@
+﻿*************************************************
+* Copyright 2020 © Vishay Intertechnology, Inc. *
+* All rights reserved.                          *
+*************************************************
+*Jan 16, 2021
+*DD Vishay semiconduttori italiana SPA
+*davide.dapra@vishay.com
+*File Name: S8CM.txt
+*This document is intended as a SPICE modeling guideline and does not
+*constitute a commercial product datasheet. Designers should refer to the
+*appropriate datasheet of the same number for guaranteed specification
+*limits.
+
+
+* Model fit  forward characteristic  of device at 25 ° C to 125 ° C
+
+*DEVICE=S8CM,D
+
+**************************************************** 
+.MODEL S8CM D
+
++ IS=19.262E-9
++ N=1.7264
++ RS=1.7596E-3
++ IKF=3.6791
++ CJO=118.86E-12
++ M=.31772
++ VJ=.62691
++ ISR=100.00E-12
++ BV=1100
++ IBV=470m
++ TT=6.98E-6
+
+.ENDS

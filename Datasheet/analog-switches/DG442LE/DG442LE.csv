@@ -1,0 +1,4 @@
+Part Number;Configuration;SingleSupplyMin.;SingleSupplyMax.;DualSupplyMin.;DualSupplyMax.;On-Resistance(Ω);Is(off)Max.;tonMax.;QINJTyp.;XTALK&OIRR;Package;CS(on)(pF);CS(off)(pF);-3 dBBandwidth(MHz);Image path;Datasheet part;3d model part
+DG442LE;SPST x 4, NO;3.0;16.0;3.0;8.0;16.0;1.0;65.0;5.8;-113.0;TSSOP-16;14.0;5.0;;76754;Datasheet/analog-switches/DG442LE/DG442LE.pdf;
+DG442LE;SPST x 4, NO;3.0;16.0;3.0;8.0;16.0;1.0;65.0;5.8;-113.0;Plastic DIP-16;14.0;5.0;;76754;Datasheet/analog-switches/DG442LE/DG442LE.pdf;
+DG442LE;SPST x 4, NO;3.0;16.0;3.0;8.0;16.0;1.0;65.0;5.8;-113.0;SO-16 (Narrow) AS;14.0;5.0;;76754;Datasheet/analog-switches/DG442LE/DG442LE.pdf;

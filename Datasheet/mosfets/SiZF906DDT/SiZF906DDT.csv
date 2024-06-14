@@ -1,0 +1,3 @@
+Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
+SiZF906DDT;Enlarge;Dual;PowerPAIR 6 x 5F;N;30.0;20.0;;;;;;0.0013;;;0.0009;11.7;25.0;17.8;8.4;257.0;83.0;1.1;0.6;91275;Datasheet/mosfets/IRFR420, IRFU420, SiHFR420, SiHFU420/IRFR420, IRFU420, SiHFR420, SiHFU420.pdf;
+SiZF906DDT;Enlarge;Dual;PowerPAIR 6 x 5F;N;30.0;20.0;;;;;;0.0044;;;0.0021;11.7;25.0;5.8;2.9;105.0;38.0;1.1;0.9;91275;Datasheet/mosfets/IRFR420, IRFU420, SiHFR420, SiHFU420/IRFR420, IRFU420, SiHFR420, SiHFU420.pdf;

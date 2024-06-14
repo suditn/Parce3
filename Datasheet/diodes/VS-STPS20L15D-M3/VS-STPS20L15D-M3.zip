@@ -1,0 +1,37 @@
+********************************
+* Copyright:                   *
+* Vishay Intertechnology, Inc. *
+********************************
+
+STPS20L15DPbF
+********************************************
+* SPICE Model Diode                        *
+********************************************
+.SUBCKT STPS20L15DPbF ANO CAT
+D1 ANO 1 CAT
+*Define diode model
+.MODEL DMOD D (IS=10U N=849.055M BV=27 IBV=10M RS=4.50794M CJO=4.36028N 
++ VJ=838.748M M=531.312M EG=0.68 RL=3.33092K)
+
+
+********************************************
+
+
+.ENDS STPS20L15DPbF
+
+
+Thermal Model Subcircuit
+.SUBCKT STPS20L15DPbF  5 1
+
+CTHERM1	5	4	2.49E+00
+CTHERM2	4	3	4.23E+01
+CTHERM3	3	2	5.25E+02
+CTHERM4	2	1	4.04E+02
+
+RTHERM1	5	4	6.39E-01
+RTHERM2	4	3	6.53E-01
+RTHERM1	3	2	1.58E-01
+RTHERM1	2	1	4.62E-02
+
+
+.ENDS STPS20L15DPbF

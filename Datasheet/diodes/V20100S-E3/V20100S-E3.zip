@@ -1,0 +1,16 @@
+**********************************
+* Copyright:                     *
+*   Thomatronik GmbH, Germany    *
+*   info@thomatronik.de          *
+**********************************
+*   SPICE3
+.subckt vb20100s 1 2
+ddio 1 2 legd
+dgr 1 2 grd
+.model legd d is = 1.82982E-005 n = 1.19637 rs = 0.0265002
++ eg = 0.651891 xti = 0.717927 tnom = 27
++ cjo = 1.68162E-009 vj = 1.54446 m = 0.699987 fc = 0.5
++ tt = 2.21967E-013 bv = 110 ibv = 50 af = 1 kf = 0
+.model grd d is = 1.01371E-010 n = 1.34919 rs = 0.0109897
++ eg = 1.60676 xti = 0.675753 tnom = 27
+.ends
