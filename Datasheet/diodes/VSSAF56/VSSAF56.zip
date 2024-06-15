@@ -1,9 +1,0 @@
-***********************************************************
-Copyright 2020 Vishay Intertechnology, Inc.
-All rights reserved.
-***********************************************************
-*produced by Vishay General Semiconductor Taiwan
-*Allen Su, 2018/8/30
-*   PSPICE
-.MODEL vssaf56 D IS=8E-06 RS=0.02 N=1.28 BV=66 IBV=29.7
-+ CJO=1094p M=1.177 vj=3.563 TT=246p eg=0.71 xti=4.94 t_measured=27

@@ -1,0 +1,17 @@
+{
+  "diodes":["/diodes/tvs-protection/", "/diodes/esd-protection/", "/diodes/emi-filter/", "/diodes/zener-stabilizers/","/diodes/switching/", "/diodes/ss-schottky/", "/diodes/standard-recovery/", "/diodes/ultrafast-recovery/","/diodes/schottky/", "/diodes/bridge/", "/diodes/med-high-diodes/"],
+  "thyristors":["/thyristors/phase-control-discrete/"],
+  "power-ics":["/power-ics/integrated-microbuck/", "/power-ics/integrated-microbrick/", "/power-ics/integrated-drmos/", "/power-ics/slew-rate-control/", "/power-ics/current-limiter/", "/power-ics/true-bi-directional/", "/power-ics/integrated-OR-ing-switch/", "/power-ics/automotive/", "/power-ics/computer/", "/power-ics/consumer/", "/power-ics/healthcare/", "/power-ics/industrial/", "/power-ics/networking/", "/power-ics/portables/", "/power-ics/motor-drive/", "/power-ics/battery-and-protection/", "/power-ics/precision-logic-switch/"],
+  "analog-switches":["/analog-switches/"],
+  "mosfets":["/mosfets/"],
+  "optocouplers":["/optocouplers/opt-tran-output/", "/optocouplers/opto-darl-out/", "/optocouplers/opto-ac-in/", "/optocouplers/opto-triac/", "/optocouplers/opto-linear/", "/optocouplers/opto-high-speed/", "/optocouplers/opto-driver/"],
+  "relays":["/solid-state-relays/"],
+  "receiver":["/ir-receiver-modules/"],
+  "leds":["/leds/standards/", "/leds/power/", "/leds/bicolor/", "/leds/rgb/"],
+  "photo-detectors":["/photo-detectors/surface-mount-devices/", "/photo-detectors/leaded-devices/"],
+  "ir-em":["/ir-emitting-diodes/","/ir-transceivers/"],
+  "displays":["/displays/seven-segment-display/", "/displays/lcd-character/", "/displays/lcd-graphic/", "/displays/oled-character/", "/displays/oled-graphic/", "/displays/color-tft-display/", "/displays/seven-segment-display/"],
+  "modules":["/modules/bridge-modules/", "/modules/diode-modules/fred/",  "/modules/diode-modules/high-performance-schottky/", "/modules/diode-modules/fast-diode/", "/modules/diode-modules/high-voltage/"],
+  "capacitors":["/capacitors/aluminum/", "/capacitors/ceramic/ceramic-multilayer-smd/","/capacitors/ceramic/ceramic-multilayer-leaded/","/capacitors/ceramic/ceramic-singlelayer/", "/capacitors/ceramic/high-voltage/", "/capacitors/ceramic/ceramic-rf-power/","/capacitors/energy-storage/", "/capacitors/film/", "/capacitors/polymer/","/capacitors/power-heavy-current/high-voltage-ac/", "/capacitors/power-heavy-current/surge-suppressor/", "/capacitors/power-heavy-current/unbalance-monitoring/", "/capacitors/power-heavy-current/medium-line-frequency/", "/capacitors/power-heavy-current/low-voltage-ac/", "/capacitors/power-heavy-current/power-electronic-ac-dc/", "/capacitors/power-heavy-current/power-factor-controllers/","/capacitors/tantalum/", "/capacitors/thin-film/", "/capacitors/custom-capacitors/"],
+  "resistors":["/resistors-fixed/", "/networks-and-arrays/","/thermistors/ntc/", "/thermistors/ptc/", "/thermistors/rtd/","/varistors/", "/trimmers/", "/rheostats/", "/potentiometers/", "/resistors-fixed/custom-capabilities/"]
+}

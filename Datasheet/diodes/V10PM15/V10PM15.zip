@@ -1,0 +1,13 @@
+*produced by Vishay General Semiconductor Taiwan
+*Sam Liao, 2023/7/12
+*   PSPICE
+
+
+
+.MODEL V2NM63 D (
++ISR      = 4.06242e-08    t_measured= 27             
++is       = 1.74545e-07    rs       = 0.0393612      n        = 1.164          
++xti      = 0.0047567      bv       = 66             eg       = 0.74           
++cjo      = 5.84e-10       m        = 1.07           vj       = 6.47313        
++tt       = 7.73585e-10    ikf      = 0              fc       = 0.5            
++ibv      = 1e-06          trs1     = 0.00012756 )

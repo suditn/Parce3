@@ -1,4 +1,0 @@
-Series;Product Image;Package (JEDEC®) Code;VRRM(V);IRat VR(nA at V);VFat IF(V at mA);trr(ns);Circuit Configuration;AEC-Q101 Qualified;Image path;Datasheet part;3d model part
-BAS19, BAS20, BAS21;Enlarge;SOT-23;250.0;100 at 200;1.0 at 100;50.0;Single;Yes;image/diodes/86370.png;Datasheet/diodes/switching/BAS19, BAS20, BAS21/BAS19, BAS20, BAS21.pdf;Datasheet/diodes/switching/BAS19, BAS20, BAS21/BAS19, BAS20, BAS21.zip
-BAS19, BAS20, BAS21;Enlarge;SOT-23;120.0;100 at 100;1.0 at 100;50.0;Single;Yes;image/diodes/86370.png;Datasheet/diodes/switching/BAS19, BAS20, BAS21/BAS19, BAS20, BAS21.pdf;Datasheet/diodes/switching/BAS19, BAS20, BAS21/BAS19, BAS20, BAS21.zip
-BAS19, BAS20, BAS21;Enlarge;SOT-23;200.0;100 at 150;1.0 at 100;50.0;Single;Yes;image/diodes/86370.png;Datasheet/diodes/switching/BAS19, BAS20, BAS21/BAS19, BAS20, BAS21.pdf;Datasheet/diodes/switching/BAS19, BAS20, BAS21/BAS19, BAS20, BAS21.zip

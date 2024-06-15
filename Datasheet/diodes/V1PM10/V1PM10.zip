@@ -1,9 +1,0 @@
-***********************************************************
-Copyright 2020 Vishay Intertechnology, Inc.
-All rights reserved.
-***********************************************************
-*produced by Vishay General Semiconductor Taiwan
-*Allen Su, 2018/2/26
-*   PSPICE
-.MODEL v1pm10 D IS=8e-07 RS=0.1538 N=1.481 BV=110 IBV=15.582
-+ CJO=174p M=1.6 vj=6.8 TT=246p eg=0.74 xti=8.8257

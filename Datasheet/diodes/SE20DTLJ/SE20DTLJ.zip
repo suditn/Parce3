@@ -1,5 +1,0 @@
-*produced by Vishay General Semiconductor Taiwan
-*Allen Su, 2020/7/21
-*   PSPICE
-.MODEL se20paj D IS=2E-8 RS=0.039 N=1.94 BV=660 IBV=1.5
-+ CJO=28p M=0.355 TT=3.2u vj=0.412 eg=1.11 xti=4.98 t_measured=27

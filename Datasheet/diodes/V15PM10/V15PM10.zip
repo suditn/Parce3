@@ -1,0 +1,5 @@
+*produced by Vishay General Semiconductor Taiwan
+*Allen Su, 2020/8/4
+*   PSPICE
+.MODEL v15pm15 D IS=1.5e-5 RS=0.026 N=1.53 BV=165 IBV=467
++ CJO=2000p M=1.08 vj=0.8 TT=246p eg=0.74 xti=10.23 t_measured=27

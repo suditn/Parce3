@@ -1,5 +1,0 @@
-*produced by Vishay General Semiconductor Taiwan
-*Allen Su, 2020/9/14
-*   PSPICE
-.MODEL v2pm15l D IS=4e-7 N=1.56 RS=0.15 BV=165 IBV=30
-+ CJO=200p M=1.34 vj=0.8 TT=246p eg=0.74 xti=19.7 t_measured=27

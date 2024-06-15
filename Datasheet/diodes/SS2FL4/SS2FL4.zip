@@ -1,0 +1,9 @@
+***********************************************************
+Copyright 2020 Vishay Intertechnology, Inc.
+All rights reserved.
+***********************************************************
+*produced by Vishay General Semiconductor Taiwan
+*Allen Su, 2017/1/4
+*   PSPICE
+.MODEL ss2fl4 D  IS=8.68u RS=0.034 BV=40 IBV=13u
++ CJO=350p vj=0.1462 M=0.3662 N=1.316 TT=246p eg=0.67 xti=2.306 t_measured=27

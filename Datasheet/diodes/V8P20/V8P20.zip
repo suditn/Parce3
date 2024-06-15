@@ -1,9 +1,0 @@
-***********************************************************
-Copyright 2020 Vishay Intertechnology, Inc.
-All rights reserved.
-***********************************************************
-*produced by Vishay General Semiconductor Taiwan
-*Allen Su, 2019/4/1
-*   PSPICE
-.MODEL v8p20 D IS=3E-05 RS=0.047 N=1.8 BV=220 IBV=198
-+ CJO=640p M=1.25 vj=3.44 TT=246p eg=0.71 xti=13 t_measured=27

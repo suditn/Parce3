@@ -1,7 +1,7 @@
 import os
 import re
-import shutil
 import time
+import json
 from pathlib import Path
 import logging
 import requests
@@ -14,6 +14,7 @@ from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.edge.options import Options
 from concurrent.futures import ThreadPoolExecutor
+#
 
 # Логи
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -33,6 +34,7 @@ print(save_path)
 img_small_save_path = os.path.join(save_path, "image")
 print(img_small_save_path)
 datasheet_save_path = os.path.join(save_path, "Datasheet")
+file_3d_src = []
 headers = {'User-Agent': "scrapping_script/1.0"}
 '''
 ---capacitors---
@@ -62,9 +64,11 @@ headers = {'User-Agent': "scrapping_script/1.0"}
 
 '''
 # Список используемых ссылок
-sl_use = ["/mosfets/"]
+sl_use = []
 # Список неудавшихся загрузок
 failed_downloads = []
+
+
 
 # Создание папок
 def create_directories(sl):
@@ -111,10 +115,12 @@ def get_web(u, sl):
     return driver.page_source
 
 async def download_file_with_retry(session, url, path, file_3d_pr, headers=None):
-    await asyncio.sleep(0.3)
+    await asyncio.sleep(60)
     retries = 10
     for attempt in range(retries):
         try:
+            #with time.sleep(5):
+            await asyncio.sleep(5)
             async with session.get(url, headers=headers) as response:
                 response.raise_for_status()
                 file_dir = os.path.dirname(path)
@@ -123,24 +129,32 @@ async def download_file_with_retry(session, url, path, file_3d_pr, headers=None)
                     async with aiofiles.open(path, 'wb') as out_file:
                         await out_file.write(await response.read())
                     logging.info(f'Файл {os.path.basename(path)} успешно загружен и сохранен.')
+                    response.close()
                 else:
                     logging.info(f'Файл {os.path.basename(path)} уже существует.')
-                #datasheet_src.append(path.split("/")[1::])
-                file_3d_pr = True
+                    #datasheet_src.append(path.split("/")[1::])
+                    file_3d_pr = True
+                    #session.close()
                 return True
         except Exception as e:
-            logging.error(f'Ошибка при загрузке файла {url}: {e}')
-            logging.info(f'Повторная попытка загрузки файла {url}... (попытка {attempt + 1}/{retries})')
-            continue
+            if e[:3] == '404':
+                print(e[:3])
+                continue
+            else:
+                logging.error(f'Ошибка при загрузке файла {url}: {e[:3]}')
+                logging.info(f'Повторная попытка загрузки файла {url}... (попытка {attempt + 1}/{retries})')
+                await asyncio.sleep(30)
+                continue
     logging.error(f'Не удалось загрузить файл {url} после {retries} попыток.')
     failed_downloads.append(url)
     return False
 
 async def download_image_with_retry(session, url, path, headers=None):
-    await asyncio.sleep(0.3)
+    await asyncio.sleep(60)
     retries = 10
     for attempt in range(retries):
         try:
+            await asyncio.sleep(5)
             async with session.get(url, headers=headers) as response:
                 response.raise_for_status()
                 file_dir = os.path.dirname(path)
@@ -153,17 +167,24 @@ async def download_image_with_retry(session, url, path, headers=None):
                     logging.info(f'Изображение {os.path.basename(path)} уже существует.')
                 return True
         except Exception as e:
-            logging.error(f'Ошибка при загрузке изображения {url}: {e}')
-            logging.info(f'Повторная попытка загрузки изображения {url}... (попытка {attempt + 1}/{retries})')
-            continue
+            if e[:3] == '404':
+                print(e[:3])
+                continue
+            else:
+                logging.error(f'Ошибка при загрузке изображения {url}: {e[:3]}')
+                logging.info(f'Повторная попытка загрузки изображения {url}... (попытка {attempt + 1}/{retries})')
+                await asyncio.sleep(30)
+                continue
     logging.error(f'Не удалось загрузить изображение {url} после {retries} попыток.')
     failed_downloads.append(url)
     return False
 
 async def download_3d_model_with_retry(session, img_alt, file_3d_path, file_3d_pr, file_3d_src):
+    await asyncio.sleep(60)
     retries = 10
     for attempt in range(retries):
         try:
+            await asyncio.sleep(5)
             async with session.get('https://www.vishay.com/en/product/' + img_alt + '/tab/designtools-ppg/', headers=headers, timeout=30) as response:
                 logging.info(f'Загрузка 3D модели: https://www.vishay.com/en/product/{img_alt}/tab/designtools-ppg/')
                 response.raise_for_status()
@@ -172,15 +193,17 @@ async def download_3d_model_with_retry(session, img_alt, file_3d_path, file_3d_p
                     file_3d_cont = [a['href'] for a in soupp.findAll('a', href=True) if a['href'].endswith('.zip') or a['href'].endswith('.txt')]
                     logging.info(f'Найдено {len(file_3d_cont)} файлов 3D моделей для продукта {img_alt}')
                     for b in file_3d_cont:
-                        if b.endswith('.zip') or b.endswith('.txt'):
+                        if b.endswith('.zip'):
                             logging.info(f'Загрузка файла 3D модели: {b}')
                             file_3d_pr = True
-                            return await download_file_with_retry(session, 'https://www.vishay.com/' + b, file_3d_path, file_3d_pr, headers)
+                            return await download_file_with_retry(session, 'https://www.vishay.com' + b, file_3d_path, file_3d_pr, headers)
             return False
         except aiohttp.ClientError as e:
             logging.error(f'Ошибка при получении 3D модели для продукта {img_alt}: {e}')
+            await asyncio.sleep(30)
         except asyncio.TimeoutError:
             logging.error(f'Тайм-аут при получении 3D модели для продукта {img_alt}')
+            await asyncio.sleep(30)
         logging.info(f'Повторная попытка загрузки 3D модели {img_alt}... (попытка {attempt + 1}/{retries})')
     logging.error(f'Не удалось загрузить 3D модель {img_alt} после {retries} попыток.')
     failed_downloads.append('https://www.vishay.com/en/product/' + img_alt + '/tab/designtools-ppg/')
@@ -220,18 +243,18 @@ async def process_html(session, html_source, sl):
                 img_filename = (img['src'].split('/')[-1]).split('-')[0] + '.png'
             try:
                 if (sl.split('/')[-4] != ""):
-                    img_src.append("image" + "/" + sl.split('/')[-4] + "/" + img_filename)
-                    img_path = os.path.join(img_small_save_path + "/" + sl.split('/')[-4] + "/", img_filename)
+                    img_src.append("image" + "\\" + sl.split('/')[-4] + "\\" + img_filename)
+                    img_path = os.path.join(img_small_save_path + "/" + sl.split('/')[-4] + "\\", img_filename)
                 elif (sl.split('/')[-3] != ""):
-                    img_src.append("image" + "/" + sl.split('/')[-3] + "/" + img_filename)
-                    img_path = os.path.join(img_small_save_path + "/" + sl.split('/')[-3] + "/", img_filename)
+                    img_src.append("image" + "/" + sl.split('/')[-3] + "\\" + img_filename)
+                    img_path = os.path.join(img_small_save_path + "\\" + sl.split('/')[-3] + "\\", img_filename)
                 else:
                     img_src.append("image" + sl + img_filename)
                     img_path = os.path.join(img_small_save_path + sl, img_filename)
             except IndexError:
                 if(sl.split('/')[-3] != ""):
-                    img_src.append("image" + "/" + sl.split('/')[-3] + "/" + img_filename)
-                    img_path = os.path.join(img_small_save_path + "/" + sl.split('/')[-3] + "/", img_filename)
+                    img_src.append("image" + "\\" + sl.split('/')[-3] + "\\" + img_filename)
+                    img_path = os.path.join(img_small_save_path + "\\" + sl.split('/')[-3] + "\\", img_filename)
                 else:
                     img_src.append("image" + sl + img_filename)
                     img_path = os.path.join(img_small_save_path + sl, img_filename)
@@ -249,21 +272,21 @@ async def process_html(session, html_source, sl):
             #print(sl.split('/')[-4])
             try:
                 if (sl.split('/')[-4] != ""):
-                    datasheet_path = os.path.join(datasheet_save_path + "/" + sl.split('/')[-4] + "/", series, datasheet_filename)
-                    file_3d_path = os.path.join(datasheet_save_path + "/" + sl.split('/')[-4] + "/", series, file_3d_name)
+                    datasheet_path = os.path.join(datasheet_save_path + "\\" + sl.split('/')[-4] + "\\", series, datasheet_filename)
+                    file_3d_path = os.path.join(datasheet_save_path + "\\" + sl.split('/')[-4] + "\\", series, file_3d_name)
                 elif (sl.split('/')[-3] != ""):
-                    datasheet_path = os.path.join(datasheet_save_path + "/" + sl.split('/')[-3] + "/", series, datasheet_filename)
-                    file_3d_path = os.path.join(datasheet_save_path + "/" + sl.split('/')[-3] + "/", series, file_3d_name)
+                    datasheet_path = os.path.join(datasheet_save_path + "\\" + sl.split('/')[-3] + "\\", series, datasheet_filename)
+                    file_3d_path = os.path.join(datasheet_save_path + "\\" + sl.split('/')[-3] + "\\", series, file_3d_name)
                 else:
-                    datasheet_path = os.path.join(datasheet_save_path + "/" + sl, series, datasheet_filename)
-                    file_3d_path = os.path.join(datasheet_save_path + "/" + sl, series, file_3d_name)
+                    datasheet_path = os.path.join(datasheet_save_path + "\\" + sl, series, datasheet_filename)
+                    file_3d_path = os.path.join(datasheet_save_path + "\\" + sl, series, file_3d_name)
             except IndexError:
                 if (sl.split('/')[-3] != ""):
-                    datasheet_path = os.path.join(datasheet_save_path + "/" + sl.split('/')[-3] + "/", series, datasheet_filename)
-                    file_3d_path = os.path.join(datasheet_save_path + "/" + sl.split('/')[-3] + "/", series, file_3d_name)
+                    datasheet_path = os.path.join(datasheet_save_path + "\\" + sl.split('/')[-3] + "\\", series, datasheet_filename)
+                    file_3d_path = os.path.join(datasheet_save_path + "\\" + sl.split('/')[-3] + "\\", series, file_3d_name)
                 else:
-                    datasheet_path = os.path.join(datasheet_save_path + "/" + sl, series, datasheet_filename)
-                    file_3d_path = os.path.join(datasheet_save_path + "/" + sl, series, file_3d_name)
+                    datasheet_path = os.path.join(datasheet_save_path + "\\" + sl, series, datasheet_filename)
+                    file_3d_path = os.path.join(datasheet_save_path + "\\" + sl, series, file_3d_name)
 
             file_3d_pr = False
             if previous_datasheet_src != series:
@@ -276,21 +299,14 @@ async def process_html(session, html_source, sl):
                     tasks.append(download_3d_model_with_retry(session, img['alt'], file_3d_path, file_3d_pr, file_3d_src))
                 except KeyError:
                     tasks.append(download_3d_model_with_retry(session, (img['src'].split('/')[-1]).split('-')[0], file_3d_path, file_3d_pr, file_3d_src))
-                datasheet_src.append("Datasheet" + sl + series + "/" + datasheet_filename)
-                print(os.path.isfile(file_3d_path))
-                if os.path.exists(file_3d_path):
-                    file_3d_src.append("Datasheet" + sl + series + "/" + file_3d_name)
-                else:
-                    file_3d_src.append("None")
+                datasheet_src.append(datasheet_path[10::])
             else:
-                datasheet_src.append("Datasheet" + sl + series + "/" + datasheet_filename)
-                if os.path.exists(file_3d_path):
-                    file_3d_src.append("Datasheet" + sl + series + "/" + file_3d_name)
-                else:
-                    file_3d_src.append("None")
+                datasheet_src.append(datasheet_path[10::])
+
 
             previous_datasheet_src = series
             i += 1
+
 
     if i != len(pdf):
         i = 0
@@ -321,25 +337,18 @@ async def process_html(session, html_source, sl):
 
             file_3d_pr = False
             if previous_datasheet_src != series:
-                tasks.append(download_file_with_retry(session, 'https://www.vishay.com/' + p, datasheet_path, file_3d_pr, headers))
+                tasks.append(download_file_with_retry(session, 'https://www.vishay.com' + p, datasheet_path, file_3d_pr, headers))
                 tasks.append(download_3d_model_with_retry(session, p.split('?')[1], file_3d_path, file_3d_pr, file_3d_src))
-                datasheet_src.append("Datasheet" + sl + series + "/" + datasheet_filename)
-                if file_3d_pr:
-                    file_3d_src.append("Datasheet" + sl + series + "/" + file_3d_name)
-                else:
-                    file_3d_src.append("None")
-
+                datasheet_src.append(datasheet_path[10::])
             else:
-                datasheet_src.append("Datasheet"  + sl + series + "/" + datasheet_filename)
-                if file_3d_pr:
-                    file_3d_src.append("Datasheet"  + sl + series + "/" + file_3d_name)
-                else:
-                    file_3d_src.append("None")
+                datasheet_src.append(datasheet_path[10::])
             previous_datasheet_src = series
             i += 1
-
     await asyncio.gather(*tasks, return_exceptions=True)
-    return df, img_src, datasheet_src, file_3d_src
+    print(os.path.isfile(file_3d_path))
+    print(file_3d_path)
+
+    return df, img_src, datasheet_src
 
 def save_to_excel(df, img_src,datasheet_src, file_3d_src, save_path, url):
     # Удаляем столбец "Buy Now" если он существует
@@ -393,20 +402,68 @@ def save_to_csv(df, img_src,datasheet_src, file_3d_src, save_path, url):
     df_final.to_csv(csv_path, index=False, sep=';')
 
 async def main():
-    async with aiohttp.ClientSession() as session:
-        with ThreadPoolExecutor(max_workers=4) as executor:
-            loop = asyncio.get_event_loop()
-            tasks = []
-            for sl in sl_use:
-                web_source = await loop.run_in_executor(executor, get_web, url + sl, sl)
-                df, img_src, datasheet_src, file_3d_src = await process_html(session, web_source, sl)
-                #save_to_excel(df, img_src, datasheet_src, file_3d_src,save_path, url + sl)
-                save_to_csv(df, img_src,datasheet_src, file_3d_src, save_path, url + sl)
-                logging.info('Данные успешно сохранены.')
+    print("Какие категории вы хотите пропарсить?\ndiodes - Диоды\nthyristors - Тиристоры\npower-ics - Силовые микросхемы\nanalog-switches - Аналоговый переключатели\nmosfets - Металл–оксид–полупроводник\noptocouplers - Оптосоединители\nrelays - реле\nreceiver - Приемники\nleds - Светильники\nphoto-detectors - Фото-детектеры\nir-em\ndisplays - Дисплеи\nmodules - модульные\ncapacitors - Конденсаторы\nresistors - Резисторы\n")
+    inputer = input()
+    with open('pages.json', 'r') as f:
+        pages = json.load(f)
+    if inputer == 'all':
+        for pa in pages.keys():
+            sl_use.append(pages[pa])
+        print(sl_use)
+    else:
+        for use_in in inputer.split(','):
+            if use_in in pages:
+                print(f"Parsing category: {use_in}")
+                for pa in pages[use_in]:
+                    sl_use.append(pa)
+            else:
+                print(f"Category {use_in} not found in pages.json")
+        print(sl_use)
+    if inputer == all:
+        for sl1 in sl_use:
+            for sl in sl1:
+                async with aiohttp.ClientSession(timeout=aiohttp.ClientTimeout(total=60), headers=headers) as session:
+                    with ThreadPoolExecutor(max_workers=4) as executor:
+                        loop = asyncio.get_event_loop()
+                        tasks = []
+                        print(sl)
+                        web_source = await loop.run_in_executor(executor, get_web, url + sl, sl)
+                        df, img_src, datasheet_src = await process_html(session, web_source, sl)
+                        for fl in datasheet_src:
+                        #print(fl[:-3])
+                        #print(os.path.exists("Datasheet\\"+fl[:-3]+"zip"))
+                            if os.path.exists(fl[:-3] + "zip"):
+                                file_3d_src.append(fl[:-3] + "zip")
+                            else:
+                                file_3d_src.append("None")
+                    #save_to_excel(df, img_src, datasheet_src, file_3d_src,save_path, url + sl)
+                        save_to_csv(df, img_src,datasheet_src, file_3d_src, save_path, url + sl)
+                        logging.info('Данные успешно сохранены.')
 
-            await asyncio.gather(*tasks)
+                    await asyncio.gather(*tasks)
+    else:
+        for sl in sl_use:
+            async with aiohttp.ClientSession(timeout=aiohttp.ClientTimeout(total=60), headers=headers) as session:
+                with ThreadPoolExecutor(max_workers=1) as executor:
+                    loop = asyncio.get_event_loop()
+                    tasks = []
+                    print(sl)
+                    web_source = await loop.run_in_executor(executor, get_web, url + sl, sl)
+                    df, img_src, datasheet_src = await process_html(session, web_source, sl)
+                    for fl in datasheet_src:
+                        # print(fl[:-3])
+                        # print(os.path.exists("Datasheet\\"+fl[:-3]+"zip"))
+                        if os.path.exists(fl[:-3] + "zip"):
+                            file_3d_src.append(fl[:-3] + "zip")
+                        else:
+                            file_3d_src.append("None")
+                    # save_to_excel(df, img_src, datasheet_src, file_3d_src,save_path, url + sl)
+                    save_to_csv(df, img_src, datasheet_src, file_3d_src, save_path, url + sl)
+                    logging.info('Данные успешно сохранены.')
 
+                await asyncio.gather(*tasks)
 try:
+
     asyncio.run(main())
 finally:
     driver.quit()

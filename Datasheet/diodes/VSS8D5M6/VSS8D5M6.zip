@@ -1,0 +1,13 @@
+*produced by Vishay General Semiconductor Taiwan
+*Sam Liao, 2023/2/1
+
+
+
+
+.MODEL VSS8D5M6 D (
++ISR      = 2e-06          T_MEASURED= 27             
++is       = 3.4585e-07     rs       = 0.0191146      n        = 1.13411        
++xti      = 3.66194        bv       = 66             eg       = 0.71           
++cjo      = 1.054e-09      m        = 1.55073        vj       = 6.93186        
++tt       = 7.73585e-10    ikf      = 0              fc       = 0.5            
++ibv      = 1e-06          trs1     = 0.00476879 )
