@@ -1,6 +1,6 @@
 {
     "MBR10xx.csv": {
-        "pdf": "/Datasheet/diodes/MBR10xx.pdf",
+        "pdf": "Datasheet/diodes/MBR10xx/MBR10xx.pdf",
         "img": "image/diodes\\88669.png"
     }
 }

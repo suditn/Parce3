@@ -1,2 +1,2 @@
-Part Number;Status;Description;Product Type;VINMin.(V);VINMax.(V);Package;Package Size(W, L, H)(mm);Image path;Datasheet part;3d model part
-SIP32434A;Active;6 A, 33 mΩ, 2.8 V to 23 V, programmable OVP and current limit, latch-off on fault;Slew rate, current limit;2.8;28.0;DFN33-10L;3.0 x 3.0 x 0.9;63147;Datasheet/power-ics/SIP32434A\SIP32434A.pdf;
+Part Number;Status;Description;Configuration;Slew Rate Time(µs);On Delay Time(µs);VINMin.(V);VINMax.(V);RDS(on)at VINMin.(mΩ);RDS(on)at VINMax.(mΩ);IQat VINMin.(µA);IQat VINMax.(µA);Output Discharge(Y / N);Reverse Blocking(Y / N);Cont. Current(A);Package;Package Size(W, L, H)(mm);Image path;Datasheet part;3d model part
+SIP32434A;Active;6 A, 33 mΩ, 2.8 V to 23 V, programmable OVP and current limit, latch-off on fault;Single;Adjustable;190;2.8;28.0;33.0;33.0;180.0;250.0;N;N;6.0;DFN33-10L;3.0 x 3.0 x 0.9;63147;Datasheet/power-ics/SIP32434A\SIP32434A.pdf;

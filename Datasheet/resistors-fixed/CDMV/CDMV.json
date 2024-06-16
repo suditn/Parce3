@@ -1,6 +1,6 @@
 {
     "CDMV.csv": {
-        "pdf": "/Datasheet/resistors-fixed/CDMV.pdf",
+        "pdf": "Datasheet/resistors-fixed/CDMV/CDMV.pdf",
         "img": "image/resistors-fixed/68040.png"
     }
 }

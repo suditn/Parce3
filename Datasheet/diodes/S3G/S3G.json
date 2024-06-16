@@ -1,6 +1,6 @@
 {
     "S3G.csv": {
-        "pdf": "/Datasheet/diodes/S3G.pdf",
+        "pdf": "Datasheet/diodes/S3G/S3G.pdf",
         "img": "image/diodes\\89032.png"
     }
 }
