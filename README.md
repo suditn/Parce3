@@ -1,4 +1,4 @@
-main.py - Парсинг сайта
+main.py - Парсинг сайта\n
 csv_datasheet.py - Создание локальных json и csv
 pages.json - Страницы которые парсяца
 
