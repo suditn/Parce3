@@ -1,2 +1,2 @@
 Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
-SiHP24N65E;Enlarge;Single;TO-220AB;N;650.0;30.0;;;;;;;;;0.145;;81.0;21.0;37.0;24.0;250.0;2.0;0.68;image/mosfets/75348.png;Datasheet/mosfets/SiHP24N65E/SiHP24N65E.pdf;
+SiHP24N65E;Enlarge;Single;TO-220AB;N;650.0;30.0;;;;;;;;;0.145;;81.0;21.0;37.0;24.0;250.0;2.0;0.68;image/mosfets/79335.png;Datasheet\/mosfets/SiHP24N65E\SiHP24N65E.pdf;Datasheet\/mosfets/SiHP24N65E\SiHP24N65E.zip

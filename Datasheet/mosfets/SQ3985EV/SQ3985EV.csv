@@ -1,2 +1,2 @@
 Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
-SQ3985EV;Enlarge;Dual;TSOP-6;P;-20.0;8.0;;;0.3;0.2;;0.145;;;;3.1;;0.5;0.9;-3.9;3.0;-0.45;5.5;image/mosfets/67917.png;Datasheet/mosfets/SQ3985EV/SQ3985EV.pdf;
+SQ3985EV;Enlarge;Dual;TSOP-6;P;-20.0;8.0;;;0.3;0.2;;0.145;;;;3.1;;0.5;0.9;-3.9;3.0;-0.45;5.5;image/mosfets/67917.png;Datasheet\/mosfets/SQ3985EV\SQ3985EV.pdf;

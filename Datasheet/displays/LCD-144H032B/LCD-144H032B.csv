@@ -1,0 +1,2 @@
+Series;Type(V);Display Format;Outline Dimensions(W x H mm);Effective Viewing Area(W x H mm);Character Size(W x H mm);Dot Size(W x H mm);Dot Pitch(W x H mm);Driving Method (Duty);Built-In Controller;Process Color STN Gray;Process Color STN Yellow;Process Color STN Blue;Process Color FSTN B & W;BL None;BL LED;BL EL;BL CCFL;Image path;Datasheet part;3d model part
+LCD-144H032B;Graphic;144 x 32 dots;80.0 x 36.0;66.0 x 16.0;N/a;0.38 x 0.38;0.42 x 0.42;1/32;ST7920;x;x;x;x;x;x;x;;37350;Datasheet/displays/LCD-144H032B\LCD-144H032B.pdf;

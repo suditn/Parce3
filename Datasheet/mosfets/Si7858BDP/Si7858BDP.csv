@@ -1,2 +1,2 @@
 Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
-Si7858BDP;Enlarge;Single;PowerPAK SO-8;N;12.0;8.0;;;0.0037;0.003;;0.0025;;;;56.0;;5.9;12.5;40.0;48.0;0.4;0.65;image/mosfets/63079.png;Datasheet/mosfets/Si7858BDP/Si7858BDP.pdf;
+Si7858BDP;Enlarge;Single;PowerPAK SO-8;N;12.0;8.0;;;0.0037;0.003;;0.0025;;;;56.0;;5.9;12.5;40.0;48.0;0.4;0.65;image/mosfets/77245.png;Datasheet\/mosfets/Si7858BDP\Si7858BDP.pdf;Datasheet\/mosfets/Si7858BDP\Si7858BDP.zip

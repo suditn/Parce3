@@ -1,0 +1,9 @@
+Series;Product Image;Resistance Min.(Ω);Resistance Max.(Ω);E-Series;Tolerance(± %);Power Rating(W);Maximum Voltage(V);TCR(± ppm/°C);MountingTechnology;Size / Device Style;OperatingTemperature(°C);Automotive;Image path;Datasheet part;3d model part
+CHA;Enlarge;10;150;;5.0;0.03;30;50;Surface-mount;High frequency;-55 to +155;AEC-Q200 qualified;image/resistors-fixed/53086.png;Datasheet\/resistors-fixed/CHA\CHA.pdf;
+CHA;Enlarge;10;500;;5.0;0.03;30;100;Surface-mount;High frequency;-55 to +155;AEC-Q200 qualified;image/resistors-fixed/53086.png;Datasheet\/resistors-fixed/CHA\CHA.pdf;
+CHA;Enlarge;100;100;;1.0;0.03;30;100;Surface-mount;High frequency;-55 to +155;AEC-Q200 qualified;image/resistors-fixed/53086.png;Datasheet\/resistors-fixed/CHA\CHA.pdf;
+CHA;Enlarge;100;100;;1.0;0.03;30;50;Surface-mount;High frequency;-55 to +155;AEC-Q200 qualified;image/resistors-fixed/53086.png;Datasheet\/resistors-fixed/CHA\CHA.pdf;
+CHA;Enlarge;50;150;;2.0;0.03;30;50;Surface-mount;High frequency;-55 to +155;AEC-Q200 qualified;image/resistors-fixed/53086.png;Datasheet\/resistors-fixed/CHA\CHA.pdf;
+CHA;Enlarge;50;50;;1.0;0.03;30;100;Surface-mount;High frequency;-55 to +155;AEC-Q200 qualified;image/resistors-fixed/53086.png;Datasheet\/resistors-fixed/CHA\CHA.pdf;
+CHA;Enlarge;50;50;;1.0;0.03;30;50;Surface-mount;High frequency;-55 to +155;AEC-Q200 qualified;image/resistors-fixed/53086.png;Datasheet\/resistors-fixed/CHA\CHA.pdf;
+CHA;Enlarge;50;500;;2.0;0.03;30;100;Surface-mount;High frequency;-55 to +155;AEC-Q200 qualified;image/resistors-fixed/53086.png;Datasheet\/resistors-fixed/CHA\CHA.pdf;

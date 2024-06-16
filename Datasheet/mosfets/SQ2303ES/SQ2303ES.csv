@@ -1,2 +1,2 @@
 Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
-SQ2303ES;Enlarge;Single;SOT-23;P;-30.0;20.0;;;;;;0.37;;;0.17;;4.5;0.8;1.1;-2.5;1.9;-1.5;12.08;image/mosfets/76397.png;Datasheet/mosfets/SQ2303ES/SQ2303ES.pdf;Datasheet/mosfets/SQ2303ES/SQ2303ES.zip
+SQ2303ES;Enlarge;Single;SOT-23;P;-30.0;20.0;;;;;;0.37;;;0.17;;4.5;0.8;1.1;-2.5;1.9;-1.5;12.08;image/mosfets/76397.png;Datasheet\/mosfets/SQ2303ES\SQ2303ES.pdf;Datasheet\/mosfets/SQ2303ES\SQ2303ES.zip

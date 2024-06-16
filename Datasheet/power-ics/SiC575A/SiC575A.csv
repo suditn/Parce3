@@ -1,2 +1,2 @@
 Part Number;Status;Description;Product Type;VINMin.(V);VINMax.(V);Package;Package Size(W, L, H)(mm);Image path;Datasheet part;3d model part
-SiC575A;Active;60 A smart power stage, 4.5 VINto 18 VIN, 3.3 V PWM with diode emulation mode;VRPower (DrMOS);4.5;18.0;PowerPAK MLP24-45L;4.0 x 5.0 x 0.60;62090;Datasheet/power-ics/networking/SiC575A/SiC575A.pdf;
+SiC575A;Active;60 A smart power stage, 4.5 VINto 18 VIN, 3.3 V PWM with diode emulation mode;VRPower (DrMOS);4.5;18.0;PowerPAK MLP24-45L;4.0 x 5.0 x 0.60;62090;Datasheet/power-ics/SiC575A\SiC575A.pdf;

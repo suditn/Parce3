@@ -1,2 +1,2 @@
 Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
-SiSH110DN;Enlarge;Single;PowerPAK 1212-8;N;20.0;20.0;;;;;;0.0078;;;0.0053;14.0;;7.0;4.5;13.5;1.5;1.5;1.4;91078;Datasheet/mosfets/IRF9540/IRF9540.pdf;
+SiSH110DN;Enlarge;Single;PowerPAK 1212-8;N;20.0;20.0;;;;;;0.0078;;;0.0053;14.0;;7.0;4.5;13.5;1.5;1.5;1.4;91079;Datasheet//mosfets/IRF9540S, SiHF9540S\IRF9540S, SiHF9540S.pdf;

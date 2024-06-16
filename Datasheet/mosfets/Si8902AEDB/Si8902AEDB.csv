@@ -1,2 +1,2 @@
 Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
-Si8902AEDB;Enlarge;Common drain;MICRO FOOT 2.4 x 1.6;N;24.0;12.0;;;0.0185;0.0155;;0.014;;;;;;;;11.0;5.7;0.4;5300.0;image/mosfets/92373.png;Datasheet/mosfets/Si8902AEDB/Si8902AEDB.pdf;
+Si8902AEDB;Enlarge;Common drain;MICRO FOOT 2.4 x 1.6;N;24.0;12.0;;;0.0185;0.0155;;0.014;;;;;;;;11.0;5.7;0.4;5300.0;image/mosfets/92275.png;Datasheet\/mosfets/Si8902AEDB\Si8902AEDB.pdf;

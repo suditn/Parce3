@@ -1,2 +1,2 @@
 Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
-SiR572DP;Enlarge;Single;PowerPAK SO-8;N;150.0;20.0;;;;;;;;0.0115;0.0108;;35.9;12.7;3.8;59.7;92.5;2.0;1.05;image/mosfets/62083.png;Datasheet/mosfets/SiR572DP/SiR572DP.pdf;
+SiR572DP;Enlarge;Single;PowerPAK SO-8;N;150.0;20.0;;;;;;;;0.0115;0.0108;;35.9;12.7;3.8;59.7;92.5;2.0;1.05;image/mosfets/76822.png;Datasheet\/mosfets/SiR572DP\SiR572DP.pdf;

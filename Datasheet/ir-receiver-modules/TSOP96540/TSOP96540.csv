@@ -1,0 +1,2 @@
+Part Number;Product Image;Package;Dimensions(mm);Carrier Frequency(kHz);AGC;Transmission DistanceTyp.(m);Detection Threshold /Sensitivity Typ.;Half ViewingAngle(°);Supply CurrentTyp.(mA);Pinning;Recommended for RemoteControl Code;Application;Mounting;Image path;Datasheet part;3d model part
+TSOP96540;Enlarge;Panhead;7.5 W x 5.3 H x 4.0 D;40;AGC5;24.0;0.16;± 50;0.37;1 = GND, 2 = N.C., 3 = VS, 4 = OUT;;Remote control;SMD;image/ir-receiver-modules/82848.png;Datasheet\/ir-receiver-modules/TSOP96540\TSOP96540.pdf;

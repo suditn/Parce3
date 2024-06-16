@@ -1,0 +1,2 @@
+Series;Product Image;Type;Description;Technology;Resistance (min)(Ω);Resistance (max)(Ω);TCR Absolute(ppm/°C);TCR Tracking(ppm/°C);Absolute Tolerance(%);Ratio Tolerance(%);Power(W);Package Type;Case (EIA & Mil);Image path;Datasheet part;3d model part
+DFN;Enlarge;Resistor Networks;Dual Flat No Lead Molded Precision Thin Film Resistor Surface Mount Network;Thin Film;100;100 K;25.0;3.0;0.05;0.025;0.1;Arrays / leadless;;image/networks-and-arrays/60109.png;Datasheet\/networks-and-arrays/DFN\DFN.pdf;

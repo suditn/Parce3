@@ -1,2 +1,2 @@
 Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
-SiS4604DN;;Single;PowerPAK 1212-8;N;60.0;20.0;;;;;;;;0.0124;0.0095;;14.5;4.9;2.6;44.4;33.7;2.0;0.85;91023;Datasheet/mosfets/IRF610/IRF610.pdf;
+SiS4604DN;;Single;PowerPAK 1212-8;N;60.0;20.0;;;;;;;;0.0124;0.0095;;14.5;4.9;2.6;44.4;33.7;2.0;0.85;91024;Datasheet//mosfets/IRF610S, SiHF610S, IRF610L, SiHF610L\IRF610S, SiHF610S, IRF610L, SiHF610L.pdf;

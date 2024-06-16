@@ -1,0 +1,2 @@
+Series;Type(V);Display Format;Outline Dimensions(W x H mm);Effective Viewing Area(W x H mm);Character Size(W x H mm);Dot Size(W x H mm);Dot Pitch(W x H mm);Driving Method (Duty);Built-In Controller;Process Color TN;Process Color STN Gray;Process Color STN Yellow;Process Color STN Blue;Process Color STN Color;BL None;BL LED;BL EL;BL CCFL;Image path;Datasheet part;3d model part
+LCD-020N004D;Character;20 x 4 characters;77.0 x 47.0;60.0 x 22.0;2.3 x 4.03;0.42 x 0.46;0.47 x 0.51;1/16;ST 7066 (or equivalent);x;x;x;x;;x;x;x;;37313;Datasheet/displays/LCD-020N004D\LCD-020N004D.pdf;

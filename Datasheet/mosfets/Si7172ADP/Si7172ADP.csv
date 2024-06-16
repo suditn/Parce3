@@ -1,2 +1,2 @@
 Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
-Si7172ADP;Enlarge;Single;PowerPAK SO-8;N;200.0;20.0;;;;;;;;0.08;0.07;;19.5;5.3;5.2;17.2;52.0;2.0;1.6;image/mosfets/62235.png;Datasheet/mosfets/Si7172ADP/Si7172ADP.pdf;Datasheet/mosfets/Si7172ADP/Si7172ADP.zip
+Si7172ADP;Enlarge;Single;PowerPAK SO-8;N;200.0;20.0;;;;;;;;0.08;0.07;;19.5;5.3;5.2;17.2;52.0;2.0;1.6;image/mosfets/63619.png;Datasheet\/mosfets/Si7172ADP\Si7172ADP.pdf;Datasheet\/mosfets/Si7172ADP\Si7172ADP.zip

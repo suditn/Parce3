@@ -1,2 +1,2 @@
 Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
-SiS9446DN;Enlarge;Dual;PowerPAK 1212-8;N;40.0;20.0;;;;;;0.017;;;0.012;4.7;10.2;2.7;0.7;34.0;23.0;1.1;3.0;91046;Datasheet/mosfets/IRF730AS, SiHF730AS, IRF730AL, SiHF730AL/IRF730AS, SiHF730AS, IRF730AL, SiHF730AL.pdf;
+SiS9446DN;Enlarge;Dual;PowerPAK 1212-8;N;40.0;20.0;;;;;;0.017;;;0.012;4.7;10.2;2.7;0.7;34.0;23.0;1.1;3.0;91048;Datasheet//mosfets/IRF730S, SiHF730S\IRF730S, SiHF730S.pdf;

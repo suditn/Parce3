@@ -1,4 +1,4 @@
 Part Number;Configuration;SingleSupplyMin.;SingleSupplyMax.;DualSupplyMin.;DualSupplyMax.;On-Resistance(Ω);Is(off)Max.;tonMax.;QINJTyp.;XTALK&OIRR;Package;CS(on)(pF);CS(off)(pF);-3 dBBandwidth(MHz);Image path;Datasheet part;3d model part
-DG442B;SPST x 4, NO;13.0;36.0;7.0;22.0;45.0;0.5;220.0;1.0;-95.0;SO-16 (Narrow) AS;16.0;4.0;;72625;Datasheet/analog-switches/DG442B/DG442B.pdf;
-DG442B;SPST x 4, NO;13.0;36.0;7.0;22.0;45.0;0.5;220.0;1.0;-95.0;QFN-16 4x4;16.0;4.0;;72625;Datasheet/analog-switches/DG442B/DG442B.pdf;
-DG442B;SPST x 4, NO;13.0;36.0;7.0;22.0;45.0;0.5;220.0;1.0;-95.0;Plastic DIP-16;16.0;4.0;;72625;Datasheet/analog-switches/DG442B/DG442B.pdf;
+DG442B;SPST x 4, NO;13.0;36.0;7.0;22.0;45.0;0.5;220.0;1.0;-95.0;SO-16 (Narrow) AS;16.0;4.0;;72625;Datasheet//analog-switches/DG442B\DG442B.pdf;
+DG442B;SPST x 4, NO;13.0;36.0;7.0;22.0;45.0;0.5;220.0;1.0;-95.0;QFN-16 4x4;16.0;4.0;;72625;Datasheet//analog-switches/DG442B\DG442B.pdf;
+DG442B;SPST x 4, NO;13.0;36.0;7.0;22.0;45.0;0.5;220.0;1.0;-95.0;Plastic DIP-16;16.0;4.0;;72625;Datasheet//analog-switches/DG442B\DG442B.pdf;

@@ -1,0 +1,3 @@
+Part Number;Product Image;Rev. Voltage(V);IF(AV)(A);VFat IF(V at A);IFSM(A);IRM(mA);TJmax.(°C);Package (JEDEC®) Code;Circuit Configuration;AEC-Q101Qualified;Image path;Datasheet part;3d model part
+VSSA210;Enlarge;100;2;0.56;60.0;;150;SMA (DO-214AC);Single;Yes;image/diodes\98219.png;Datasheet\diodes\VSSA210\VSSA210.pdf;Datasheet\diodes\VSSA210\VSSA210.zip
+VSSA210;Enlarge;100;2;0.56;60.0;;150;SMA (DO-214AC);Single;No;image/diodes\87720.png;Datasheet\diodes\VSSA210\VSSA210.pdf;Datasheet\diodes\VSSA210\VSSA210.zip

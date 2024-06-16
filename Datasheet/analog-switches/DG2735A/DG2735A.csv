@@ -1,2 +1,2 @@
 Part Number;Configuration;SingleSupplyMin.;SingleSupplyMax.;DualSupplyMin.;DualSupplyMax.;On-Resistance(Ω);Is(off)Max.;tonMax.;QINJTyp.;XTALK&OIRR;Package;CS(on)(pF);CS(off)(pF);-3 dBBandwidth(MHz);Image path;Datasheet part;3d model part
-DG2735A;SPDT x 2;1.65;4.3;;;0.6;10.0;75.0;;-70.0;miniQFN-10;168.0;52.0;30.0;67590;Datasheet/analog-switches/DG2735A/DG2735A.pdf;
+DG2735A;SPDT x 2;1.65;4.3;;;0.6;10.0;75.0;;-70.0;miniQFN-10;168.0;52.0;30.0;67590;Datasheet//analog-switches/DG2735A\DG2735A.pdf;

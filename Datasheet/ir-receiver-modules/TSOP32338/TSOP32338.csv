@@ -1,0 +1,7 @@
+Part Number;Product Image;Package;Dimensions(mm);Carrier Frequency(kHz);AGC;Transmission DistanceTyp.(m);Detection Threshold /Sensitivity Typ.;Half ViewingAngle(°);Supply CurrentTyp.(mA);Pinning;Recommended for RemoteControl Code;Application;Mounting;Image path;Datasheet part;3d model part
+TSOP32338;Enlarge;Mold;6.0 W x 6.95 H x 5.6 D;38;AGC3;39.0;0.05;± 45;0.35;"1 = OUT, 2 = VS,
+3 = GND";RECS-80 Code;Remote control;Leaded;image/ir-receiver-modules/82490.png;Datasheet\/ir-receiver-modules/TSOP32338\TSOP32338.pdf;Datasheet\/ir-receiver-modules/TSOP32338\TSOP32338.zip
+TSOP32338;Enlarge;Mold;6.0 W x 6.95 H x 5.6 D;38;AGC3;39.0;0.05;± 45;0.35;"1 = OUT, 2 = VS,
+3 = GND";r-map;Remote control;Leaded;image/ir-receiver-modules/82490.png;Datasheet\/ir-receiver-modules/TSOP32338\TSOP32338.pdf;Datasheet\/ir-receiver-modules/TSOP32338\TSOP32338.zip
+TSOP32338;Enlarge;Mold;6.0 W x 6.95 H x 5.6 D;38;AGC3;39.0;0.05;± 45;0.35;"1 = OUT, 2 = VS,
+3 = GND";XMP;Remote control;Leaded;image/ir-receiver-modules/82490.png;Datasheet\/ir-receiver-modules/TSOP32338\TSOP32338.pdf;Datasheet\/ir-receiver-modules/TSOP32338\TSOP32338.zip

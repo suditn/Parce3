@@ -1,2 +1,2 @@
 Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
-IRFI640G;Enlarge;Single;TO-220 FULLPAK;N;200.0;20.0;;;;;;;;;0.18;;70.0;13.0;39.0;9.8;40.0;2.0;;image/mosfets/91156.png;Datasheet/mosfets/IRFI640G/IRFI640G.pdf;
+IRFI640G;Enlarge;Single;TO-220 FULLPAK;N;200.0;20.0;;;;;;;;;0.18;;70.0;13.0;39.0;9.8;40.0;2.0;;image/mosfets/91156.png;Datasheet\/mosfets/IRFI640G\IRFI640G.pdf;

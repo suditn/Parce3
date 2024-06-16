@@ -1,2 +1,2 @@
 Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
-SiDR104AEP;Enlarge;Single;PowerPAK SO-8DC;N;100.0;20.0;;;;;;;;0.0072;0.0061;;46.1;15.4;7.1;90.5;120.0;2.0;0.9;image/mosfets/92498.png;Datasheet/mosfets/SiDR104AEP/SiDR104AEP.pdf;
+SiDR104AEP;Enlarge;Single;PowerPAK SO-8DC;N;100.0;20.0;;;;;;;;0.0072;0.0061;;46.1;15.4;7.1;90.5;120.0;2.0;0.9;image/mosfets/92378.png;Datasheet\/mosfets/SiDR104AEP\SiDR104AEP.pdf;

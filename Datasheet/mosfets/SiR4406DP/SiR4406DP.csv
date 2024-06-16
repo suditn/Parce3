@@ -1,2 +1,2 @@
 Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
-SiR4406DP;;Single;PowerPAK SO-8;N;40.0;20.0;;;;;;0.0067;;;0.00475;10.9;23.7;5.3;1.9;78.0;41.6;1.1;2.8;image/mosfets/62898.png;Datasheet/mosfets/SiR4406DP/SiR4406DP.pdf;
+SiR4406DP;;Single;PowerPAK SO-8;N;40.0;20.0;;;;;;0.0067;;;0.00475;10.9;23.7;5.3;1.9;78.0;41.6;1.1;2.8;image/mosfets/76567.png;Datasheet\/mosfets/SiR4406DP\SiR4406DP.pdf;Datasheet\/mosfets/SiR4406DP\SiR4406DP.zip

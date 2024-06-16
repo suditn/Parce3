@@ -1,2 +1,2 @@
 Part Number;Configuration;SingleSupplyMin.;SingleSupplyMax.;DualSupplyMin.;DualSupplyMax.;On-Resistance(Ω);Is(off)Max.;tonMax.;QINJTyp.;XTALK&OIRR;Package;CS(on)(pF);CS(off)(pF);-3 dBBandwidth(MHz);Image path;Datasheet part;3d model part
-DG2716E;SPST x 1, NC;1.8;5.5;;;0.7;5.0;25.0;-7.0;-57.0;SC-70-5;73.0;29.0;;75025;Datasheet/analog-switches/DG2716E/DG2716E.pdf;
+DG2716E;SPST x 1, NC;1.8;5.5;;;0.7;5.0;25.0;-7.0;-57.0;SC-70-5;73.0;29.0;;75025;Datasheet//analog-switches/DG2716E\DG2716E.pdf;

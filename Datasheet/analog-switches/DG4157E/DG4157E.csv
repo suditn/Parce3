@@ -1,3 +1,3 @@
 Part Number;Configuration;SingleSupplyMin.;SingleSupplyMax.;DualSupplyMin.;DualSupplyMax.;On-Resistance(Ω);Is(off)Max.;tonMax.;QINJTyp.;XTALK&OIRR;Package;CS(on)(pF);CS(off)(pF);-3 dBBandwidth(MHz);Image path;Datasheet part;3d model part
-DG4157E;SPDT x 2;1.65;5.5;;;0.86;20.0;47.0;-5.0;-41.0;SC70-6;1.0;13.0;152.0;75778;Datasheet/analog-switches/DG4157E/DG4157E.pdf;
-DG4157E;SPDT x 2;1.65;5.5;;;0.86;20.0;47.0;-5.0;-41.0;UDFN-6;1.0;13.0;152.0;75778;Datasheet/analog-switches/DG4157E/DG4157E.pdf;
+DG4157E;SPDT x 2;1.65;5.5;;;0.86;20.0;47.0;-5.0;-41.0;UDFN-6;1.0;13.0;152.0;75778;Datasheet//analog-switches/DG4157E\DG4157E.pdf;
+DG4157E;SPDT x 2;1.65;5.5;;;0.86;20.0;47.0;-5.0;-41.0;SC70-6;1.0;13.0;152.0;75778;Datasheet//analog-switches/DG4157E\DG4157E.pdf;

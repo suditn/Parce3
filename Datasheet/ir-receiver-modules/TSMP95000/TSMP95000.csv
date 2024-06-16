@@ -1,0 +1,2 @@
+Part Number;Product Image;Package;Dimensions(mm);Carrier Frequency(kHz);AGC;Transmission DistanceTyp.(m);Detection Threshold /Sensitivity Typ.;Half ViewingAngle(°);Supply CurrentTyp.(mA);Pinning;Recommended for RemoteControl Code;Application;Mounting;Image path;Datasheet part;3d model part
+TSMP95000;Enlarge;Heimdall;6.8 W x 3.0 H x 3.2 D;30 to 60;;1.8;12.0;± 50;0.35;1, 4 = GND, 2 = VS, 3 = carrier OUT;;Code learning;SMD;image/ir-receiver-modules/82907.png;Datasheet\/ir-receiver-modules/TSMP95000\TSMP95000.pdf;

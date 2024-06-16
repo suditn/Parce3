@@ -1,0 +1,4 @@
+Series;Product Image;Package (JEDEC®) Code;VRRM(V);IRat VR(nA at V);VFat IF(V at mA);trr(ns);Circuit Configuration;AEC-Q101 Qualified;Image path;Datasheet part;3d model part
+BAV19W, BAV20W, BAV21W;Enlarge;SOD-123;120.0;100 at 100;1 at 100;50.0;Single;Yes;image/diodes\86372.png;Datasheet\diodes\BAV19W, BAV20W, BAV21W\BAV19W, BAV20W, BAV21W.pdf;Datasheet\diodes\BAV19W, BAV20W, BAV21W\BAV19W, BAV20W, BAV21W.zip
+BAV19W, BAV20W, BAV21W;Enlarge;SOD-123;200.0;100 at 150;1 at 100;50.0;Single;Yes;image/diodes\86372.png;Datasheet\diodes\BAV19W, BAV20W, BAV21W\BAV19W, BAV20W, BAV21W.pdf;Datasheet\diodes\BAV19W, BAV20W, BAV21W\BAV19W, BAV20W, BAV21W.zip
+BAV19W, BAV20W, BAV21W;Enlarge;SOD-123;250.0;100 at 200;1 at 100;50.0;Single;Yes;image/diodes\86372.png;Datasheet\diodes\BAV19W, BAV20W, BAV21W\BAV19W, BAV20W, BAV21W.pdf;Datasheet\diodes\BAV19W, BAV20W, BAV21W\BAV19W, BAV20W, BAV21W.zip

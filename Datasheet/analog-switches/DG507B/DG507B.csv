@@ -1,4 +1,4 @@
 Part Number;Configuration;SingleSupplyMin.;SingleSupplyMax.;DualSupplyMin.;DualSupplyMax.;On-Resistance(Ω);Is(off)Max.;tonMax.;QINJTyp.;XTALK&OIRR;Package;CS(on)(pF);CS(off)(pF);-3 dBBandwidth(MHz);Image path;Datasheet part;3d model part
-DG507B;8:1 x 2;12.0;44.0;5.0;20.0;170.0;1.0;250.0;1.0;-84.0;PLCC-28;24.0;3.0;217.0;65150;Datasheet/analog-switches/DG507B/DG507B.pdf;
-DG507B;8:1 x 2;12.0;44.0;5.0;20.0;170.0;1.0;250.0;1.0;-84.0;TSSOP-28;24.0;3.0;217.0;65150;Datasheet/analog-switches/DG507B/DG507B.pdf;
-DG507B;8:1 x 2;12.0;44.0;5.0;20.0;170.0;1.0;250.0;1.0;-84.0;SO-28 (Wide);24.0;3.0;217.0;65150;Datasheet/analog-switches/DG507B/DG507B.pdf;
+DG507B;8:1 x 2;12.0;44.0;5.0;20.0;170.0;1.0;250.0;1.0;-84.0;TSSOP-28;24.0;3.0;217.0;65150;Datasheet//analog-switches/DG507B\DG507B.pdf;
+DG507B;8:1 x 2;12.0;44.0;5.0;20.0;170.0;1.0;250.0;1.0;-84.0;SO-28 (Wide);24.0;3.0;217.0;65150;Datasheet//analog-switches/DG507B\DG507B.pdf;
+DG507B;8:1 x 2;12.0;44.0;5.0;20.0;170.0;1.0;250.0;1.0;-84.0;PLCC-28;24.0;3.0;217.0;65150;Datasheet//analog-switches/DG507B\DG507B.pdf;

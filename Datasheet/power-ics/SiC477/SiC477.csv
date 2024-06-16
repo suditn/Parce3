@@ -1,2 +1,2 @@
 Part Number;Status;Description;Product Type;VINMin.(V);VINMax.(V);Package;Package Size(W, L, H)(mm);Image path;Datasheet part;3d model part
-SiC477;New;8 A, 4.5 V to 55 V input, 100 kHz to 2 MHz, synchronous microBUCK regulator;microBUCK (step down regulator);4.5;55.0;PowerPAK MLP55-27L;5 x 5 x 0.75;77113;Datasheet/power-ics/networking/SiC477/SiC477.pdf;
+SiC477;New;8 A, 4.5 V to 55 V input, 100 kHz to 2 MHz, synchronous microBUCK regulator;microBUCK (step down regulator);4.5;55.0;PowerPAK MLP55-27L;5 x 5 x 0.75;77113;Datasheet/power-ics/SiC477\SiC477.pdf;Datasheet/power-ics/SiC477\SiC477.zip

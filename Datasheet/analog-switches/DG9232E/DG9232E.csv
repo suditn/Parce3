@@ -1,3 +1,3 @@
 Part Number;Configuration;SingleSupplyMin.;SingleSupplyMax.;DualSupplyMin.;DualSupplyMax.;On-Resistance(Ω);Is(off)Max.;tonMax.;QINJTyp.;XTALK&OIRR;Package;CS(on)(pF);CS(off)(pF);-3 dBBandwidth(MHz);Image path;Datasheet part;3d model part
-DG9232E;SPST x 2, NC;2.7;5.0;;;17.0;;120.0;2.0;-80.0;MSOP-8;;4.0;;75165;Datasheet/analog-switches/DG9232E/DG9232E.pdf;
-DG9232E;SPST x 2, NC;2.7;5.0;;;17.0;;120.0;2.0;-80.0;SO-8 (Narrow) AS;;4.0;;75165;Datasheet/analog-switches/DG9232E/DG9232E.pdf;
+DG9232E;SPST x 2, NC;2.7;5.0;;;17.0;;120.0;2.0;-80.0;MSOP-8;;4.0;;75165;Datasheet//analog-switches/DG9232E\DG9232E.pdf;
+DG9232E;SPST x 2, NC;2.7;5.0;;;17.0;;120.0;2.0;-80.0;SO-8 (Narrow) AS;;4.0;;75165;Datasheet//analog-switches/DG9232E\DG9232E.pdf;

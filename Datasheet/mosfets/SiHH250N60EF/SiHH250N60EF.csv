@@ -1,2 +1,2 @@
 Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
-SiHH250N60EF;Enlarge;Single;PowerPAK 8 x 8;N;600.0;30.0;;;;;;;;;0.25;;15.0;7.0;4.0;13.0;89.0;3.0;1.65;image/mosfets/76834.png;Datasheet/mosfets/SiHH250N60EF/SiHH250N60EF.pdf;
+SiHH250N60EF;Enlarge;Single;PowerPAK 8 x 8;N;600.0;30.0;;;;;;;;;0.25;;15.0;7.0;4.0;13.0;89.0;3.0;1.65;image/mosfets/63067.png;Datasheet\/mosfets/SiHH250N60EF\SiHH250N60EF.pdf;Datasheet\/mosfets/SiHH250N60EF\SiHH250N60EF.zip

@@ -1,2 +1,2 @@
 Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
-SiHG039N60EF;Enlarge;Single;TO-247AC;N;600.0;30.0;;;;;;;;;0.04;;84.0;36.0;26.0;61.0;357.0;3.0;0.7;image/mosfets/91554.png;Datasheet/mosfets/SiHG039N60EF/SiHG039N60EF.pdf;Datasheet/mosfets/SiHG039N60EF/SiHG039N60EF.zip
+SiHG039N60EF;Enlarge;Single;TO-247AC;N;600.0;30.0;;;;;;;;;0.04;;84.0;36.0;26.0;61.0;357.0;3.0;0.7;image/mosfets/91662.png;Datasheet\/mosfets/SiHG039N60EF\SiHG039N60EF.pdf;Datasheet\/mosfets/SiHG039N60EF\SiHG039N60EF.zip

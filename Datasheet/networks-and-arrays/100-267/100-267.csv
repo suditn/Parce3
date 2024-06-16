@@ -1,0 +1,2 @@
+Series;Product Image;Type;Description;Technology;Resistance (min)(Ω);Resistance (max)(Ω);TCR Absolute(ppm/°C);TCR Tracking(ppm/°C);Absolute Tolerance(%);Ratio Tolerance(%);Power(W);Package Type;Case (EIA & Mil);Image path;Datasheet part;3d model part
+100-267;Enlarge;Resistor Networks;Decade Divider, Single In-Line, Thin Film Divider, Through Hole Resistor Network;Thin Film;100;1 M;25.0;5.0;0.1;0.01;0.1;SIP;;image/networks-and-arrays/60044.png;Datasheet\/networks-and-arrays/100-267\100-267.pdf;

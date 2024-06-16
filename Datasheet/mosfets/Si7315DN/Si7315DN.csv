@@ -1,2 +1,2 @@
 Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
-Si7315DN;Enlarge;Single;PowerPAK 1212-8;P;-150.0;30.0;;;;;;;;0.35;0.315;;19.5;4.8;5.3;-8.9;52.0;-2.0;5.4;image/mosfets/75354.png;Datasheet/mosfets/Si7315DN/Si7315DN.pdf;
+Si7315DN;Enlarge;Single;PowerPAK 1212-8;P;-150.0;30.0;;;;;;;;0.35;0.315;;19.5;4.8;5.3;-8.9;52.0;-2.0;5.4;image/mosfets/76741.png;Datasheet\/mosfets/Si7315DN\Si7315DN.pdf;

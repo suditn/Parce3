@@ -1,0 +1,2 @@
+Series;Type(V);Display Format;Outline Dimensions(W x H mm);Effective Viewing Area(W x H mm);Character Size(W x H mm);Dot Size(W x H mm);Dot Pitch(W x H mm);Driving Method (Duty);Built-In Controller;Process Color STN Gray;Process Color STN Yellow;Process Color STN Blue;Process Color FSTN B & W;BL None;BL LED;BL EL;BL CCFL;Image path;Datasheet part;3d model part
+LCD-160H128C;Graphic;160 x 128 dots;115.0 x 112.0;101.0 x 82.0;N/a;0.56 x 0.56;0.60 x 0.60;1/128;Toshiba T6963C (or equivalent);x;x;x;x;;x;x;x;37358;Datasheet/displays/LCD-160H128C\LCD-160H128C.pdf;

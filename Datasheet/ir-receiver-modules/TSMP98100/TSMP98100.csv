@@ -1,0 +1,2 @@
+Part Number;Product Image;Package;Dimensions(mm);Carrier Frequency(kHz);AGC;Transmission DistanceTyp.(m);Detection Threshold /Sensitivity Typ.;Half ViewingAngle(°);Supply CurrentTyp.(mA);Pinning;Recommended for RemoteControl Code;Application;Mounting;Image path;Datasheet part;3d model part
+TSMP98100;Enlarge;Minicast;5.0 W x 6.95 H x 4.8 D;38;;12.0;0.4;± 45;0.35;1 = carrier OUT, 2 = GND, 3 = VS;;Repeater;Leaded;image/ir-receiver-modules/82911.png;Datasheet\/ir-receiver-modules/TSMP98100\TSMP98100.pdf;

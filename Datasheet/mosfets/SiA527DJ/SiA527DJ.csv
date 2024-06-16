@@ -1,3 +1,3 @@
 Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
-SiA527DJ;;N&P PAIR;PowerPAK SC-70;N;12.0;8.0;;0.065;0.044;0.034;;0.029;;;;5.6;;0.72;0.74;4.5;7.8;0.4;3.5;image/mosfets/91646.png;Datasheet/mosfets/SiA527DJ/SiA527DJ.pdf;
-SiA527DJ;;N&P PAIR;PowerPAK SC-70;P;-12.0;8.0;;0.174;0.11;0.06;;0.041;;;;10.5;;2.3;2.5;4.5;7.8;0.4;5.5;image/mosfets/91601.png;Datasheet/mosfets/SiA527DJ/SiA527DJ.pdf;
+SiA527DJ;;N&P PAIR;PowerPAK SC-70;N;12.0;8.0;;0.065;0.044;0.034;;0.029;;;;5.6;;0.72;0.74;4.5;7.8;0.4;3.5;image/mosfets/91601.png;Datasheet\/mosfets/SiA527DJ\SiA527DJ.pdf;Datasheet\/mosfets/SiA527DJ\SiA527DJ.zip
+SiA527DJ;;N&P PAIR;PowerPAK SC-70;P;-12.0;8.0;;0.174;0.11;0.06;;0.041;;;;10.5;;2.3;2.5;4.5;7.8;0.4;5.5;image/mosfets/91453.png;Datasheet\/mosfets/SiA527DJ\SiA527DJ.pdf;Datasheet\/mosfets/SiA527DJ\SiA527DJ.zip

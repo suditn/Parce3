@@ -1,2 +1,2 @@
 Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
-SiHP38N60E;Enlarge;Single;TO-220AB;N;600.0;30.0;;;;;;;;;0.065;;122.0;27.0;62.0;43.0;313.0;2.0;0.6;image/mosfets/63032.png;Datasheet/mosfets/SiHP38N60E/SiHP38N60E.pdf;Datasheet/mosfets/SiHP38N60E/SiHP38N60E.zip
+SiHP38N60E;Enlarge;Single;TO-220AB;N;600.0;30.0;;;;;;;;;0.065;;122.0;27.0;62.0;43.0;313.0;2.0;0.6;image/mosfets/75513.png;Datasheet\/mosfets/SiHP38N60E\SiHP38N60E.pdf;Datasheet\/mosfets/SiHP38N60E\SiHP38N60E.zip

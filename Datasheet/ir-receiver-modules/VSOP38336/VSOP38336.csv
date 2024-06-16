@@ -1,0 +1,2 @@
+Part Number;Product Image;Package;Dimensions(mm);Carrier Frequency(kHz);AGC;Transmission DistanceTyp.(m);Detection Threshold /Sensitivity Typ.;Half ViewingAngle(°);Supply CurrentTyp.(mA);Pinning;Recommended for RemoteControl Code;Application;Mounting;Image path;Datasheet part;3d model part
+VSOP38336;Enlarge;VSOP;2.0 W x 2.0 H x 0.76 D;36;AGC3;;;;0.35;1, 4, 5 = N.C., 2 = VS, 3 = OUT, 6, 8 = GND, 7 = IN;MCIR;Remote control;SMD;image/ir-receiver-modules/82748.png;Datasheet\/ir-receiver-modules/VSOP38336\VSOP38336.pdf;Datasheet\/ir-receiver-modules/VSOP38336\VSOP38336.zip

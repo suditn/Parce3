@@ -1,2 +1,2 @@
 Part Number;Configuration;SingleSupplyMin.;SingleSupplyMax.;DualSupplyMin.;DualSupplyMax.;On-Resistance(Ω);Is(off)Max.;tonMax.;QINJTyp.;XTALK&OIRR;Package;CS(on)(pF);CS(off)(pF);-3 dBBandwidth(MHz);Image path;Datasheet part;3d model part
-DG3257;SPDT x 1;1.65;5.5;;;5.0;20.0;23.0;4.0;-32.0;UDFN-6;9.0;3.0;714.0;75945;Datasheet/analog-switches/DG3257/DG3257.pdf;
+DG3257;SPDT x 1;1.65;5.5;;;5.0;20.0;23.0;4.0;-32.0;UDFN-6;9.0;3.0;714.0;75945;Datasheet//analog-switches/DG3257\DG3257.pdf;

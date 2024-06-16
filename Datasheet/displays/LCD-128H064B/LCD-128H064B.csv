@@ -1,0 +1,2 @@
+Series;Type(V);Display Format;Outline Dimensions(W x H mm);Effective Viewing Area(W x H mm);Character Size(W x H mm);Dot Size(W x H mm);Dot Pitch(W x H mm);Driving Method (Duty);Built-In Controller;Process Color STN Gray;Process Color STN Yellow;Process Color STN Blue;Process Color FSTN B & W;BL None;BL LED;BL EL;BL CCFL;Image path;Datasheet part;3d model part
+LCD-128H064B;Graphic;128 x 64 dots;75.0 x 52.7;60.0 x 32.6;N/a;0.39 x 0.39;0.43 x 0.43;1/64;Samsung KS 0107/KS 0108 (or equivalent);x;x;x;;x;x;x;x;37330;Datasheet/displays/LCD-128H064B\LCD-128H064B.pdf;

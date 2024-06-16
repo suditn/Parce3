@@ -1,0 +1,3 @@
+Part Number;Product Image;Device Type;Package Type;Package Form;Package Dimensions L x W x H(mm);Peak Wavelength λp(nm);Spectral Bandwidth(1)(nm);Output Current(2)(µA);Angle of Half Sensitivity φ;Photo Sensitive Area(mm2);Image path;Datasheet part;3d model part
+VEMD8130;Enlarge;Silicon PIN Photodiode;surface-mount;Top view;7.5 x 5.3 x 4.0;940;800 to 1050;25;45;2.2;image/photo-detectors\80267.png;Datasheet\photo-detectors\VEMD8130\VEMD8130.pdf;
+VEMD8130;Enlarge;Silicon PIN Photodiode;surface-mount;Side view;7.5 x 5.3 x 4.0;940;800 to 1050;25;45;2.2;image/photo-detectors\80267.png;Datasheet\photo-detectors\VEMD8130\VEMD8130.pdf;

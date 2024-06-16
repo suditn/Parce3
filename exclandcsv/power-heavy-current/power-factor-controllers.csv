@@ -1,0 +1,3 @@
+Series;Product Image;Type;Description;Voltage Max.(V);Image path;Datasheet part;3d model part
+ESTAmat MH-N;Enlarge;Power Factor Controller;Measuring voltage = Supply voltage: 230 VAC ± 10 %, 6 or 12 steps;230 + 10 %;image\capacitors\13119.png;Datasheet\capacitors\ESTAmat MH-N\ESTAmat MH-N.pdf;None
+ESTAmat PFC-N;Enlarge;Power Factor Controller;Measuring voltage: 90 VAC to 690 VAC,  supply voltage: 90 VAC to 300 VAC, 45 Hz to 65 Hz, 6 or 12 steps;690;image\capacitors\13120.png;Datasheet\capacitors\ESTAmat PFC-N\ESTAmat PFC-N.pdf;None

@@ -1,2 +1,2 @@
 Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
-SiA461DJ;Enlarge;Single;PowerPAK SC-70;P;-20.0;8.0;;;0.055;0.042;;0.033;;;;18.0;;2.1;4.8;-12.0;17.9;-0.4;6.0;image/mosfets/91634.png;Datasheet/mosfets/SiA461DJ/SiA461DJ.pdf;
+SiA461DJ;Enlarge;Single;PowerPAK SC-70;P;-20.0;8.0;;;0.055;0.042;;0.033;;;;18.0;;2.1;4.8;-12.0;17.9;-0.4;6.0;image/mosfets/91596.png;Datasheet\/mosfets/SiA461DJ\SiA461DJ.pdf;Datasheet\/mosfets/SiA461DJ\SiA461DJ.zip

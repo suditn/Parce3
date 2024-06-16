@@ -6,10 +6,11 @@ import numpy as np
 from concurrent.futures import ThreadPoolExecutor
 
 # Путь к директории с исходными CSV файлами
-input_directory = 'exclandcsv/mosfets'
+#input_directory = 'exclandcsv/mosfets'
+sl_use = []
 save_path = str(Path(__file__).parent.resolve())
 
-def process_csv_file(input_csv_path):
+def process_csv_file(input_csv_path, input_directory):
     # Чтение CSV файла
     df = pd.read_csv(input_csv_path, delimiter=';')
 
@@ -33,6 +34,7 @@ def process_csv_file(input_csv_path):
 
         # Проверка, существует ли директория
         if not os.path.exists(directory_path):
+            print(datasheet_path)
             os.makedirs(directory_path)
             print(f"Created directory for series {series}")
 
@@ -62,13 +64,44 @@ def process_csv_file(input_csv_path):
             json.dump(file_info_local, json_file, indent=4)
 
 # Использование многопоточности для обработки CSV файлов
-with ThreadPoolExecutor() as executor:
+with ThreadPoolExecutor(max_workers=4) as executor:
     futures = []
-    for input_csv_path in Path(input_directory).glob('*.csv'):
-        futures.append(executor.submit(process_csv_file, input_csv_path))
+    print("Какие категории вы хотите пропарсить?\ndiodes - Диоды\nthyristors - Тиристоры\npower-ics - Силовые микросхемы\nanalog-switches - Аналоговый переключатели\nmosfets - Металл–оксид–полупроводник\noptocouplers - Оптосоединители\nrelays - реле\nreceiver - Приемники\nleds - Светильники\nphoto-detectors - Фото-детектеры\nir-em\ndisplays - Дисплеи\nmodules - модульные\ncapacitors - Конденсаторы\nresistors - Резисторы\n")
+    inputer = input()
+    with open('csv_datasheet_p.json', 'r') as f:
+        pages = json.load(f)
+    if inputer == 'all':
+        for pa in pages.keys():
+            sl_use.append(pages[pa])
+        print(sl_use)
+    else:
+        for use_in in inputer.split(','):
+            if use_in in pages:
+                print(f"Parsing category: {use_in}")
+                for pa in pages[use_in]:
+                    sl_use.append(pa)
+            else:
+                print(f"Category {use_in} not found in pages.json")
+        print(sl_use)
+    if inputer == 'all':
+        for sl1 in sl_use:
+            for sl in sl1:
+                print (sl)
+                for input_csv_path in Path(sl).glob('*.csv'):
+                    input_directory = sl
+                    futures.append(executor.submit(process_csv_file, input_csv_path, input_directory))
+    else:
+        for sl in sl_use:
+            print(sl)
+            for input_csv_path in Path(sl).glob('*.csv'):
+                input_directory = sl
+                futures.append(executor.submit(process_csv_file, input_csv_path, input_directory))
 
     # Ожидание завершения всех задач
     for future in futures:
-        future.result()
+        try:
+            future.result()
+        except OSError:
+            continue
 
 print("Файлы CSV и JSON созданы для каждой серии.")

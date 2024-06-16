@@ -1,2 +1,2 @@
 Part Number;Status;Description;Product Type;VINMin.(V);VINMax.(V);Package;Package Size(W, L, H)(mm);Image path;Datasheet part;3d model part
-SiC466;New;10 A, 4.5 V to 60 V input,100 kHz to 2 MHz,synchronous microBUCKregulator;microBUCK (step down regulator);4.5;60.0;PowerPAK MLP55-27L;5 x 5 x 0.75;76044;Datasheet/power-ics/networking/SiC466/SiC466.pdf;
+SiC466;New;10 A, 4.5 V to 60 V input,100 kHz to 2 MHz,synchronous microBUCKregulator;microBUCK (step down regulator);4.5;60.0;PowerPAK MLP55-27L;5 x 5 x 0.75;76044;Datasheet/power-ics/SiC466\SiC466.pdf;Datasheet/power-ics/SiC466\SiC466.zip

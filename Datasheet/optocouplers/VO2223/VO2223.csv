@@ -1,2 +1,2 @@
 Part Number;Product Image;Zero or Non-zero crossing;Package;Trigger Current IFTMax.(mA);Blocking Voltage VDRM(V);On-state Current(mA);Static dv / dt;Isolation Voltage VISOVRMS;Ambient Temperature Range(°C);Creepage Min.(mm);Working Voltage VIORM(Vpeak);Safety Standard;Image path;Datasheet part;3d model part
-VO2223;Enlarge;Non-Zero;DIP-8;10;600;900;;5300;-40 to +85;7.0;890.0;UL, cUL, VDE, FIMKO;image/optocouplers/81166.png;Datasheet/optocouplers/opto-triac/VO2223/VO2223.pdf;Datasheet/optocouplers/opto-triac/VO2223/VO2223.zip
+VO2223;Enlarge;Non-Zero;DIP-8;10;600;900;;5300;-40 to +85;7.0;890.0;UL, cUL, VDE, FIMKO;image/optocouplers\81166.png;Datasheet\optocouplers\VO2223\VO2223.pdf;Datasheet\optocouplers\VO2223\VO2223.zip

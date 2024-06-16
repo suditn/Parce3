@@ -1,2 +1,2 @@
-Part Number;Status;Description;Product type;VinMin.(V);VinMax.(V);Package;PackageSize(W,L,H)(mm);Image path;Datasheet part;3d model part
-SiC788;Active;50 A power stage, 4.5 VINto 18 VIN, 5 V PWM with diode emulation mode;VRPower (DrMOS);4.5;18.0;PowerPAK MLP66-40L;6.0 x 6.0 x 0.75;62985;Datasheet/power-ics/computer/SiC788/SiC788.pdf;
+Part Number;Status;Description;Product Type;VINMin.(V);VINMax.(V);Package;Package Size(W, L, H)(mm);Image path;Datasheet part;3d model part
+SiC788;Active;50 A power stage, 4.5 VINto 18 VIN, 5 V PWM with diode emulation mode;VRPower (DrMOS);4.5;18.0;PowerPAK MLP66-40L;6.0 x 6.0 x 0.75;62985;Datasheet/power-ics/SiC788\SiC788.pdf;

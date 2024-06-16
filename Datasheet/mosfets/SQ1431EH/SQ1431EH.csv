@@ -1,2 +1,2 @@
 Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
-SQ1431EH;Enlarge;Single;SC-70;P;-30.0;20.0;;;;;;0.3;;;0.175;4.2;;0.7;1.0;-3.0;3.0;-1.0;12.5;image/mosfets/62977.png;Datasheet/mosfets/SQ1431EH/SQ1431EH.pdf;Datasheet/mosfets/SQ1431EH/SQ1431EH.zip
+SQ1431EH;Enlarge;Single;SC-70;P;-30.0;20.0;;;;;;0.3;;;0.175;4.2;;0.7;1.0;-3.0;3.0;-1.0;12.5;image/mosfets/62977.png;Datasheet\/mosfets/SQ1431EH\SQ1431EH.pdf;Datasheet\/mosfets/SQ1431EH\SQ1431EH.zip

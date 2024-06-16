@@ -1,2 +1,2 @@
-Part Number;Status;Description;Product type;VinMin.(V);VinMax.(V);Package;PackageSize(W,L,H)(mm);Image path;Datasheet part;3d model part
-SiC620R;Active;60 A power stage, 4.5 VINto 18 VIN, 5 V PWM with ZCD mode, dual side cooling;VRPower (DrMOS);4.5;18.0;PowerPAK MLP55-31L double cooling;5.0 x 5.0 x 0.60;63589;Datasheet/power-ics/computer/SiC620R/SiC620R.pdf;
+Part Number;Status;Description;Product Type;VINMin.(V);VINMax.(V);Package;Package Size(W, L, H)(mm);Image path;Datasheet part;3d model part
+SiC620R;Active;60 A power stage, 4.5 VINto 18 VIN, 5 V PWM with ZCD mode, dual side cooling;VRPower (DrMOS);4.5;18.0;PowerPAK MLP55-31L double cooling;5.0 x 5.0 x 0.60;63589;Datasheet/power-ics/SiC620R\SiC620R.pdf;

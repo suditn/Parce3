@@ -1,0 +1,4 @@
+Series;Product Image;IF(AV)(A) at Ths/TC(°C);IFSMat 50 Hz(A);IFSMat 60 Hz(A);VRRM(V);trr(µs);TJ(°C);VFM(V);Package (JEDEC®) Code;Circuit Configuration;Image path;Datasheet part;3d model part
+VS-400U(R) Series;Enlarge;400 at 120;8250;8640;1600;;-40 to +200;1.62;DO-9 (DO-205AB);Single;image/diodes\93510.png;Datasheet\diodes\VS-400U(R) Series\VS-400U(R) Series.pdf;
+VS-400U(R) Series;Enlarge;400 at 120;8250;8640;1200;;-40 to +200;1.62;DO-9 (DO-205AB);Single;image/diodes\93510.png;Datasheet\diodes\VS-400U(R) Series\VS-400U(R) Series.pdf;
+VS-400U(R) Series;Enlarge;400 at 120;8250;8640;800;;-40 to +200;1.62;DO-9 (DO-205AB);Single;image/diodes\93510.png;Datasheet\diodes\VS-400U(R) Series\VS-400U(R) Series.pdf;

@@ -1,2 +1,2 @@
 Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
-SQA413CEJW;Enlarge;Single;PowerPAK SC-70W-6L;P;-20.0;12.0;;;;0.0624;;0.038;;;;10.1;;2.4;3.0;-7.5;13.6;-0.6;3.2;image/mosfets/63137.png;Datasheet/mosfets/SQA413CEJW/SQA413CEJW.pdf;
+SQA413CEJW;Enlarge;Single;PowerPAK SC-70W-6L;P;-20.0;12.0;;;;0.0624;;0.038;;;;10.1;;2.4;3.0;-7.5;13.6;-0.6;3.2;image/mosfets/63137.png;Datasheet\/mosfets/SQA413CEJW\SQA413CEJW.pdf;

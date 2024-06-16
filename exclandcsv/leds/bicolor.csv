@@ -1,0 +1,9 @@
+Part Number;Package;Color;Dominant Wavelength Min. (nm)orColor Coordinate(x, y)(nm);Dominant Wavelength Typ. (nm)orColor Coordinate(x, y)(nm);Dominant Wavelength Max. (nm)orColor Coordinate(x, y)(nm);Luminous Intensity IVMin.(mcd);Luminous Intensity IVTyp.(mcd);Luminous Intensity IVMax.(mcd);IFforIV(mA);Luminous Flux ΦVMin.(mIm);Luminous Flux ΦVTyp.(mIm);Luminous Flux ΦVMax.(mIm);IFforΦV(mA);Forward Voltage, VFTyp.(V);Forward Voltage, VFMax.(V);Angle of Half Intensity(± °);Key Feature;Image path;Datasheet part;3d model part
+TLUV5300;5 mm;Red;612;;625;1;2.5;;10;;;;;2;3;30;Bicolor;83056;Datasheet/leds/TLUV5300\TLUV5300.pdf;Datasheet/leds/TLUV5300\TLUV5300.zip
+TLUV5300;5 mm;Green;552;;575;1;2.5;;10;;;;;2.4;3;30;Bicolor;83056;Datasheet/leds/TLUV5300\TLUV5300.pdf;Datasheet/leds/TLUV5300\TLUV5300.zip
+VLMKE3400 VLMKE3401;SMD PLCC-4;Red;;630;;56;;180;20;;;;;1.9;2.6;60;Bicolor;81229;Datasheet/leds/VLMKE3400 VLMKE3401\VLMKE3400 VLMKE3401.pdf;Datasheet/leds/VLMKE3400 VLMKE3401\VLMKE3400 VLMKE3401.zip
+VLMKE3400 VLMKE3401;SMD PLCC-4;Yellow;581;588;594;90;;280;20;;;;;2;2.6;60;Bicolor;81229;Datasheet/leds/VLMKE3400 VLMKE3401\VLMKE3400 VLMKE3401.pdf;Datasheet/leds/VLMKE3400 VLMKE3401\VLMKE3400 VLMKE3401.zip
+VLMKG3400;SMD PLCC-4;Super red;627;633;639;56;;140;20;;;;;1.9;2.6;60;Bicolor;81359;Datasheet/leds/VLMKG3400\VLMKG3400.pdf;Datasheet/leds/VLMKG3400\VLMKG3400.zip
+VLMKG3400;SMD PLCC-4;Green;564;570;575;35.5;;90;20;;;;;2.0;2.6;60;Bicolor;81359;Datasheet/leds/VLMKG3400\VLMKG3400.pdf;Datasheet/leds/VLMKG3400\VLMKG3400.zip
+VLMV3100;SMD PLCC-3;Red;612;620;625;2.8;12;;10;;;;;2.0;3;60;Bicolor;81347;Datasheet/leds/VLMV3100\VLMV3100.pdf;Datasheet/leds/VLMV3100\VLMV3100.zip
+VLMV3100;SMD PLCC-3;Green;562;571;575;2.8;14;;10;;;;;2.1;3;60;Bicolor;81347;Datasheet/leds/VLMV3100\VLMV3100.pdf;Datasheet/leds/VLMV3100\VLMV3100.zip

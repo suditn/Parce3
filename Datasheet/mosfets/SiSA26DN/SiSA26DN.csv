@@ -1,2 +1,2 @@
 Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
-SiSA26DN;Enlarge;Single;PowerPAK 1212-8;N;25.0;16.0;;;;;;0.0039;;;0.00265;13.2;29.0;5.4;3.2;60.0;39.0;1.0;0.8;91061;Datasheet/mosfets/IRF830A/IRF830A.pdf;
+SiSA26DN;Enlarge;Single;PowerPAK 1212-8;N;25.0;16.0;;;;;;0.0039;;;0.00265;13.2;29.0;5.4;3.2;60.0;39.0;1.0;0.8;91062;Datasheet//mosfets/IRF830AS, IRF830AL, SiHF830AS, SiHF830AL\IRF830AS, IRF830AL, SiHF830AS, SiHF830AL.pdf;

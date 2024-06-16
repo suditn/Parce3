@@ -1,3 +1,3 @@
 Part Number;Product Image;Package;VCEO(V);CTR Min.(1)%;CTR Max.(1)%;Forward Current IF(mA);ton/toff(µs);Operating Temperature(°C);Isolation Voltage VISOVRMS;Safety Standard(s);Image path;Datasheet part;3d model part
-H11D1, H11D2, H11D3;Enlarge;DIP-6;300;20;;;4, 5;-55 to +100;5000;UL, cUL, VDE;image/optocouplers/83611.png;Datasheet/optocouplers/opt-tran-output/H11D1, H11D2, H11D3/H11D1, H11D2, H11D3.pdf;
-H11D1, H11D2, H11D3;Enlarge;SMD-6;300;20;;;4, 5;-55 to +100;5000;UL, cUL, VDE;image/optocouplers/83611.png;Datasheet/optocouplers/opt-tran-output/H11D1, H11D2, H11D3/H11D1, H11D2, H11D3.pdf;
+H11D1, H11D2, H11D3;Enlarge;DIP-6;300;20;;;4, 5;-55 to +100;5000;UL, cUL, VDE;image/optocouplers\83611.png;Datasheet\optocouplers\H11D1, H11D2, H11D3\H11D1, H11D2, H11D3.pdf;
+H11D1, H11D2, H11D3;Enlarge;SMD-6;300;20;;;4, 5;-55 to +100;5000;UL, cUL, VDE;image/optocouplers\83611.png;Datasheet\optocouplers\H11D1, H11D2, H11D3\H11D1, H11D2, H11D3.pdf;

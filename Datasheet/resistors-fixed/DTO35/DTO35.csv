@@ -1,0 +1,13 @@
+Series;Product Image;Resistance Min.(Ω);Resistance Max.(Ω);E-Series;Tolerance(± %);Power Rating(W);Maximum Voltage(V);TCR(± ppm/°C);MountingTechnology;Size / Device Style;OperatingTemperature(°C);Automotive;Image path;Datasheet part;3d model part
+DTO35;Enlarge;0.016;0.091;E24;10.0;35;500;900;Surface-mount;TO-252 (DPAK);-55 to +150;Vishay Automotive Grade;image/resistors-fixed/51078.png;Datasheet\/resistors-fixed/DTO35\DTO35.pdf;
+DTO35;Enlarge;0.016;0.091;E24;5.0;35;500;900;Surface-mount;TO-252 (DPAK);-55 to +150;Vishay Automotive Grade;image/resistors-fixed/51078.png;Datasheet\/resistors-fixed/DTO35\DTO35.pdf;
+DTO35;Enlarge;0.1;0.47;E24;10.0;35;500;350;Surface-mount;TO-252 (DPAK);-55 to +150;Vishay Automotive Grade;image/resistors-fixed/51078.png;Datasheet\/resistors-fixed/DTO35\DTO35.pdf;
+DTO35;Enlarge;0.1;0.47;E24;5.0;35;500;350;Surface-mount;TO-252 (DPAK);-55 to +150;Vishay Automotive Grade;image/resistors-fixed/51078.png;Datasheet\/resistors-fixed/DTO35\DTO35.pdf;
+DTO35;Enlarge;0.5;700K;E24;10.0;35;500;150;Surface-mount;TO-252 (DPAK);-55 to +150;Vishay Automotive Grade;image/resistors-fixed/51078.png;Datasheet\/resistors-fixed/DTO35\DTO35.pdf;
+DTO35;Enlarge;0.5;700K;E24;5.0;35;500;150;Surface-mount;TO-252 (DPAK);-55 to +150;Vishay Automotive Grade;image/resistors-fixed/51078.png;Datasheet\/resistors-fixed/DTO35\DTO35.pdf;
+DTO35;Enlarge;0.016;0.0976;E96;1.0;35;500;900;Surface-mount;TO-252 (DPAK);-55 to +150;Vishay Automotive Grade;image/resistors-fixed/51078.png;Datasheet\/resistors-fixed/DTO35\DTO35.pdf;
+DTO35;Enlarge;0.016;0.0976;E96;2.0;35;500;900;Surface-mount;TO-252 (DPAK);-55 to +150;Vishay Automotive Grade;image/resistors-fixed/51078.png;Datasheet\/resistors-fixed/DTO35\DTO35.pdf;
+DTO35;Enlarge;0.1;0.487;E96;1.0;35;500;350;Surface-mount;TO-252 (DPAK);-55 to +150;Vishay Automotive Grade;image/resistors-fixed/51078.png;Datasheet\/resistors-fixed/DTO35\DTO35.pdf;
+DTO35;Enlarge;0.1;0.487;E96;2.0;35;500;350;Surface-mount;TO-252 (DPAK);-55 to +150;Vishay Automotive Grade;image/resistors-fixed/51078.png;Datasheet\/resistors-fixed/DTO35\DTO35.pdf;
+DTO35;Enlarge;0.5;700K;E96;1.0;35;500;150;Surface-mount;TO-252 (DPAK);-55 to +150;Vishay Automotive Grade;image/resistors-fixed/51078.png;Datasheet\/resistors-fixed/DTO35\DTO35.pdf;
+DTO35;Enlarge;0.5;700K;E96;2.0;35;500;150;Surface-mount;TO-252 (DPAK);-55 to +150;Vishay Automotive Grade;image/resistors-fixed/51078.png;Datasheet\/resistors-fixed/DTO35\DTO35.pdf;

@@ -1,2 +1,2 @@
 Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
-SQJ148EP;Enlarge;Single;PowerPAK SO-8L;N;40.0;20.0;;;;;;0.039;;;0.033;;10.0;1.4;2.2;15.0;45.0;1.5;4.2;image/mosfets/62377.png;Datasheet/mosfets/SQJ148EP/SQJ148EP.pdf;
+SQJ148EP;Enlarge;Single;PowerPAK SO-8L;N;40.0;20.0;;;;;;0.039;;;0.033;;10.0;1.4;2.2;15.0;45.0;1.5;4.2;image/mosfets/62377.png;Datasheet\/mosfets/SQJ148EP\SQJ148EP.pdf;

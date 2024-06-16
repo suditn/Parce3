@@ -1,0 +1,18 @@
+{
+  "diodes":["exclandcsv/diodes"],
+  "thyristors":["exclandcsv/thyristors"],
+  "power-ics":["exclandcsv/power-ics"],
+  "analog-switches":["exclandcsv/analog-switches"],
+  "mosfets":["exclandcsv/mosfets"],
+  "optocouplers":["exclandcsv/optocouplers"],
+  "relays":["exclandcsv/solid-state-relays"],
+  "receiver":["exclandcsv/ir-receiver-modules"],
+  "leds":["exclandcsv/leds"],
+  "photo-detectors":["exclandcsv/photo-detectors"],
+  "ir-em":["exclandcsv/ir-emitting-diodes","exclandcsv/ir-transceivers"],
+  "displays":["exclandcsv/displays"],
+  "modules":["exclandcsv/modules","exclandcsv/diode-modules"],
+  "capacitors":["exclandcsv/capacitors", "exclandcsv/ceramic", "exclandcsv/power-heavy-current"],
+  "resistors":["exclandcsv/resistors-fixed","exclandcsv/potentiometers", "exclandcsv/rheostats", "exclandcsv/trimmers", "exclandcsv/varistors", "exclandcsv/thermistors", "exclandcsv/networks-and-arrays"]
+
+}

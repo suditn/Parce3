@@ -1,0 +1,10 @@
+Series;Product Image;Resistance Min.(Ω);Resistance Max.(Ω);E-Series;Tolerance(± %);Power Rating(W);Maximum Voltage(V);TCR(± ppm/°C);MountingTechnology;Size / Device Style;OperatingTemperature(°C);Automotive;Image path;Datasheet part;3d model part
+CRCW0201 e3;Enlarge;1;9.1;E24;5.0;0.05;30;-200/+400;Surface-mount;0201;-55 to +155;No;image/resistors-fixed/20052.png;Datasheet\/resistors-fixed/CRCW0201 e3\CRCW0201 e3.pdf;
+CRCW0201 e3;Enlarge;1;9.76;E24;1.0;0.05;30;-200/+400;Surface-mount;0201;-55 to +155;No;image/resistors-fixed/20052.png;Datasheet\/resistors-fixed/CRCW0201 e3\CRCW0201 e3.pdf;
+CRCW0201 e3;Enlarge;10;10M;E24;1.0;0.05;30;200;Surface-mount;0201;-55 to +155;No;image/resistors-fixed/20052.png;Datasheet\/resistors-fixed/CRCW0201 e3\CRCW0201 e3.pdf;
+CRCW0201 e3;Enlarge;10;10M;E24;5.0;0.05;30;200;Surface-mount;0201;-55 to +155;No;image/resistors-fixed/20052.png;Datasheet\/resistors-fixed/CRCW0201 e3\CRCW0201 e3.pdf;
+CRCW0201 e3;Enlarge;47;1M;E24;1.0;0.05;30;100;Surface-mount;0201;-55 to +155;No;image/resistors-fixed/20052.png;Datasheet\/resistors-fixed/CRCW0201 e3\CRCW0201 e3.pdf;
+CRCW0201 e3;Enlarge;1;9.76;E96;1.0;0.05;30;-200/+400;Surface-mount;0201;-55 to +155;No;image/resistors-fixed/20052.png;Datasheet\/resistors-fixed/CRCW0201 e3\CRCW0201 e3.pdf;
+CRCW0201 e3;Enlarge;10;10M;E96;1.0;0.05;30;200;Surface-mount;0201;-55 to +155;No;image/resistors-fixed/20052.png;Datasheet\/resistors-fixed/CRCW0201 e3\CRCW0201 e3.pdf;
+CRCW0201 e3;Enlarge;47;1M;E96;1.0;0.05;30;100;Surface-mount;0201;-55 to +155;No;image/resistors-fixed/20052.png;Datasheet\/resistors-fixed/CRCW0201 e3\CRCW0201 e3.pdf;
+CRCW0201 e3;Enlarge;0;0;;;0.05;30;;Surface-mount;0201;-55 to +155;No;image/resistors-fixed/20052.png;Datasheet\/resistors-fixed/CRCW0201 e3\CRCW0201 e3.pdf;

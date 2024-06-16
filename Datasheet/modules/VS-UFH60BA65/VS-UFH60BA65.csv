@@ -1,0 +1,2 @@
+Series;Product Image;IO(A);TC(°C);VRRM(V);VRSM(V);IFSMat 50 Hz(A);IFSMat 60 Hz(A);VFMat ITMat25 °C(V);TJ(°C);RthJCperJunction(°C/W);Package;CircuitConfiguration;Image path;Datasheet part;3d model part
+VS-UFH60BA65;Enlarge;60.0;123.0;650;700;360;377;2.35 at 60;175;0.91;SOT-227;Single phase bridge;image/modules\96135.png;Datasheet\modules\VS-UFH60BA65\VS-UFH60BA65.pdf;

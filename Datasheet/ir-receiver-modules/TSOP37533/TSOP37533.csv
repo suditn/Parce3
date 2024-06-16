@@ -1,0 +1,2 @@
+Part Number;Product Image;Package;Dimensions(mm);Carrier Frequency(kHz);AGC;Transmission DistanceTyp.(m);Detection Threshold /Sensitivity Typ.;Half ViewingAngle(°);Supply CurrentTyp.(mA);Pinning;Recommended for RemoteControl Code;Application;Mounting;Image path;Datasheet part;3d model part
+TSOP37533;Enlarge;Belobog;3.95 W x 3.95 H x 0.8 D;33;AGC5;15.0;0.25;± 75;0.35;1 = OUT, 2, 3, 6, 7, 8 = GND, 4, 5 = VS;;Remote control;SMD;image/ir-receiver-modules/82446.png;Datasheet\/ir-receiver-modules/TSOP37533\TSOP37533.pdf;Datasheet\/ir-receiver-modules/TSOP37533\TSOP37533.zip

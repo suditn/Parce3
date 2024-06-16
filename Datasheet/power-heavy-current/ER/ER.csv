@@ -1,0 +1,2 @@
+Series;Product Image;Type;Technology;Description;Voltage Min.(V);Voltage Max.(V);Capacitance Min.;Capacitance Max.;Image path;Datasheet part;3d model part
+ER;Enlarge;Capacitors, Fixed, Power Electronic;Film, Polypropylene, Polyester;DC Filter Capacitors;1000;40000;0.01 uF;100 uF;image\capacitors\13013.png;Datasheet\capacitors\ER\ER.pdf;

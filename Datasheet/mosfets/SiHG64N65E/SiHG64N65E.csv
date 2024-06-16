@@ -1,2 +1,2 @@
 Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
-SiHG64N65E;Enlarge;Single;TO-247AC;N;650.0;30.0;;;;;;;;;0.047;;239.0;66.0;93.0;64.0;520.0;2.0;1.5;image/mosfets/92018.png;Datasheet/mosfets/SiHG64N65E/SiHG64N65E.pdf;Datasheet/mosfets/SiHG64N65E/SiHG64N65E.zip
+SiHG64N65E;Enlarge;Single;TO-247AC;N;650.0;30.0;;;;;;;;;0.047;;239.0;66.0;93.0;64.0;520.0;2.0;1.5;image/mosfets/92304.png;Datasheet\/mosfets/SiHG64N65E\SiHG64N65E.pdf;Datasheet\/mosfets/SiHG64N65E\SiHG64N65E.zip

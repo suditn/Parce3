@@ -1,0 +1,2 @@
+Series;Type(V);Display Format;Outline Dimensions(W x H mm);Effective Viewing Area(W x H mm);Character Size(W x H mm);Dot Size(W x H mm);Dot Pitch(W x H mm);Driving Method (Duty);Built-In Controller;Process Color STN Gray;Process Color STN Yellow;Process Color STN Blue;Process Color FSTN B & W;BL None;BL LED;BL EL;BL CCFL;Image path;Datasheet part;3d model part
+LCD-122H032D;Graphic;122 x 32 dots;59.0 x 29.3;52.0 x 15.0;N/a;0.345 x 0.345;0.375 x 0.375;1/32;Epson SED1520 (or equivalent);x;x;;x;x;x;x;;37321;Datasheet/displays/LCD-122H032D\LCD-122H032D.pdf;

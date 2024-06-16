@@ -1,2 +1,2 @@
-Part Number;Status;Description;Product Type;VINMin.(V);VINMax.(V);Package;Package Size(W, L, H)(mm);Image path;Datasheet part;3d model part
-SiC454;New;4.5 V to 20 V input 12 A microBUCK DC/DC converter with PMBus;microBUCK;4.5;20.0;PowerPAK MLP29-55;5.0 x 5.0 x 0.75;63042;Datasheet/power-ics/industrial/SiC454/SiC454.pdf;
+Part Number;Description;VinMin.(V);VinMax.(V);VoutMin(V);VoutMax(V);Continuous Output Current(A);Switch Freq Min.(kHz);Switch Freq Max.(kHz);Pre Bias Oper.(Y/N);Internal Bias Regulator;Compen-sation(Y/N);Enable (Y/N);PGOOD(Y/N);Over Current Protection (Y/N);Protection;Light Load Mode;Peak Eff.(%);Package;Package Size (W,L,H)(mm);Image path;Datasheet part;3d model part
+SiC454;4.5 V to 20 V input 12 A microBUCK DC/DC converter with PMBus;4.5;20;0.3;12;12;300;1500;Yes;Yes;Internal;Yes;Yes;Yes;OVP, OCP, UVP/SCP, OTP, UVLO;Yes;98;PowerPAK MLP29-55;5.0 x 5.0 x 0.75;63042;Datasheet/power-ics/SiC454\SiC454.pdf;

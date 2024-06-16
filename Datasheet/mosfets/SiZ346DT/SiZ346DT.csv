@@ -1,3 +1,3 @@
 Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
-SiZ346DT;Enlarge;Dual;PowerPAIR 3 x 3;N;30.0;20.0;;;;;;0.0153;;;0.0115;4.5;10.0;2.1;0.7;30.0;16.7;1.2;1.4;91245;Datasheet/mosfets/IRFPC60/IRFPC60.pdf;
-SiZ346DT;Enlarge;Dual;PowerPAIR 3 x 3;N;30.0;20.0;;;;;;0.037;;;0.0285;3.2;6.6;1.0;1.2;17.0;16.0;1.1;0.85;91244;Datasheet/mosfets/IRFPC60LC/IRFPC60LC.pdf;
+SiZ346DT;Enlarge;Dual;PowerPAIR 3 x 3;N;30.0;20.0;;;;;;0.0153;;;0.0115;4.5;10.0;2.1;0.7;30.0;16.7;1.2;1.4;91244;Datasheet//mosfets/IRFPC60LC\IRFPC60LC.pdf;
+SiZ346DT;Enlarge;Dual;PowerPAIR 3 x 3;N;30.0;20.0;;;;;;0.037;;;0.0285;3.2;6.6;1.0;1.2;17.0;16.0;1.1;0.85;91246;Datasheet//mosfets/IRFPE30\IRFPE30.pdf;

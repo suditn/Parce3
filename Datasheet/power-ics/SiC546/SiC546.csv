@@ -1,2 +1,2 @@
 Part Number;Status;Description;Product Type;VINMin.(V);VINMax.(V);Package;Package Size(W, L, H)(mm);Image path;Datasheet part;3d model part
-SiC546;New;40 A power stage, 4.5 VINto 24 VIN, 5 V PWM with ZCD, PS4 mode;VRPower (DrMOS);4.5;24.0;PowerPAK MLP4535-22L;4.5 x 3.5 x 0.75;77468;Datasheet/power-ics/networking/SiC546/SiC546.pdf;
+SiC546;New;40 A power stage, 4.5 VINto 24 VIN, 5 V PWM with ZCD, PS4 mode;VRPower (DrMOS);4.5;24.0;PowerPAK MLP4535-22L;4.5 x 3.5 x 0.75;77468;Datasheet/power-ics/SiC546\SiC546.pdf;

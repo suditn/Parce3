@@ -1,2 +1,2 @@
 Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
-SiR4411DP;;Single;PowerPAK SO-8;P;-40.0;20.0;;;;;;0.015;;;0.011;36.5;79.0;11.5;12.3;-48.3;56.8;-1.0;1.9;image/mosfets/75285.png;Datasheet/mosfets/SiR4411DP/SiR4411DP.pdf;Datasheet/mosfets/SiR4411DP/SiR4411DP.zip
+SiR4411DP;;Single;PowerPAK SO-8;P;-40.0;20.0;;;;;;0.015;;;0.011;36.5;79.0;11.5;12.3;-48.3;56.8;-1.0;1.9;image/mosfets/62944.png;Datasheet\/mosfets/SiR4411DP\SiR4411DP.pdf;Datasheet\/mosfets/SiR4411DP\SiR4411DP.zip

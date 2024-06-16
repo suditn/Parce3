@@ -1,2 +1,2 @@
 Part Number;Configuration;SingleSupplyMin.;SingleSupplyMax.;DualSupplyMin.;DualSupplyMax.;On-Resistance(Ω);Is(off)Max.;tonMax.;QINJTyp.;XTALK&OIRR;Package;CS(on)(pF);CS(off)(pF);-3 dBBandwidth(MHz);Image path;Datasheet part;3d model part
-DG2032E;SPDT x 2;1.8;5.5;;;2.5;5.0;45.0;-9.0;-55.0;QFN-12 3x3;23.0;7.0;226.0;78604;Datasheet/analog-switches/DG2032E/DG2032E.pdf;
+DG2032E;SPDT x 2;1.8;5.5;;;2.5;5.0;45.0;-9.0;-55.0;QFN-12 3x3;23.0;7.0;226.0;78604;Datasheet//analog-switches/DG2032E\DG2032E.pdf;

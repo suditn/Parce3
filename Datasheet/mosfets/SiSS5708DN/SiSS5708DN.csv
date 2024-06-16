@@ -1,2 +1,2 @@
 Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
-SiSS5708DN;;Single;PowerPAK 1212-8S;N;150.0;20.0;;;;;;;;0.027;0.023;;12.8;6.0;1.4;33.8;65.7;2.0;1.25;91160;Datasheet/mosfets/IRFI840GLC/IRFI840GLC.pdf;
+SiSS5708DN;;Single;PowerPAK 1212-8S;N;150.0;20.0;;;;;;;;0.027;0.023;;12.8;6.0;1.4;33.8;65.7;2.0;1.25;91162;Datasheet//mosfets/IRFI9520G\IRFI9520G.pdf;

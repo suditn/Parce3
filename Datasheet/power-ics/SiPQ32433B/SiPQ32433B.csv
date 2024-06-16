@@ -1,2 +1,2 @@
-Part Number;Status;Description;Product Type;VINMin.(V);VINMax.(V);Package;Package Size(W, L, H)(mm);Image path;Datasheet part;3d model part
-SiPQ32433B;New;3.5 A, 78 mΩ, 2.8 V to 22 V eFuse with accurate current limit, OVP, and active reverse current blocking;Slew rate, current limit;2.8;28;DFN33 10L wettable flank;3.0 x 3.0 x 0.9;62096;Datasheet/power-ics/automotive/SiPQ32433B/SiPQ32433B.pdf;
+Part Number;Status;Description;Slew Rate Time(µs);VINMin.(V);VINMax.(V);RDS(on)at VINMin.(mΩ);RDS(on)at VINMax.(mΩ);Reverse Blocking(Y / N);Cont. Current(A);Current Limit  Min.(A);Current Limit Max.(A);Abs. Max. Input Voltage(V);Package;Package Size(W, L, H)(mm);Image path;Datasheet part;3d model part
+SiPQ32433B;New;3.5 A, 78 mΩ, 2.8 V to 22 V eFuse with accurate current limit, OVP, and active reverse current blocking;Adjustable;2.8;28;78;78;Active Reverse Current Blocking;3.5;;;;DFN33 10L wettable flank;3.0 x 3.0 x 0.9;62096;Datasheet/power-ics/SiPQ32433B\SiPQ32433B.pdf;

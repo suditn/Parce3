@@ -1,3 +1,3 @@
 Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
-SiZ328DT;Enlarge;Dual;PowerPAIR 3 x 3;N;25.0;16.0;;;;;;0.025;;;0.015;2.1;4.6;0.95;0.37;25.3;15.0;1.1;1.4;91228;Datasheet/mosfets/IRFP440/IRFP440.pdf;
-SiZ328DT;Enlarge;Dual;PowerPAIR 3 x 3;N;25.0;16.0;;;;;;0.015;;;0.01;3.5;7.5;1.63;0.54;30.0;16.2;1.1;0.9;91233;Datasheet/mosfets/IRFP450/IRFP450.pdf;
+SiZ328DT;Enlarge;Dual;PowerPAIR 3 x 3;N;25.0;16.0;;;;;;0.025;;;0.015;2.1;4.6;0.95;0.37;25.3;15.0;1.1;1.4;91233;Datasheet//mosfets/IRFP450\IRFP450.pdf;
+SiZ328DT;Enlarge;Dual;PowerPAIR 3 x 3;N;25.0;16.0;;;;;;0.015;;;0.01;3.5;7.5;1.63;0.54;30.0;16.2;1.1;0.9;91230;Datasheet//mosfets/IRFP450A\IRFP450A.pdf;

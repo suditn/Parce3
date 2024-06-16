@@ -1,2 +1,2 @@
 Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
-SiHK085N60EF;Enlarge;Single;PowerPAK 10 x 12;N;600.0;30.0;;;;;;;;;0.085;;42.0;17.0;9.0;30.0;184.0;3.0;0.7;image/mosfets/63001.png;Datasheet/mosfets/SiHK085N60EF/SiHK085N60EF.pdf;Datasheet/mosfets/SiHK085N60EF/SiHK085N60EF.zip
+SiHK085N60EF;Enlarge;Single;PowerPAK 10 x 12;N;600.0;30.0;;;;;;;;;0.085;;42.0;17.0;9.0;30.0;184.0;3.0;0.7;image/mosfets/75781.png;Datasheet\/mosfets/SiHK085N60EF\SiHK085N60EF.pdf;Datasheet\/mosfets/SiHK085N60EF\SiHK085N60EF.zip

@@ -1,2 +1,2 @@
 Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
-SQJ956EP;Enlarge;Dual;PowerPAK SO-8L;N;60.0;20.0;;;;;;0.029;;;0.0267;;20.0;3.5;3.0;23.0;34.0;1.5;1.7;image/mosfets/63267.png;Datasheet/mosfets/SQJ956EP/SQJ956EP.pdf;Datasheet/mosfets/SQJ956EP/SQJ956EP.zip
+SQJ956EP;Enlarge;Dual;PowerPAK SO-8L;N;60.0;20.0;;;;;;0.029;;;0.0267;;20.0;3.5;3.0;23.0;34.0;1.5;1.7;image/mosfets/63267.png;Datasheet\/mosfets/SQJ956EP\SQJ956EP.pdf;Datasheet\/mosfets/SQJ956EP\SQJ956EP.zip

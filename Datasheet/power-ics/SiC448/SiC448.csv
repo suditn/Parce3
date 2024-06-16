@@ -1,2 +1,2 @@
 Part Number;Status;Description;Product Type;VINMin.(V);VINMax.(V);Package;Package Size(W, L, H)(mm);Image path;Datasheet part;3d model part
-SiC448;New;6 A, 4.5 V to 45 V input, 100 kHz to 2 MHz, synchronous buck regulator;microBUCK (step down regulator);4.5;45.0;PowerPAK MLP55-27L;5 x 5 x 0.75;77185;Datasheet/power-ics/networking/SiC448/SiC448.pdf;
+SiC448;New;6 A, 4.5 V to 45 V input, 100 kHz to 2 MHz, synchronous buck regulator;microBUCK (step down regulator);4.5;45.0;PowerPAK MLP55-27L;5 x 5 x 0.75;77185;Datasheet/power-ics/SiC448\SiC448.pdf;

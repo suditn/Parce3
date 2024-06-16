@@ -1,2 +1,2 @@
 Part Number;Configuration;SingleSupplyMin.;SingleSupplyMax.;DualSupplyMin.;DualSupplyMax.;On-Resistance(Ω);Is(off)Max.;tonMax.;QINJTyp.;XTALK&OIRR;Package;CS(on)(pF);CS(off)(pF);-3 dBBandwidth(MHz);Image path;Datasheet part;3d model part
-DG1409E;4:1 x 2;4.5;24.0;4.5;16.5;3.9;0.55;130.0;-103.0;-58.0;QFN-16 4x4;;13.0;90.0;76516;Datasheet/analog-switches/DG1409E/DG1409E.pdf;
+DG1409E;4:1 x 2;4.5;24.0;4.5;16.5;3.9;0.55;130.0;-103.0;-58.0;QFN-16 4x4;;13.0;90.0;76516;Datasheet//analog-switches/DG1409E\DG1409E.pdf;

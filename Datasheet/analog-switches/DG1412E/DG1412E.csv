@@ -1,3 +1,3 @@
 Part Number;Configuration;SingleSupplyMin.;SingleSupplyMax.;DualSupplyMin.;DualSupplyMax.;On-Resistance(Ω);Is(off)Max.;tonMax.;QINJTyp.;XTALK&OIRR;Package;CS(on)(pF);CS(off)(pF);-3 dBBandwidth(MHz);Image path;Datasheet part;3d model part
-DG1412E;SPST x 4, NC;4.5;24.0;4.5;16.5;1.6;12.5;140.0;-41.0;-104.0;QFN-16 4x4;;24.0;150.0;75104;Datasheet/analog-switches/DG1412E/DG1412E.pdf;
-DG1412E;SPST x 4, NC;4.5;24.0;4.5;16.5;1.6;12.5;140.0;-41.0;-104.0;TSSOP-16;;24.0;150.0;75104;Datasheet/analog-switches/DG1412E/DG1412E.pdf;
+DG1412E;SPST x 4, NC;4.5;24.0;4.5;16.5;1.6;12.5;140.0;-41.0;-104.0;QFN-16 4x4;;24.0;150.0;75104;Datasheet//analog-switches/DG1412E\DG1412E.pdf;
+DG1412E;SPST x 4, NC;4.5;24.0;4.5;16.5;1.6;12.5;140.0;-41.0;-104.0;TSSOP-16;;24.0;150.0;75104;Datasheet//analog-switches/DG1412E\DG1412E.pdf;

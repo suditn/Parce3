@@ -1,2 +1,2 @@
-Part Number;Status;Description;Product type;VinMin.(V);VinMax.(V);Package;PackageSize(W,L,H)(mm);Image path;Datasheet part;3d model part
-SiC632A;Active;50 A power stage, 4.5 VINto 24 VIN, 3.3 V PWM with ZCD mode;VRPower (DrMOS);4.5;24.0;PowerPAK MLP55-31L;5.0 x 5.0 x 0.75;62992;Datasheet/power-ics/computer/SiC632A/SiC632A.pdf;
+Part Number;Status;Description;Product Type;VINMin.(V);VINMax.(V);Package;Package Size(W, L, H)(mm);Image path;Datasheet part;3d model part
+SiC632A;Active;50 A power stage, 4.5 VINto 24 VIN, 3.3 V PWM with ZCD mode;VRPower (DrMOS);4.5;24.0;PowerPAK MLP55-31L;5.0 x 5.0 x 0.75;62992;Datasheet/power-ics/SiC632A\SiC632A.pdf;

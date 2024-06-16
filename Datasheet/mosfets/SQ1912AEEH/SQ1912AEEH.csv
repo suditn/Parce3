@@ -1,2 +1,2 @@
 Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
-SQ1912AEEH;Enlarge;Dual;SC-70;N;20.0;12.0;;;0.45;0.36;;0.28;;;;1.0;;0.14;0.27;0.8;1.5;0.45;3.0;image/mosfets/62166.png;Datasheet/mosfets/SQ1912AEEH/SQ1912AEEH.pdf;
+SQ1912AEEH;Enlarge;Dual;SC-70;N;20.0;12.0;;;0.45;0.36;;0.28;;;;1.0;;0.14;0.27;0.8;1.5;0.45;3.0;image/mosfets/62166.png;Datasheet\/mosfets/SQ1912AEEH\SQ1912AEEH.pdf;

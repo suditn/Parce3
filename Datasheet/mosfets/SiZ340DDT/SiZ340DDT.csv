@@ -1,3 +1,3 @@
 Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
-SiZ340DDT;Enlarge;Dual;PowerPAIR 3 x 3;N;30.0;20.0;;;;;;0.0075;;;0.005;6.3;14.0;3.5;1.3;63.0;31.0;1.1;1.1;91234;Datasheet/mosfets/IRFP460A/IRFP460A.pdf;
-SiZ340DDT;Enlarge;Dual;PowerPAIR 3 x 3;N;30.0;20.0;;;;;;0.0155;;;0.0092;4.0;8.4;2.2;1.0;33.6;16.7;1.1;1.2;91235;Datasheet/mosfets/IRFP460LC/IRFP460LC.pdf;
+SiZ340DDT;Enlarge;Dual;PowerPAIR 3 x 3;N;30.0;20.0;;;;;;0.0075;;;0.005;6.3;14.0;3.5;1.3;63.0;31.0;1.1;1.1;91235;Datasheet//mosfets/IRFP460LC\IRFP460LC.pdf;
+SiZ340DDT;Enlarge;Dual;PowerPAIR 3 x 3;N;30.0;20.0;;;;;;0.0155;;;0.0092;4.0;8.4;2.2;1.0;33.6;16.7;1.1;1.2;91238;Datasheet//mosfets/IRFP9140\IRFP9140.pdf;

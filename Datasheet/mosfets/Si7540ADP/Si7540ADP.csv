@@ -1,3 +1,3 @@
 Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
-Si7540ADP;Enlarge;N- and p-pair;PowerPAK SO-8;P;-20.0;12.0;;;;0.043;;0.028;;;;16.0;32.0;2.3;6.0;-6.1;1.6;-0.6;1.0;image/mosfets/62821.png;Datasheet/mosfets/Si7540ADP/Si7540ADP.pdf;
-Si7540ADP;Enlarge;N- and p-pair;PowerPAK SO-8;N;20.0;12.0;;;;0.0195;;0.015;;;;8.5;18.0;1.8;2.2;8.0;1.6;0.6;3.2;image/mosfets/68832.png;Datasheet/mosfets/Si7540ADP/Si7540ADP.pdf;
+Si7540ADP;Enlarge;N- and p-pair;PowerPAK SO-8;P;-20.0;12.0;;;;0.043;;0.028;;;;16.0;32.0;2.3;6.0;-6.1;1.6;-0.6;1.0;image/mosfets/68832.png;Datasheet\/mosfets/Si7540ADP\Si7540ADP.pdf;Datasheet\/mosfets/Si7540ADP\Si7540ADP.zip
+Si7540ADP;Enlarge;N- and p-pair;PowerPAK SO-8;N;20.0;12.0;;;;0.0195;;0.015;;;;8.5;18.0;1.8;2.2;8.0;1.6;0.6;3.2;image/mosfets/62715.png;Datasheet\/mosfets/Si7540ADP\Si7540ADP.pdf;Datasheet\/mosfets/Si7540ADP\Si7540ADP.zip

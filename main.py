@@ -34,7 +34,6 @@ print(save_path)
 img_small_save_path = os.path.join(save_path, "image")
 print(img_small_save_path)
 datasheet_save_path = os.path.join(save_path, "Datasheet")
-file_3d_src = []
 headers = {'User-Agent': "scrapping_script/1.0"}
 '''
 ---capacitors---
@@ -121,7 +120,7 @@ async def download_file_with_retry(session, url, path, file_3d_pr, headers=None)
         try:
             #with time.sleep(5):
             await asyncio.sleep(5)
-            async with session.get(url, headers=headers) as response:
+            async with session.get(url, headers=headers, timeout=60) as response:
                 response.raise_for_status()
                 file_dir = os.path.dirname(path)
                 Path(file_dir).mkdir(parents=True, exist_ok=True)
@@ -155,7 +154,7 @@ async def download_image_with_retry(session, url, path, headers=None):
     for attempt in range(retries):
         try:
             await asyncio.sleep(5)
-            async with session.get(url, headers=headers) as response:
+            async with session.get(url, headers=headers, timeout=60) as response:
                 response.raise_for_status()
                 file_dir = os.path.dirname(path)
                 Path(file_dir).mkdir(parents=True, exist_ok=True)
@@ -185,7 +184,7 @@ async def download_3d_model_with_retry(session, img_alt, file_3d_path, file_3d_p
     for attempt in range(retries):
         try:
             await asyncio.sleep(5)
-            async with session.get('https://www.vishay.com/en/product/' + img_alt + '/tab/designtools-ppg/', headers=headers, timeout=30) as response:
+            async with session.get('https://www.vishay.com/en/product/' + img_alt + '/tab/designtools-ppg/', headers=headers, timeout=60) as response:
                 logging.info(f'Загрузка 3D модели: https://www.vishay.com/en/product/{img_alt}/tab/designtools-ppg/')
                 response.raise_for_status()
                 if response.status == 200:
@@ -419,7 +418,7 @@ async def main():
             else:
                 print(f"Category {use_in} not found in pages.json")
         print(sl_use)
-    if inputer == all:
+    if inputer == 'all':
         for sl1 in sl_use:
             for sl in sl1:
                 async with aiohttp.ClientSession(timeout=aiohttp.ClientTimeout(total=60), headers=headers) as session:
@@ -429,13 +428,16 @@ async def main():
                         print(sl)
                         web_source = await loop.run_in_executor(executor, get_web, url + sl, sl)
                         df, img_src, datasheet_src = await process_html(session, web_source, sl)
+                        file_3d_src = []
                         for fl in datasheet_src:
-                        #print(fl[:-3])
+
+                            print(fl[:-3])
                         #print(os.path.exists("Datasheet\\"+fl[:-3]+"zip"))
                             if os.path.exists(fl[:-3] + "zip"):
                                 file_3d_src.append(fl[:-3] + "zip")
                             else:
                                 file_3d_src.append("None")
+
                     #save_to_excel(df, img_src, datasheet_src, file_3d_src,save_path, url + sl)
                         save_to_csv(df, img_src,datasheet_src, file_3d_src, save_path, url + sl)
                         logging.info('Данные успешно сохранены.')
@@ -444,12 +446,13 @@ async def main():
     else:
         for sl in sl_use:
             async with aiohttp.ClientSession(timeout=aiohttp.ClientTimeout(total=60), headers=headers) as session:
-                with ThreadPoolExecutor(max_workers=1) as executor:
+                with ThreadPoolExecutor(max_workers=4) as executor:
                     loop = asyncio.get_event_loop()
                     tasks = []
                     print(sl)
                     web_source = await loop.run_in_executor(executor, get_web, url + sl, sl)
                     df, img_src, datasheet_src = await process_html(session, web_source, sl)
+                    file_3d_src = []
                     for fl in datasheet_src:
                         # print(fl[:-3])
                         # print(os.path.exists("Datasheet\\"+fl[:-3]+"zip"))

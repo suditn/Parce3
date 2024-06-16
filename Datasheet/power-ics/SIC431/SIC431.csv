@@ -1,2 +1,2 @@
 Part Number;Status;Description;Product Type;VINMin.(V);VINMax.(V);Package;Package Size(W, L, H)(mm);Image path;Datasheet part;3d model part
-SIC431;Active;24A,3V to 24V in,up to 1MHz,Synch. Buck Regulator;microBUCK (Step Down Regulator);3.0;24.0;PowerPak MLP 44-24L;4.0 x 4.0 x 0.75;74589;Datasheet/power-ics/networking/SIC431/SIC431.pdf;
+SIC431;Active;24A,3V to 24V in,up to 1MHz,Synch. Buck Regulator;microBUCK (Step Down Regulator);3.0;24.0;PowerPak MLP 44-24L;4.0 x 4.0 x 0.75;74589;Datasheet/power-ics/SIC431\SIC431.pdf;Datasheet/power-ics/SIC431\SIC431.zip

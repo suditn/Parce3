@@ -1,0 +1,21 @@
+Series;Product Image;Resistance Min.(Ω);Resistance Max.(Ω);E-Series;Tolerance(± %);Power Rating(W);Maximum Voltage(V);TCR(± ppm/°C);MountingTechnology;Size / Device Style;OperatingTemperature(°C);Automotive;Image path;Datasheet part;3d model part
+CH;Enlarge;10;150;;2.0;0.3;37;50;Surface-mount;0402;-55 to +155;No;image/resistors-fixed/53014.png;Datasheet\/resistors-fixed/CH\CH.pdf;Datasheet\/resistors-fixed/CH\CH.zip
+CH;Enlarge;10;150;;2.0;0.4;50;50;Surface-mount;0603;-55 to +155;No;image/resistors-fixed/53014.png;Datasheet\/resistors-fixed/CH\CH.pdf;Datasheet\/resistors-fixed/CH\CH.zip
+CH;Enlarge;10;150;;5.0;0.03;30;50;Surface-mount;02016;-55 to +155;No;image/resistors-fixed/53014.png;Datasheet\/resistors-fixed/CH\CH.pdf;Datasheet\/resistors-fixed/CH\CH.zip
+CH;Enlarge;10;150;;5.0;0.3;37;50;Surface-mount;0402;-55 to +155;No;image/resistors-fixed/53014.png;Datasheet\/resistors-fixed/CH\CH.pdf;Datasheet\/resistors-fixed/CH\CH.zip
+CH;Enlarge;10;150;;5.0;0.4;50;50;Surface-mount;0603;-55 to +155;No;image/resistors-fixed/53014.png;Datasheet\/resistors-fixed/CH\CH.pdf;Datasheet\/resistors-fixed/CH\CH.zip
+CH;Enlarge;10;500;;2.0;0.3;37;100;Surface-mount;0402;-55 to +155;No;image/resistors-fixed/53014.png;Datasheet\/resistors-fixed/CH\CH.pdf;Datasheet\/resistors-fixed/CH\CH.zip
+CH;Enlarge;10;500;;2.0;0.4;50;100;Surface-mount;0603;-55 to +155;No;image/resistors-fixed/53014.png;Datasheet\/resistors-fixed/CH\CH.pdf;Datasheet\/resistors-fixed/CH\CH.zip
+CH;Enlarge;10;500;;5.0;0.03;30;100;Surface-mount;02016;-55 to +155;No;image/resistors-fixed/53014.png;Datasheet\/resistors-fixed/CH\CH.pdf;Datasheet\/resistors-fixed/CH\CH.zip
+CH;Enlarge;10;500;;5.0;0.3;37;100;Surface-mount;0402;-55 to +155;No;image/resistors-fixed/53014.png;Datasheet\/resistors-fixed/CH\CH.pdf;Datasheet\/resistors-fixed/CH\CH.zip
+CH;Enlarge;10;500;;5.0;0.4;50;100;Surface-mount;0603;-55 to +155;No;image/resistors-fixed/53014.png;Datasheet\/resistors-fixed/CH\CH.pdf;Datasheet\/resistors-fixed/CH\CH.zip
+CH;Enlarge;100;100;;1.0;0.03;30;100;Surface-mount;02016;-55 to +155;No;image/resistors-fixed/53014.png;Datasheet\/resistors-fixed/CH\CH.pdf;Datasheet\/resistors-fixed/CH\CH.zip
+CH;Enlarge;100;100;;1.0;0.03;30;50;Surface-mount;02016;-55 to +155;No;image/resistors-fixed/53014.png;Datasheet\/resistors-fixed/CH\CH.pdf;Datasheet\/resistors-fixed/CH\CH.zip
+CH;Enlarge;50;150;;1.0;0.3;37;50;Surface-mount;0402;-55 to +155;No;image/resistors-fixed/53014.png;Datasheet\/resistors-fixed/CH\CH.pdf;Datasheet\/resistors-fixed/CH\CH.zip
+CH;Enlarge;50;150;;1.0;0.4;50;50;Surface-mount;0603;-55 to +155;No;image/resistors-fixed/53014.png;Datasheet\/resistors-fixed/CH\CH.pdf;Datasheet\/resistors-fixed/CH\CH.zip
+CH;Enlarge;50;150;;2.0;0.03;30;50;Surface-mount;02016;-55 to +155;No;image/resistors-fixed/53014.png;Datasheet\/resistors-fixed/CH\CH.pdf;Datasheet\/resistors-fixed/CH\CH.zip
+CH;Enlarge;50;50;;1.0;0.03;30;100;Surface-mount;02016;-55 to +155;No;image/resistors-fixed/53014.png;Datasheet\/resistors-fixed/CH\CH.pdf;Datasheet\/resistors-fixed/CH\CH.zip
+CH;Enlarge;50;50;;1.0;0.03;30;50;Surface-mount;02016;-55 to +155;No;image/resistors-fixed/53014.png;Datasheet\/resistors-fixed/CH\CH.pdf;Datasheet\/resistors-fixed/CH\CH.zip
+CH;Enlarge;50;500;;1.0;0.3;37;100;Surface-mount;0402;-55 to +155;No;image/resistors-fixed/53014.png;Datasheet\/resistors-fixed/CH\CH.pdf;Datasheet\/resistors-fixed/CH\CH.zip
+CH;Enlarge;50;500;;1.0;0.4;50;100;Surface-mount;0603;-55 to +155;No;image/resistors-fixed/53014.png;Datasheet\/resistors-fixed/CH\CH.pdf;Datasheet\/resistors-fixed/CH\CH.zip
+CH;Enlarge;50;500;;2.0;0.03;30;100;Surface-mount;02016;-55 to +155;No;image/resistors-fixed/53014.png;Datasheet\/resistors-fixed/CH\CH.pdf;Datasheet\/resistors-fixed/CH\CH.zip

@@ -1,0 +1,2 @@
+Series;Product Image;IO(A);TC(°C);VRRM(V);VRSM(V);IFSMat 50 Hz(A);IFSMat 60 Hz(A);VFMat ITMat25 °C(V);TJ(°C);RthJCperJunction(°C/W);Package;CircuitConfiguration;Image path;Datasheet part;3d model part
+VS-200MT40KPbF;Enlarge;200.0;85.0;400;500;1800;1880;1.40 at 200;150;0.69;MTK;Three phase bridge;image/modules\94355.png;Datasheet\modules\VS-200MT40KPbF\VS-200MT40KPbF.pdf;

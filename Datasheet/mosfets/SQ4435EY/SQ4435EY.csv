@@ -1,2 +1,2 @@
 Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
-SQ4435EY;Enlarge;Single;SO-8;P;-30.0;20.0;;;;;;0.031;;;0.018;;38.3;5.9;9.0;-15.0;6.8;-1.5;0.0;image/mosfets/66724.png;Datasheet/mosfets/SQ4435EY/SQ4435EY.pdf;Datasheet/mosfets/SQ4435EY/SQ4435EY.zip
+SQ4435EY;Enlarge;Single;SO-8;P;-30.0;20.0;;;;;;0.031;;;0.018;;38.3;5.9;9.0;-15.0;6.8;-1.5;0.0;image/mosfets/66724.png;Datasheet\/mosfets/SQ4435EY\SQ4435EY.pdf;Datasheet\/mosfets/SQ4435EY\SQ4435EY.zip

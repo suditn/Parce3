@@ -1,3 +1,3 @@
 Part Number;Status;Description;Product Type;VINMin.(V);VINMax.(V);Package;Package Size(W, L, H)(mm);Image path;Datasheet part;3d model part
 SiC648A;New;"60 A smart ower stage, 4.5 VINto 18 VIN,
- 3.3 V PWM";VRPower (DrMOS);4.5;18.0;PowerPAK MLP55-32L;5.0 x 5.0 x 0.75;63049;Datasheet/power-ics/networking/SiC648A/SiC648A.pdf;
+ 3.3 V PWM";VRPower (DrMOS);4.5;18.0;PowerPAK MLP55-32L;5.0 x 5.0 x 0.75;63049;Datasheet/power-ics/SiC648A\SiC648A.pdf;

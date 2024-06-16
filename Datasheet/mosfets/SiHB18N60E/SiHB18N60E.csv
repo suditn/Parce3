@@ -1,2 +1,2 @@
 Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
-SiHB18N60E;Enlarge;Single;D2PAK (TO-263);N;600.0;30.0;;;;;;;;;0.202;;46.0;10.0;18.0;18.0;179.0;2.0;0.74;image/mosfets/91726.png;Datasheet/mosfets/SiHB18N60E/SiHB18N60E.pdf;
+SiHB18N60E;Enlarge;Single;D2PAK (TO-263);N;600.0;30.0;;;;;;;;;0.202;;46.0;10.0;18.0;18.0;179.0;2.0;0.74;image/mosfets/91586.png;Datasheet\/mosfets/SiHB18N60E\SiHB18N60E.pdf;Datasheet\/mosfets/SiHB18N60E\SiHB18N60E.zip

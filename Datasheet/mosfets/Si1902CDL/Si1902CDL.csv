@@ -1,2 +1,2 @@
 Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
-Si1902CDL;Enlarge;Dual;SC-70;N;20.0;12.0;;;;0.306;;0.235;;;;0.9;2.0;0.2;0.2;1.1;0.42;0.6;12.0;image/mosfets/70132.png;Datasheet/mosfets/Si1902CDL/Si1902CDL.pdf;Datasheet/mosfets/Si1902CDL/Si1902CDL.zip
+Si1902CDL;Enlarge;Dual;SC-70;N;20.0;12.0;;;;0.306;;0.235;;;;0.9;2.0;0.2;0.2;1.1;0.42;0.6;12.0;image/mosfets/62367.png;Datasheet\/mosfets/Si1902CDL\Si1902CDL.pdf;Datasheet\/mosfets/Si1902CDL\Si1902CDL.zip

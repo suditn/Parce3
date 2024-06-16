@@ -1,0 +1,4 @@
+Series;Product Image;Type;Technology;Description;Mounting;Voltage(V);Capacitance (min.);Capacitance (max.);Dielectric;Image path;Datasheet part;3d model part
+DSCC 05007;Enlarge;Capacitors, Fixed;MLCC;Surface Mount Multilayer Ceramic Chip Capacitors DSCC Qualified Type 05007;Surface Mount;100.0;820 pF;470 nF;BR;image\capacitors\45049.png;Datasheet\capacitors\DSCC 05007\DSCC 05007.pdf;
+DSCC 05007;Enlarge;Capacitors, Fixed;MLCC;Surface Mount Multilayer Ceramic Chip Capacitors DSCC Qualified Type 05007;Surface Mount;100.0;820 pF;470 nF;BX;image\capacitors\45049.png;Datasheet\capacitors\DSCC 05007\DSCC 05007.pdf;
+DSCC 05007;Enlarge;Capacitors, Fixed;MLCC;Surface Mount Multilayer Ceramic Chip Capacitors DSCC Qualified Type 05007;Surface Mount;200.0;1 pF;6.8 nF;BP;image\capacitors\45049.png;Datasheet\capacitors\DSCC 05007\DSCC 05007.pdf;

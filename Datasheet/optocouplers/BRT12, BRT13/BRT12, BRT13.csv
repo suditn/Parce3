@@ -1,4 +1,4 @@
 Part Number;Product Image;Zero or Non-zero crossing;Package;Trigger Current IFTMax.(mA);Blocking Voltage VDRM(V);On-state Current(mA);Static dv / dt;Isolation Voltage VISOVRMS;Ambient Temperature Range(°C);Creepage Min.(mm);Working Voltage VIORM(Vpeak);Safety Standard;Image path;Datasheet part;3d model part
-BRT12, BRT13;Enlarge;Non-Zero;DIP-6;1.2 to 3;800;300;10.0;4420;-40 to +100;7.0;890.0;UL, cUL, VDE;image/optocouplers/83689.png;Datasheet/optocouplers/opto-triac/BRT12, BRT13/BRT12, BRT13.pdf;
-BRT12, BRT13;Enlarge;Non-Zero;DIP-6, 400 mil;1.2 to 3;800;300;10.0;4420;-40 to +100;;890.0;UL, cUL, VDE;image/optocouplers/83689.png;Datasheet/optocouplers/opto-triac/BRT12, BRT13/BRT12, BRT13.pdf;
-BRT12, BRT13;Enlarge;Non-Zero;SMD-6;1.2 to 3;800;300;10.0;4420;-40 to +100;7.0;890.0;UL, cUL, VDE;image/optocouplers/83689.png;Datasheet/optocouplers/opto-triac/BRT12, BRT13/BRT12, BRT13.pdf;
+BRT12, BRT13;Enlarge;Non-Zero;DIP-6;1.2 to 3;800;300;10.0;4420;-40 to +100;7.0;890.0;UL, cUL, VDE;image/optocouplers\83689.png;Datasheet\optocouplers\BRT12, BRT13\BRT12, BRT13.pdf;
+BRT12, BRT13;Enlarge;Non-Zero;DIP-6, 400 mil;1.2 to 3;800;300;10.0;4420;-40 to +100;;890.0;UL, cUL, VDE;image/optocouplers\83689.png;Datasheet\optocouplers\BRT12, BRT13\BRT12, BRT13.pdf;
+BRT12, BRT13;Enlarge;Non-Zero;SMD-6;1.2 to 3;800;300;10.0;4420;-40 to +100;7.0;890.0;UL, cUL, VDE;image/optocouplers\83689.png;Datasheet\optocouplers\BRT12, BRT13\BRT12, BRT13.pdf;

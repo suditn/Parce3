@@ -1,0 +1,3 @@
+Part Number;Product Image;Package;Dimensions(mm);Carrier Frequency(kHz);AGC;Transmission DistanceTyp.(m);Detection Threshold /Sensitivity Typ.;Half ViewingAngle(°);Supply CurrentTyp.(mA);Pinning;Recommended for RemoteControl Code;Application;Mounting;Image path;Datasheet part;3d model part
+TSOP93436P16TR;Enlarge;Minimold;5.4 W x 6.35 H x 4.9 D;36;AGC4;30.0;0.08;± 45;0.37;1 = OUT, 2 = GND, 3 = VS;MCIR;Remote control;Leaded;image/ir-receiver-modules/82879.png;Datasheet\/ir-receiver-modules/TSOP93436P16TR\TSOP93436P16TR.pdf;
+TSOP93436P16TR;Enlarge;Minimold;5.4 W x 6.35 H x 4.9 D;36;AGC4;30.0;0.08;± 45;0.37;1 = OUT, 2 = GND, 3 = VS;RC-6;Remote control;Leaded;image/ir-receiver-modules/82879.png;Datasheet\/ir-receiver-modules/TSOP93436P16TR\TSOP93436P16TR.pdf;

@@ -1,0 +1,2 @@
+Part Number;Product Image;Package;Dimensions(mm);Carrier Frequency(kHz);AGC;Transmission DistanceTyp.(m);Detection Threshold /Sensitivity Typ.;Half ViewingAngle(°);Supply CurrentTyp.(mA);Pinning;Recommended for RemoteControl Code;Application;Mounting;Image path;Datasheet part;3d model part
+TSMP96000;Enlarge;Panhead;7.5 W x 5.3 H x 4.0 D;30 to 60;;1.8;12.0;± 50;0.35;1 = GND, 2 = N.C., 3 = VS, 4 = OUT;;Code learning;SMD;image/ir-receiver-modules/82906.png;Datasheet\/ir-receiver-modules/TSMP96000\TSMP96000.pdf;

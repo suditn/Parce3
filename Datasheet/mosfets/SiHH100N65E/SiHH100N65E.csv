@@ -1,2 +1,2 @@
 Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
-SiHH100N65E;Enlarge;Single;PowerPAK 8 x 8;N;650.0;30.0;;;;;;;;;0.1;;41.0;16.0;15.0;28.0;184.0;3.0;1.1;image/mosfets/91878.png;Datasheet/mosfets/SiHH100N65E/SiHH100N65E.pdf;Datasheet/mosfets/SiHH100N65E/SiHH100N65E.zip
+SiHH100N65E;Enlarge;Single;PowerPAK 8 x 8;N;650.0;30.0;;;;;;;;;0.1;;41.0;16.0;15.0;28.0;184.0;3.0;1.1;image/mosfets/91599.png;Datasheet\/mosfets/SiHH100N65E\SiHH100N65E.pdf;Datasheet\/mosfets/SiHH100N65E\SiHH100N65E.zip

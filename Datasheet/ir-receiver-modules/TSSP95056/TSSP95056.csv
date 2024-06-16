@@ -1,0 +1,2 @@
+Part Number;Product Image;Package;Dimensions(mm);Carrier Frequency(kHz);AGC;Transmission DistanceTyp.(m);Detection Threshold /Sensitivity Typ.;Half ViewingAngle(°);Supply CurrentTyp.(mA);Pinning;Recommended for RemoteControl Code;Application;Mounting;Image path;Datasheet part;3d model part
+TSSP95056;Enlarge;Heimdall;6.8 W x 3.0 H x 3.2 D;56;;8.0;0.7;± 50;0.37;1, 4 = GND, 2 = VS, 3 = OUT;;Presence sensors, fast proximity sensors;SMD;image/ir-receiver-modules/82867.png;Datasheet\/ir-receiver-modules/TSSP95056\TSSP95056.pdf;

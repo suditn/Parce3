@@ -1,0 +1,2 @@
+Series;Product Image;Type;Description;Technology;Resistance (min)(Ω);Resistance (max)(Ω);TCR Absolute(ppm/°C);TCR Tracking(ppm/°C);Absolute Tolerance(%);Ratio Tolerance(%);Power(W);Package Type;Case (EIA & Mil);Image path;Datasheet part;3d model part
+HD;Enlarge;Resistor Networks;Hermetic, Dual-In-Line Thin Film Resistor, Through Hole Network (Custom);Thin Film;50;300 K;10.0;1.0;0.02;0.01;0.1;Hermetic;;image/networks-and-arrays/60047.png;Datasheet\/networks-and-arrays/HD\HD.pdf;

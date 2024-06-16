@@ -1,2 +1,2 @@
-Part Number;Status;Description;Product type;VinMin.(V);VinMax.(V);Package;PackageSize(W,L,H)(mm);Image path;Datasheet part;3d model part
-SiP32454;Active;0.8 V to 2.5 V, 28 mΩ, 1.5 ms rise time, output discharge;Slew rate;0.8;2.5;WCSP4;0.8 x 0.8 x 0.5;62531;Datasheet/power-ics/computer/SiP32454/SiP32454.pdf;
+Part Number;Status;Description;Configuration;Slew Rate Time(µs);On Delay Time(µs);VINMin.(V);VINMax.(V);RDS(on)at VINMin.(mΩ);RDS(on)at VINMax.(mΩ);IQat VINMin.(µA);IQat VINMax.(µA);Output Discharge(Y / N);Reverse Blocking(Y / N);Cont. Current(A);Package;Package Size(W, L, H)(mm);Image path;Datasheet part;3d model part
+SiP32454;Active;0.8 V to 2.5 V, 28 mΩ, 1.5 ms rise time, output discharge;Single;1000;600;0.8;2.5;30.0;28.0;4.0;32.0;Yes;Yes;1.2;WCSP4;0.8 x 0.8 x 0.5;62531;Datasheet/power-ics/SiP32454\SiP32454.pdf;

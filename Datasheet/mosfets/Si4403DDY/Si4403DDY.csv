@@ -1,2 +1,2 @@
 Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
-Si4403DDY;Enlarge;Single;SO-8;P;-20.0;8.0;;;0.03;0.02;;0.014;;;;39.0;;3.7;7.9;-15.4;5.0;-0.4;3.7;image/mosfets/65299.png;Datasheet/mosfets/Si4403DDY/Si4403DDY.pdf;Datasheet/mosfets/Si4403DDY/Si4403DDY.zip
+Si4403DDY;Enlarge;Single;SO-8;P;-20.0;8.0;;;0.03;0.02;;0.014;;;;39.0;;3.7;7.9;-15.4;5.0;-0.4;3.7;image/mosfets/65596.png;Datasheet\/mosfets/Si4403DDY\Si4403DDY.pdf;Datasheet\/mosfets/Si4403DDY\Si4403DDY.zip

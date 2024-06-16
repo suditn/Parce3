@@ -1,2 +1,2 @@
 Part Number;Configuration;SingleSupplyMin.;SingleSupplyMax.;DualSupplyMin.;DualSupplyMax.;On-Resistance(Ω);Is(off)Max.;tonMax.;QINJTyp.;XTALK&OIRR;Package;CS(on)(pF);CS(off)(pF);-3 dBBandwidth(MHz);Image path;Datasheet part;3d model part
-DG5043;SPDT x 2;13.0;36.0;7.0;22.0;50.0;1.0;1200.0;30.0;-80.0;Plastic DIP-16;;;;70059;Datasheet/analog-switches/DG5043/DG5043.pdf;
+DG5043;SPDT x 2;13.0;36.0;7.0;22.0;50.0;1.0;1200.0;30.0;-80.0;Plastic DIP-16;;;;70059;Datasheet//analog-switches/DG5043\DG5043.pdf;

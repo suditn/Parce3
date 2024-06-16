@@ -1,4 +1,4 @@
 Part Number;Package;K3 Transfer Gain2(%);Transfer Gain1Linearity typ.(± %);Bandwidth, typ.(kHz);Isolation Voltage VISOVRMS;Safety Standard(s);Image path;Datasheet part;3d model part
-IL300;DIP-8;0.557 to 1.618;0.25;1400;4420;UL, CUL, VDE, BSI, FIMKO,;83622;Datasheet/optocouplers/opto-linear/IL300/IL300.pdf;
-IL300;DIP-8, 400 mil;0.557 to 1.618;0.25;1400;4420;UL, CUL, VDE, BSI, FIMKO,;83622;Datasheet/optocouplers/opto-linear/IL300/IL300.pdf;
-IL300;SMD-8;0.557 to 1.618;0.25;1400;4420;UL, CUL, VDE, BSI, FIMKO,;83622;Datasheet/optocouplers/opto-linear/IL300/IL300.pdf;
+IL300;DIP-8;0.557 to 1.618;0.25;1400;4420;UL, CUL, VDE, BSI, FIMKO,;83622;Datasheet/optocouplers/IL300\IL300.pdf;Datasheet/optocouplers/IL300\IL300.zip
+IL300;DIP-8, 400 mil;0.557 to 1.618;0.25;1400;4420;UL, CUL, VDE, BSI, FIMKO,;83622;Datasheet/optocouplers/IL300\IL300.pdf;Datasheet/optocouplers/IL300\IL300.zip
+IL300;SMD-8;0.557 to 1.618;0.25;1400;4420;UL, CUL, VDE, BSI, FIMKO,;83622;Datasheet/optocouplers/IL300\IL300.pdf;Datasheet/optocouplers/IL300\IL300.zip

@@ -1,2 +1,2 @@
 Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
-SiHB125N65E;Enlarge;Single;D2PAK (TO-263);N;650.0;30.0;;;;;;;;;0.12;;38.0;15.0;14.0;27.0;208.0;3.0;0.8;image/mosfets/91997.png;Datasheet/mosfets/SiHB125N65E/SiHB125N65E.pdf;Datasheet/mosfets/SiHB125N65E/SiHB125N65E.zip
+SiHB125N65E;Enlarge;Single;D2PAK (TO-263);N;650.0;30.0;;;;;;;;;0.12;;38.0;15.0;14.0;27.0;208.0;3.0;0.8;image/mosfets/91598.png;Datasheet\/mosfets/SiHB125N65E\SiHB125N65E.pdf;Datasheet\/mosfets/SiHB125N65E\SiHB125N65E.zip

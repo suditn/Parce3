@@ -1,2 +1,2 @@
 Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
-Si8410DB;Enlarge;Single;MICRO FOOT 1 x 1;N;20.0;8.0;;0.068;0.047;0.041;;0.037;;;;5.9;;0.7;0.66;5.7;1.8;0.4;5.3;image/mosfets/92486.png;Datasheet/mosfets/Si8410DB/Si8410DB.pdf;Datasheet/mosfets/Si8410DB/Si8410DB.zip
+Si8410DB;Enlarge;Single;MICRO FOOT 1 x 1;N;20.0;8.0;;0.068;0.047;0.041;;0.037;;;;5.9;;0.7;0.66;5.7;1.8;0.4;5.3;image/mosfets/91631.png;Datasheet\/mosfets/Si8410DB\Si8410DB.pdf;Datasheet\/mosfets/Si8410DB\Si8410DB.zip

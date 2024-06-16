@@ -1,2 +1,2 @@
 Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
-Si1443EDH;Enlarge;Single;SC-70;P;-30.0;12.0;;;;0.085;;0.062;;;0.054;8.6;18.5;1.7;2.5;-4.0;2.8;-0.6;450.0;image/mosfets/65015.png;Datasheet/mosfets/Si1443EDH/Si1443EDH.pdf;Datasheet/mosfets/Si1443EDH/Si1443EDH.zip
+Si1443EDH;Enlarge;Single;SC-70;P;-30.0;12.0;;;;0.085;;0.062;;;0.054;8.6;18.5;1.7;2.5;-4.0;2.8;-0.6;450.0;image/mosfets/77098.png;Datasheet\/mosfets/Si1443EDH\Si1443EDH.pdf;Datasheet\/mosfets/Si1443EDH\Si1443EDH.zip

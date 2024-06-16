@@ -1,2 +1,2 @@
 Part Number;Configuration;SingleSupplyMin.;SingleSupplyMax.;DualSupplyMin.;DualSupplyMax.;On-Resistance(Ω);Is(off)Max.;tonMax.;QINJTyp.;XTALK&OIRR;Package;CS(on)(pF);CS(off)(pF);-3 dBBandwidth(MHz);Image path;Datasheet part;3d model part
-DG2730;DPDT x 1;2.7;4.3;;;7.0;100.0;30.0;0.5;-45.0;miniQFN-10;6.5;2.7;900.0;67786;Datasheet/analog-switches/DG2730/DG2730.pdf;
+DG2730;DPDT x 1;2.7;4.3;;;7.0;100.0;30.0;0.5;-45.0;miniQFN-10;6.5;2.7;900.0;67786;Datasheet//analog-switches/DG2730\DG2730.pdf;

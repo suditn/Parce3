@@ -1,2 +1,2 @@
 Part Number;Configuration;SingleSupplyMin.;SingleSupplyMax.;DualSupplyMin.;DualSupplyMax.;On-Resistance(Ω);Is(off)Max.;tonMax.;QINJTyp.;XTALK&OIRR;Package;CS(on)(pF);CS(off)(pF);-3 dBBandwidth(MHz);Image path;Datasheet part;3d model part
-DG302B;DPST x 2, NO;5.0;36.0;5.0;22.0;15.0;5.0;150.0;8.0;-62.0;Plastic DIP-14;40.0;14.0;;71402;Datasheet/analog-switches/DG302B/DG302B.pdf;
+DG302B;DPST x 2, NO;5.0;36.0;5.0;22.0;15.0;5.0;150.0;8.0;-62.0;Plastic DIP-14;40.0;14.0;;71402;Datasheet//analog-switches/DG302B\DG302B.pdf;

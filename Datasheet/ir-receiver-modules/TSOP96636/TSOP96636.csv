@@ -1,0 +1,3 @@
+Part Number;Product Image;Package;Dimensions(mm);Carrier Frequency(kHz);AGC;Transmission DistanceTyp.(m);Detection Threshold /Sensitivity Typ.;Half ViewingAngle(°);Supply CurrentTyp.(mA);Pinning;Recommended for RemoteControl Code;Application;Mounting;Image path;Datasheet part;3d model part
+TSOP96636;Enlarge;Panhead;7.5 W x 5.3 H x 4.0 D;36;AGC6;26.0;0.1;± 50;0.37;1 = GND, 2 = N.C., 3 = VS, 4 = OUT;Panasonic;Remote control;SMD;image/ir-receiver-modules/82849.png;Datasheet\/ir-receiver-modules/TSOP96636\TSOP96636.pdf;
+TSOP96636;Enlarge;Panhead;7.5 W x 5.3 H x 4.0 D;36;AGC6;26.0;0.1;± 50;0.37;1 = GND, 2 = N.C., 3 = VS, 4 = OUT;RC-5;Remote control;SMD;image/ir-receiver-modules/82849.png;Datasheet\/ir-receiver-modules/TSOP96636\TSOP96636.pdf;

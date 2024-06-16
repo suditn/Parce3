@@ -1,0 +1,11 @@
+Series;Product Image;Type;Technology;Description;Mounting;Case Size;Working Voltage(V);Capacitance (min.);Capacitance (max.);Image path;Datasheet part;3d model part
+NC Series;Enlarge;Capacitors, Fixed;Thin Film;Thin Film Single Value Chip and Wire Capacitors;Wire Bondable;0606;;360 pF;1000 pF;image/capacitors\61033.png;Datasheet\capacitors\NC Series\NC Series.pdf;None
+CBB, CBC;Enlarge;Capacitors, Fixed;Thin Film;Thin Film Binary MOS Capacitors;Wire Bondable;0402;75;1 pF;16 pF;image/capacitors\61042.png;Datasheet\capacitors\CBB, CBC\CBB, CBC.pdf;None
+CBB, CBC;Enlarge;Capacitors, Fixed;Thin Film;Thin Film Binary MOS Capacitors;Wire Bondable;0404;75;3 pF;48 pF;image/capacitors\61042.png;Datasheet\capacitors\CBB, CBC\CBB, CBC.pdf;None
+BRCP;Enlarge;Capacitors, Fixed;Thin Film;Thin Film Bar MOS Capacitors;;1204;100;5 pF;50 pF;image/capacitors\61106.png;Datasheet\capacitors\BRCP\BRCP.pdf;None
+BRCP;Enlarge;Capacitors, Fixed;Thin Film;Thin Film Bar MOS Capacitors;;2404;100;10 pF;100 pF;image/capacitors\61106.png;Datasheet\capacitors\BRCP\BRCP.pdf;None
+CBA;Enlarge;Capacitors, Fixed;Thin Film;Thin Film Binary MOS Capacitors;Wire Bondable;0203;100;0.25 pF;8 pF;image/capacitors\61041.png;Datasheet\capacitors\CBA\CBA.pdf;None
+NC Series;Enlarge;Capacitors, Fixed;Thin Film;Thin Film Single Value Chip and Wire Capacitors;Wire Bondable;0505;140;150 pF;510 pF;image/capacitors\61033.png;Datasheet\capacitors\NC Series\NC Series.pdf;None
+NC Series;Enlarge;Capacitors, Fixed;Thin Film;Thin Film Single Value Chip and Wire Capacitors;Wire Bondable;0303;150;33 pF;100 pF;image/capacitors\61033.png;Datasheet\capacitors\NC Series\NC Series.pdf;None
+NC Series;Enlarge;Capacitors, Fixed;Thin Film;Thin Film Single Value Chip and Wire Capacitors;Wire Bondable;0404;190;56 pF;220 pF;image/capacitors\61033.png;Datasheet\capacitors\NC Series\NC Series.pdf;None
+NC Series;Enlarge;Capacitors, Fixed;Thin Film;Thin Film Single Value Chip and Wire Capacitors;Wire Bondable;0202;200;0.5 pF;51 pF;image/capacitors\61033.png;Datasheet\capacitors\NC Series\NC Series.pdf;None

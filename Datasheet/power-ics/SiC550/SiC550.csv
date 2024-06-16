@@ -1,3 +1,3 @@
 Part Number;Status;Description;Product Type;VINMin.(V);VINMax.(V);Package;Package Size(W, L, H)(mm);Image path;Datasheet part;3d model part
 SiC550;New;"40 A smart power stage, 4.5 VINto 18 VIN,
-5 V PWM";VRPower (DrMOS);4.5;18.0;PowerPAK MLP24-54;4.0 x 5.0 x 0.75;62087;Datasheet/power-ics/networking/SiC550/SiC550.pdf;
+5 V PWM";VRPower (DrMOS);4.5;18.0;PowerPAK MLP24-54;4.0 x 5.0 x 0.75;62087;Datasheet/power-ics/SiC550\SiC550.pdf;

@@ -1,0 +1,5 @@
+Series;Product Image;IO(A);TC(°C);VRRM(V);VRSM(V);IFSMat 50 Hz(A);IFSMat 60 Hz(A);VFMat ITMat25 °C(V);TJ(°C);RthJCperJunction(°C/W);Package;CircuitConfiguration;Image path;Datasheet part;3d model part
+VS-MB High Voltage Series;Enlarge;25.0;70.0;1400;1500;400;420;1.25 at 40;150;1.7;D-34;Single phase bridge;image/modules\93564.png;Datasheet\modules\VS-MB High Voltage Series\VS-MB High Voltage Series.pdf;
+VS-MB High Voltage Series;Enlarge;35.0;55.0;1600;1700;475;500;1.3 at 55;150;1.35;D-34;Single phase bridge;image/modules\93564.png;Datasheet\modules\VS-MB High Voltage Series\VS-MB High Voltage Series.pdf;
+VS-MB High Voltage Series;Enlarge;25.0;70.0;1600;1700;400;420;1.25 at 40;150;1.7;D-34;Single phase bridge;image/modules\93564.png;Datasheet\modules\VS-MB High Voltage Series\VS-MB High Voltage Series.pdf;
+VS-MB High Voltage Series;Enlarge;35.0;55.0;1400;1500;475;500;1.3 at 55;150;1.35;D-34;Single phase bridge;image/modules\93564.png;Datasheet\modules\VS-MB High Voltage Series\VS-MB High Voltage Series.pdf;

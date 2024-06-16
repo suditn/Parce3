@@ -1,0 +1,21 @@
+Series;Product Image;Resistance Min.(Ω);Resistance Max.(Ω);E-Series;Tolerance(± %);Power Rating(W);Maximum Voltage(V);TCR(± ppm/°C);MountingTechnology;Size / Device Style;OperatingTemperature(°C);Automotive;Image path;Datasheet part;3d model part
+CHPHT;Enlarge;0.1;100M;;5.0;0.1;200;300;Surface-mount;2010;-55 to +230;No;image/resistors-fixed/52032.png;Datasheet\/resistors-fixed/CHPHT\CHPHT.pdf;Datasheet\/resistors-fixed/CHPHT\CHPHT.zip
+CHPHT;Enlarge;0.1;25M;;5.0;0.0125;50;300;Surface-mount;0603;-55 to +230;No;image/resistors-fixed/52032.png;Datasheet\/resistors-fixed/CHPHT\CHPHT.pdf;Datasheet\/resistors-fixed/CHPHT\CHPHT.zip
+CHPHT;Enlarge;0.1;25M;;5.0;0.02;150;300;Surface-mount;0805;-55 to +230;No;image/resistors-fixed/52032.png;Datasheet\/resistors-fixed/CHPHT\CHPHT.pdf;Datasheet\/resistors-fixed/CHPHT\CHPHT.zip
+CHPHT;Enlarge;0.1;50M;;5.0;0.025;200;300;Surface-mount;1206;-55 to +230;No;image/resistors-fixed/52032.png;Datasheet\/resistors-fixed/CHPHT\CHPHT.pdf;Datasheet\/resistors-fixed/CHPHT\CHPHT.zip
+CHPHT;Enlarge;0.5;100M;;5.0;0.1;200;200;Surface-mount;2010;-55 to +230;No;image/resistors-fixed/52032.png;Datasheet\/resistors-fixed/CHPHT\CHPHT.pdf;Datasheet\/resistors-fixed/CHPHT\CHPHT.zip
+CHPHT;Enlarge;0.5;25M;;5.0;0.0125;50;200;Surface-mount;0603;-55 to +230;No;image/resistors-fixed/52032.png;Datasheet\/resistors-fixed/CHPHT\CHPHT.pdf;Datasheet\/resistors-fixed/CHPHT\CHPHT.zip
+CHPHT;Enlarge;0.5;25M;;5.0;0.02;150;200;Surface-mount;0805;-55 to +230;No;image/resistors-fixed/52032.png;Datasheet\/resistors-fixed/CHPHT\CHPHT.pdf;Datasheet\/resistors-fixed/CHPHT\CHPHT.zip
+CHPHT;Enlarge;0.5;50M;;5.0;0.025;200;200;Surface-mount;1206;-55 to +230;No;image/resistors-fixed/52032.png;Datasheet\/resistors-fixed/CHPHT\CHPHT.pdf;Datasheet\/resistors-fixed/CHPHT\CHPHT.zip
+CHPHT;Enlarge;1;100M;;2.0;0.1;200;200;Surface-mount;2010;-55 to +230;No;image/resistors-fixed/52032.png;Datasheet\/resistors-fixed/CHPHT\CHPHT.pdf;Datasheet\/resistors-fixed/CHPHT\CHPHT.zip
+CHPHT;Enlarge;1;25M;;2.0;0.0125;50;200;Surface-mount;0603;-55 to +230;No;image/resistors-fixed/52032.png;Datasheet\/resistors-fixed/CHPHT\CHPHT.pdf;Datasheet\/resistors-fixed/CHPHT\CHPHT.zip
+CHPHT;Enlarge;1;25M;;2.0;0.02;150;200;Surface-mount;0805;-55 to +230;No;image/resistors-fixed/52032.png;Datasheet\/resistors-fixed/CHPHT\CHPHT.pdf;Datasheet\/resistors-fixed/CHPHT\CHPHT.zip
+CHPHT;Enlarge;1;50M;;2.0;0.025;200;200;Surface-mount;1206;-55 to +230;No;image/resistors-fixed/52032.png;Datasheet\/resistors-fixed/CHPHT\CHPHT.pdf;Datasheet\/resistors-fixed/CHPHT\CHPHT.zip
+CHPHT;Enlarge;5;10M;;1.0;0.0125;50;100;Surface-mount;0603;-55 to +230;No;image/resistors-fixed/52032.png;Datasheet\/resistors-fixed/CHPHT\CHPHT.pdf;Datasheet\/resistors-fixed/CHPHT\CHPHT.zip
+CHPHT;Enlarge;5;10M;;1.0;0.0125;50;200;Surface-mount;0603;-55 to +230;No;image/resistors-fixed/52032.png;Datasheet\/resistors-fixed/CHPHT\CHPHT.pdf;Datasheet\/resistors-fixed/CHPHT\CHPHT.zip
+CHPHT;Enlarge;5;10M;;1.0;0.02;150;100;Surface-mount;0805;-55 to +230;No;image/resistors-fixed/52032.png;Datasheet\/resistors-fixed/CHPHT\CHPHT.pdf;Datasheet\/resistors-fixed/CHPHT\CHPHT.zip
+CHPHT;Enlarge;5;10M;;1.0;0.02;150;200;Surface-mount;0805;-55 to +230;No;image/resistors-fixed/52032.png;Datasheet\/resistors-fixed/CHPHT\CHPHT.pdf;Datasheet\/resistors-fixed/CHPHT\CHPHT.zip
+CHPHT;Enlarge;5;10M;;1.0;0.025;200;100;Surface-mount;1206;-55 to +230;No;image/resistors-fixed/52032.png;Datasheet\/resistors-fixed/CHPHT\CHPHT.pdf;Datasheet\/resistors-fixed/CHPHT\CHPHT.zip
+CHPHT;Enlarge;5;10M;;1.0;0.025;200;200;Surface-mount;1206;-55 to +230;No;image/resistors-fixed/52032.png;Datasheet\/resistors-fixed/CHPHT\CHPHT.pdf;Datasheet\/resistors-fixed/CHPHT\CHPHT.zip
+CHPHT;Enlarge;5;10M;;1.0;0.1;200;100;Surface-mount;2010;-55 to +230;No;image/resistors-fixed/52032.png;Datasheet\/resistors-fixed/CHPHT\CHPHT.pdf;Datasheet\/resistors-fixed/CHPHT\CHPHT.zip
+CHPHT;Enlarge;5;10M;;1.0;0.1;200;200;Surface-mount;2010;-55 to +230;No;image/resistors-fixed/52032.png;Datasheet\/resistors-fixed/CHPHT\CHPHT.pdf;Datasheet\/resistors-fixed/CHPHT\CHPHT.zip

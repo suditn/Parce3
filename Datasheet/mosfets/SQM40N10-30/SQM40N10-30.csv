@@ -1,2 +1,2 @@
 Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
-SQM40N10-30;Enlarge;Single;TO-263;N;100.0;20.0;;;;;;;0.034;;0.03;;41.0;11.0;11.0;40.0;107.0;2.5;1.3;image/mosfets/66800.png;Datasheet/mosfets/SQM40N10-30/SQM40N10-30.pdf;Datasheet/mosfets/SQM40N10-30/SQM40N10-30.zip
+SQM40N10-30;Enlarge;Single;TO-263;N;100.0;20.0;;;;;;;0.034;;0.03;;41.0;11.0;11.0;40.0;107.0;2.5;1.3;image/mosfets/66800.png;Datasheet\/mosfets/SQM40N10-30\SQM40N10-30.pdf;Datasheet\/mosfets/SQM40N10-30\SQM40N10-30.zip

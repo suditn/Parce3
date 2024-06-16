@@ -1,2 +1,2 @@
-Part Number;Status;Description;Product type;VinMin.(V);VinMax.(V);Package;PackageSize(W,L,H)(mm);Image path;Datasheet part;3d model part
-SiP32475;Active;1.2 V to 5.5 V, 47 mΩ, 200 µs rise time, bidirectional off isolation, output discharge;Slew rate;1.2;5.5;µDFN-4L;1.0 x 1.0 x 0.35;75792;Datasheet/power-ics/computer/SiP32475/SiP32475.pdf;
+Part Number;Status;Description;Configuration;Slew Rate Time(µs);On Delay Time(µs);VINMin.(V);VINMax.(V);RDS(on)at VINMin.(mΩ);RDS(on)at VINMax.(mΩ);IQat VINMin.(µA);IQat VINMax.(µA);Output Discharge(Y / N);Reverse Blocking(Y / N);Cont. Current(A);Package;Package Size(W, L, H)(mm);Image path;Datasheet part;3d model part
+SiP32475;Active;1.2 V to 5.5 V, 47 mΩ, 200 µs rise time, bidirectional off isolation, output discharge;Single;162;138;1.2;5.5;92.0;47.0;1.2;5.5;Yes;Yes;2.0;µDFN-4L;1.0 x 1.0 x 0.35;75792;Datasheet/power-ics/SiP32475\SiP32475.pdf;

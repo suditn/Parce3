@@ -1,2 +1,2 @@
 Part Number;Status;Description;Product Type;VINMin.(V);VINMax.(V);Package;Package Size(W, L, H)(mm);Image path;Datasheet part;3d model part
-SiC453;New;4.5 V to 20 V input 15 A microBUCK DC/DC converter with PMBus;microBUCK;4.5;20.0;PowerPAK MLP34-57;5.0 x 7.0 x 0.75;77863;Datasheet/power-ics/networking/SiC453/SiC453.pdf;
+SiC453;New;4.5 V to 20 V input 15 A microBUCK DC/DC converter with PMBus;microBUCK;4.5;20.0;PowerPAK MLP34-57;5.0 x 7.0 x 0.75;77863;Datasheet/power-ics/SiC453\SiC453.pdf;Datasheet/power-ics/SiC453\SiC453.zip

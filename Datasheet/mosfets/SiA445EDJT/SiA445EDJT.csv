@@ -1,2 +1,2 @@
 Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
-SiA445EDJT;Enlarge;Single;Thin PowerPAK SC-70;P;-20.0;12.0;;;;0.031;;0.0167;;;;22.0;46.0;3.7;5.9;12.0;19.0;0.5;6.0;image/mosfets/92340.png;Datasheet/mosfets/SiA445EDJT/SiA445EDJT.pdf;
+SiA445EDJT;Enlarge;Single;Thin PowerPAK SC-70;P;-20.0;12.0;;;;0.031;;0.0167;;;;22.0;46.0;3.7;5.9;12.0;19.0;0.5;6.0;image/mosfets/92031.png;Datasheet\/mosfets/SiA445EDJT\SiA445EDJT.pdf;

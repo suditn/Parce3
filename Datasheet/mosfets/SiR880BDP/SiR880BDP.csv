@@ -1,2 +1,2 @@
 Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
-SiR880BDP;Enlarge;Single;PowerPAK SO-8;N;80.0;20.0;;;;;;0.008;;;0.0065;19.5;43.5;9.4;4.0;70.6;71.4;1.0;0.8;image/mosfets/77350.png;Datasheet/mosfets/SiR880BDP/SiR880BDP.pdf;
+SiR880BDP;Enlarge;Single;PowerPAK SO-8;N;80.0;20.0;;;;;;0.008;;;0.0065;19.5;43.5;9.4;4.0;70.6;71.4;1.0;0.8;image/mosfets/66781.png;Datasheet\/mosfets/SiR880BDP\SiR880BDP.pdf;

@@ -1,0 +1,5 @@
+Series;Product Image;Resistance Min.(Ω);Resistance Max.(Ω);E-Series;Tolerance(± %);Power Rating(W);Maximum Voltage(V);TCR(± ppm/°C);MountingTechnology;Size / Device Style;OperatingTemperature(°C);Automotive;Image path;Datasheet part;3d model part
+HPR;Enlarge;1K;5K;E12;10.0;0.5;;;;0411;;No;image/resistors-fixed/21050.png;Datasheet\/resistors-fixed/HPR\HPR.pdf;
+HPR;Enlarge;1K;5K;E12;10.0;1;;;;0519;;No;image/resistors-fixed/21050.png;Datasheet\/resistors-fixed/HPR\HPR.pdf;
+HPR;Enlarge;1K;5K;E6;20.0;0.5;;;;0411;;No;image/resistors-fixed/21050.png;Datasheet\/resistors-fixed/HPR\HPR.pdf;
+HPR;Enlarge;1K;5K;E6;20.0;1;;;;0519;;No;image/resistors-fixed/21050.png;Datasheet\/resistors-fixed/HPR\HPR.pdf;

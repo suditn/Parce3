@@ -1,2 +1,2 @@
-Part Number;Status;Description;Product Type;VINMin.(V);VINMax.(V);Package;Package Size(W, L, H)(mm);Image path;Datasheet part;3d model part
-SiC32304;;0.6 mΩ, hot-swap eFuse, IMON, PGD, D_OC report latch on fault;Hot swap, eFuse, slew rate, current report;4.5;25.0;MLP55-32;5 x 5 x 0.8;63094;Datasheet/power-ics/industrial/SiC32304/SiC32304.pdf;
+Part Number;Status;Description;Configuration;Slew Rate Time(µs);On Delay Time(µs);VINMin.(V);VINMax.(V);RDS(on)at VINMin.(mΩ);RDS(on)at VINMax.(mΩ);IQat VINMin.(µA);IQat VINMax.(µA);Output Discharge(Y / N);Reverse Blocking(Y / N);Cont. Current(A);Package;Package Size(W, L, H)(mm);Image path;Datasheet part;3d model part
+SiC32304;;0.6 mΩ, hot-swap eFuse, IMON, PGD, D_OC report latch on fault;Parallable;Adjustable;1000;4.5;25.0;0.6000000238418579;0.6;2100.0;2800.0;Yes;No;50.0;MLP55-32;5 x 5 x 0.8;63094;Datasheet/power-ics/SiC32304\SiC32304.pdf;

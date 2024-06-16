@@ -1,0 +1,3 @@
+Series;Product Image;Type;Technology;Description;Mounting;Case Size;Working Voltage(V);Capacitance (min.);Capacitance (max.);Image path;Datasheet part;3d model part
+BRCP;Enlarge;Capacitors, Fixed;Thin Film;Thin Film Bar MOS Capacitors;;1204;100.0;5 pF;50 pF;image/capacitors\61106.png;Datasheet\capacitors\BRCP\BRCP.pdf;
+BRCP;Enlarge;Capacitors, Fixed;Thin Film;Thin Film Bar MOS Capacitors;;2404;100.0;10 pF;100 pF;image/capacitors\61106.png;Datasheet\capacitors\BRCP\BRCP.pdf;

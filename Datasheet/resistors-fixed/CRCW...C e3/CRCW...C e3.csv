@@ -1,0 +1,4 @@
+Series;Product Image;Resistance Min.(Ω);Resistance Max.(Ω);E-Series;Tolerance(± %);Power Rating(W);Maximum Voltage(V);TCR(± ppm/°C);MountingTechnology;Size / Device Style;OperatingTemperature(°C);Automotive;Image path;Datasheet part;3d model part
+CRCW...C e3;Enlarge;1;10M;E24;1.0;0.063;50;100;Surface-mount;0402;-55 to +155;No;image/resistors-fixed/28773.png;Datasheet\/resistors-fixed/CRCW...C e3\CRCW...C e3.pdf;
+CRCW...C e3;Enlarge;1;10M;E24;5.0;0.063;50;200;Surface-mount;0402;-55 to +155;No;image/resistors-fixed/28773.png;Datasheet\/resistors-fixed/CRCW...C e3\CRCW...C e3.pdf;
+CRCW...C e3;Enlarge;1;10M;E96;1.0;0.063;50;100;Surface-mount;0402;-55 to +155;No;image/resistors-fixed/28773.png;Datasheet\/resistors-fixed/CRCW...C e3\CRCW...C e3.pdf;

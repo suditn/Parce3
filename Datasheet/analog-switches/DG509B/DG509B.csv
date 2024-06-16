@@ -1,5 +1,5 @@
 Part Number;Configuration;SingleSupplyMin.;SingleSupplyMax.;DualSupplyMin.;DualSupplyMax.;On-Resistance(Ω);Is(off)Max.;tonMax.;QINJTyp.;XTALK&OIRR;Package;CS(on)(pF);CS(off)(pF);-3 dBBandwidth(MHz);Image path;Datasheet part;3d model part
-DG509B;4:1 x 2;12.0;44.0;5.0;22.0;180.0;1.0;250.0;2.0;-88.0;Plastic DIP-16;11.0;3.0;250.0;64821;Datasheet/analog-switches/DG509B/DG509B.pdf;
-DG509B;4:1 x 2;12.0;44.0;5.0;22.0;180.0;1.0;250.0;2.0;-88.0;miniQFN-16 (0.55mm);11.0;3.0;250.0;64821;Datasheet/analog-switches/DG509B/DG509B.pdf;
-DG509B;4:1 x 2;12.0;44.0;5.0;22.0;180.0;1.0;250.0;2.0;-88.0;TSSOP-16;11.0;3.0;250.0;64821;Datasheet/analog-switches/DG509B/DG509B.pdf;
-DG509B;4:1 x 2;12.0;44.0;5.0;22.0;180.0;1.0;250.0;2.0;-88.0;SO-16 (Narrow) AS;11.0;3.0;250.0;64821;Datasheet/analog-switches/DG509B/DG509B.pdf;
+DG509B;4:1 x 2;12.0;44.0;5.0;22.0;180.0;1.0;250.0;2.0;-88.0;Plastic DIP-16;11.0;3.0;250.0;64821;Datasheet//analog-switches/DG509B\DG509B.pdf;
+DG509B;4:1 x 2;12.0;44.0;5.0;22.0;180.0;1.0;250.0;2.0;-88.0;miniQFN-16 (0.55mm);11.0;3.0;250.0;64821;Datasheet//analog-switches/DG509B\DG509B.pdf;
+DG509B;4:1 x 2;12.0;44.0;5.0;22.0;180.0;1.0;250.0;2.0;-88.0;TSSOP-16;11.0;3.0;250.0;64821;Datasheet//analog-switches/DG509B\DG509B.pdf;
+DG509B;4:1 x 2;12.0;44.0;5.0;22.0;180.0;1.0;250.0;2.0;-88.0;SO-16 (Narrow) AS;11.0;3.0;250.0;64821;Datasheet//analog-switches/DG509B\DG509B.pdf;

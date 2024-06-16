@@ -1,0 +1,2 @@
+Series;Type(V);Display Format;Outline Dimensions(W x H mm);Effective Viewing Area(W x H mm);Character Size(W x H mm);Dot Size(W x H mm);Dot Pitch(W x H mm);Driving Method (Duty);Built-In Controller;Process Color TN;Process Color STN Gray;Process Color STN Yellow;Process Color STN Blue;Process Color STN Color;BL None;BL LED;BL EL;BL CCFL;Image path;Datasheet part;3d model part
+LCD-016N002B;Character;16 x 2 characters;80.0 x 36.0;66.0 x 16.0;2.96 x 5.56;0.55 x 0.65;0.60 x 0.70;1/16;KS 0066 (or equivalent);x;x;x;x;;x;x;x;;37295;Datasheet/displays/LCD-016N002B\LCD-016N002B.pdf;

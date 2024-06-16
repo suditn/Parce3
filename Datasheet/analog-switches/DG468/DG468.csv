@@ -1,2 +1,2 @@
 Part Number;Configuration;SingleSupplyMin.;SingleSupplyMax.;DualSupplyMin.;DualSupplyMax.;On-Resistance(Ω);Is(off)Max.;tonMax.;QINJTyp.;XTALK&OIRR;Package;CS(on)(pF);CS(off)(pF);-3 dBBandwidth(MHz);Image path;Datasheet part;3d model part
-DG468;SPST x 1, NO;7.0;36.0;4.5;20.0;7.0;1.0;140.0;21.0;;TSOP-6;76.0;30.0;;74413;Datasheet/analog-switches/DG468/DG468.pdf;
+DG468;SPST x 1, NO;7.0;36.0;4.5;20.0;7.0;1.0;140.0;21.0;;TSOP-6;76.0;30.0;;74413;Datasheet//analog-switches/DG468\DG468.pdf;

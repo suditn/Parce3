@@ -1,0 +1,190 @@
+Part Number;Package;Color;Dominant Wavelength Min. (nm)orColor Coordinate(x, y)(nm);Dominant Wavelength Typ. (nm)orColor Coordinate(x, y)(nm);Dominant Wavelength Max. (nm)orColor Coordinate(x, y)(nm);Luminous Intensity IVMin.(mcd);Luminous Intensity IVTyp.(mcd);Luminous Intensity IVMax.(mcd);IFforIV(mA);Luminous Flux ΦVMin.(mIm);Luminous Flux ΦVTyp.(mIm);Luminous Flux ΦVMax.(mIm);IFforΦV(mA);Forward Voltage, VFTyp.(V);Forward Voltage, VFMax.(V);Angle of Half Intensity(± °);Key Feature;Image path;Datasheet part;3d model part
+TLDR4400;3 mm;Red;;648;;25;45;;20;;;;;1.8;2.2;40;Standard;83001;Datasheet/leds/TLDR4400\TLDR4400.pdf;Datasheet/leds/TLDR4400\TLDR4400.zip
+TLDR4900;3 mm;Red;;648;;63;200;;20;;;;;1.8;2.2;16;Standard;83002;Datasheet/leds/TLDR4900\TLDR4900.pdf;Datasheet/leds/TLDR4900\TLDR4900.zip
+TLDR4901;3 mm;Red;;648;;63;;200;20;;;;;1.8;2.2;16;Standard;83002;Datasheet/leds/TLDR4901\TLDR4901.pdf;Datasheet/leds/TLDR4901\TLDR4901.zip
+TLDR5400;5 mm;Red;;648;;35;70;;20;;;;;1.8;2.2;30;Standard;83003;Datasheet/leds/TLDR5400\TLDR5400.pdf;Datasheet/leds/TLDR5400\TLDR5400.zip
+TLDR5800;5 mm;Red;;648;;1000;2500;;20;;;;;1.8;2.2;4;Standard;83004;Datasheet/leds/TLDR5800\TLDR5800.pdf;Datasheet/leds/TLDR5800\TLDR5800.zip
+TLDR6400;5 mm;Red;;648;;35;70;;20;;;;;1.8;2.2;30;Standard;81155;Datasheet/leds/TLDR6400\TLDR6400.pdf;Datasheet/leds/TLDR6400\TLDR6400.zip
+TLDR6800;5 mm;Red;;648;;1000;2500;;20;;;;;1.8;2.2;4;Standard;81156;Datasheet/leds/TLDR6800\TLDR6800.pdf;Datasheet/leds/TLDR6800\TLDR6800.zip
+TLHA44R1S2;3 mm;Amber;612;617;625;112;;280;20;;;;;2;2.6;30;Standard;83376;Datasheet/leds/TLHA44R1S2\TLHA44R1S2.pdf;Datasheet/leds/TLHA44R1S2\TLHA44R1S2.zip
+TLHE44R1S2-26;3 mm;Yellow;583;588;594;112;;280;20;;;;;1.9;2.6;30;Standard;83375;Datasheet/leds/TLHE44R1S2-26\TLHE44R1S2-26.pdf;Datasheet/leds/TLHE44R1S2-26\TLHE44R1S2-26.zip
+TLHE4600;3 mm;Yellow;581;588;594;10;26;;10;;;;;1.9;2.6;60;Standard;83130;Datasheet/leds/TLHE4600\TLHE4600.pdf;Datasheet/leds/TLHE4600\TLHE4600.zip
+TLHE5800;5 mm;Yellow;581;588;594;1000;3500;;20;;;;;2;2.6;4;Standard;83024;Datasheet/leds/TLHE5800\TLHE5800.pdf;Datasheet/leds/TLHE5800\TLHE5800.zip
+TLHF4600;3 mm;Soft orange;598;605;611;10;26;;10;;;;;2.0;2.6;60;Standard;83134;Datasheet/leds/TLHF4600\TLHF4600.pdf;Datasheet/leds/TLHF4600\TLHF4600.zip
+TLHF4601;3 mm;Soft orange;602;;609;40;;125;10;;;;;2.0;2.6;60;Standard;83134;Datasheet/leds/TLHF4601\TLHF4601.pdf;Datasheet/leds/TLHF4601\TLHF4601.zip
+TLHF4900;3 mm;Soft orange;598;605;611;63;300;;10;;;;;1.9;2.6;16;Standard;83025;Datasheet/leds/TLHF4900\TLHF4900.pdf;Datasheet/leds/TLHF4900\TLHF4900.zip
+TLHG4200;3 mm;Green;562;;575;6.3;10;;10;;;;;2.4;3;22;Standard;83005;Datasheet/leds/TLHG4200\TLHG4200.pdf;Datasheet/leds/TLHG4200\TLHG4200.zip
+TLHG4201;3 mm;Green;562;;575;10;15;;10;;;;;2.4;3;22;Standard;83005;Datasheet/leds/TLHG4201\TLHG4201.pdf;Datasheet/leds/TLHG4201\TLHG4201.zip
+TLHG4205;3 mm;Green;562;;575;16;20;;10;;;;;2.4;3;22;Standard;83005;Datasheet/leds/TLHG4205\TLHG4205.pdf;Datasheet/leds/TLHG4205\TLHG4205.zip
+TLHG4400;3 mm;Green;562;;575;2.5;13;;10;;;;;2.4;3;30;Standard;83006;Datasheet/leds/TLHG4400\TLHG4400.pdf;Datasheet/leds/TLHG4400\TLHG4400.zip
+TLHG4401;3 mm;Green;562;;575;4;14;;10;;;;;2.4;3;30;Standard;83006;Datasheet/leds/TLHG4401\TLHG4401.pdf;Datasheet/leds/TLHG4401\TLHG4401.zip
+TLHG4405;3 mm;Green;562;;575;6.3;15;;10;;;;;2.4;3;30;Standard;83006;Datasheet/leds/TLHG4405\TLHG4405.pdf;Datasheet/leds/TLHG4405\TLHG4405.zip
+TLHG44K1M2;3 mm;Green;562;;575;;;;;;;;;2.1;2.6;30;Standard;80319;Datasheet/leds/TLHG44K1M2\TLHG44K1M2.pdf;Datasheet/leds/TLHG44K1M2\TLHG44K1M2.zip
+TLHG4600;3 mm;Green;562;;575;1;4;;10;;;;;2.4;3;60;Standard;83007;Datasheet/leds/TLHG4600\TLHG4600.pdf;Datasheet/leds/TLHG4600\TLHG4600.zip
+TLHG4605;3 mm;Green;562;;575;4;6;;10;;;;;2.4;3;60;Standard;83007;Datasheet/leds/TLHG4605\TLHG4605.pdf;Datasheet/leds/TLHG4605\TLHG4605.zip
+TLHG4900;3 mm;Green;562;;575;16;37;;10;;;;;2.4;3;16;Standard;83009;Datasheet/leds/TLHG4900\TLHG4900.pdf;Datasheet/leds/TLHG4900\TLHG4900.zip
+TLHG5420;5 mm;Green;562;570;575;6.3;20;;10;;;;;2.1;2.4;25;Standard;86335;Datasheet/leds/TLHG5420\TLHG5420.pdf;Datasheet/leds/TLHG5420\TLHG5420.zip
+TLHG5420-KSZ;5 mm;Green;562;570;575;6.3;20;;10;;;;;2.1;2.4;25;Standard;86335;Datasheet/leds/TLHG5420-KSZ\TLHG5420-KSZ.pdf;Datasheet/leds/TLHG5420-KSZ\TLHG5420-KSZ.zip
+TLHG6420;5 mm;Green;562;570;575;6.3;20;;10;;;;;2.1;2.4;25;Standard;86335;Datasheet/leds/TLHG6420\TLHG6420.pdf;Datasheet/leds/TLHG6420\TLHG6420.zip
+TLHG6420-CSZ;5 mm;Green;562;570;575;6.3;20;;10;;;;;2.1;2.4;25;Standard;86335;Datasheet/leds/TLHG6420-CSZ\TLHG6420-CSZ.pdf;Datasheet/leds/TLHG6420-CSZ\TLHG6420-CSZ.zip
+TLHK4200;3 mm;Red;;630;;25;100;;10;;;;;1.9;2.6;22;Standard;83059;Datasheet/leds/TLHK4200\TLHK4200.pdf;Datasheet/leds/TLHK4200\TLHK4200.zip
+TLHK42S1T2;3 mm;Red;;630;;180;;450;20;;;;;1.9;2.6;22;Standard;83437;Datasheet/leds/TLHK42S1T2\TLHK42S1T2.pdf;Datasheet/leds/TLHK42S1T2\TLHK42S1T2.zip
+TLHK4400L;3 mm;Red;626;630;639;16;70;;10;;;;;1.9;2.6;30;Standard;84180;Datasheet/leds/TLHK4400L\TLHK4400L.pdf;None
+TLHK44R1S2;3 mm;Red;;630;;112;180;280;20;;;;;1.9;2.6;30;Standard;83438;Datasheet/leds/TLHK44R1S2\TLHK44R1S2.pdf;Datasheet/leds/TLHK44R1S2\TLHK44R1S2.zip
+TLHK4600;3 mm;Red;;630;;6.3;15;;10;;;;;1.9;2.6;60;Standard;83102;Datasheet/leds/TLHK4600\TLHK4600.pdf;Datasheet/leds/TLHK4600\TLHK4600.zip
+TLHK46Q1R2;3 mm;Red;;630;;71;;180;20;;;;;2.0;2.6;60;Standard;83494;Datasheet/leds/TLHK46Q1R2\TLHK46Q1R2.pdf;Datasheet/leds/TLHK46Q1R2\TLHK46Q1R2.zip
+TLHK5100;5 mm;Red;626;630;639;320;1400;;20;;;;;2;2.6;9;Standard;83010;Datasheet/leds/TLHK5100\TLHK5100.pdf;Datasheet/leds/TLHK5100\TLHK5100.zip
+TLHK5800;5 mm;Red;;630;;1000;5500;;20;;;;;1.9;2.6;4;Standard;83028;Datasheet/leds/TLHK5800\TLHK5800.pdf;Datasheet/leds/TLHK5800\TLHK5800.zip
+TLHO4200;3 mm;Soft orange;598;;611;4;10;;10;;;;;2.4;3;22;Standard;83005;Datasheet/leds/TLHO4200\TLHO4200.pdf;Datasheet/leds/TLHO4200\TLHO4200.zip
+TLHO4201;3 mm;Soft orange;598;;611;10;18;;10;;;;;2.4;3;22;Standard;83005;Datasheet/leds/TLHO4201\TLHO4201.pdf;Datasheet/leds/TLHO4201\TLHO4201.zip
+TLHO4400;3 mm;Soft orange;598;;611;1.6;13;;10;;;;;2.4;3;30;Standard;83006;Datasheet/leds/TLHO4400\TLHO4400.pdf;Datasheet/leds/TLHO4400\TLHO4400.zip
+TLHR4200;3 mm;Red;612;;625;4;8;;10;;;;;2;3;22;Standard;83005;Datasheet/leds/TLHR4200\TLHR4200.pdf;Datasheet/leds/TLHR4200\TLHR4200.zip
+TLHR4205;3 mm;Red;612;;625;10;15;;10;;;;;2;3;22;Standard;83005;Datasheet/leds/TLHR4205\TLHR4205.pdf;Datasheet/leds/TLHR4205\TLHR4205.zip
+TLHR4400;3 mm;Red;612;;625;1.6;13;;10;;;;;2;3;30;Standard;83006;Datasheet/leds/TLHR4400\TLHR4400.pdf;Datasheet/leds/TLHR4400\TLHR4400.zip
+TLHR4401;3 mm;Red;612;;625;2.5;14;;10;;;;;2;3;30;Standard;83006;Datasheet/leds/TLHR4401\TLHR4401.pdf;Datasheet/leds/TLHR4401\TLHR4401.zip
+TLHR4405;3 mm;Red;612;;625;6.3;15;;10;;;;;2;3;30;Standard;83006;Datasheet/leds/TLHR4405\TLHR4405.pdf;Datasheet/leds/TLHR4405\TLHR4405.zip
+TLHR4600;3 mm;Red;612;;625;1;4;;10;;;;;2;3;60;Standard;83007;Datasheet/leds/TLHR4600\TLHR4600.pdf;Datasheet/leds/TLHR4600\TLHR4600.zip
+TLHR4605;3 mm;Red;612;;625;2.5;6;;10;;;;;2;3;60;Standard;83007;Datasheet/leds/TLHR4605\TLHR4605.pdf;Datasheet/leds/TLHR4605\TLHR4605.zip
+TLHR4900;3 mm;Red;612;;625;6.3;25;;10;;;;;2;3;16;Standard;83009;Datasheet/leds/TLHR4900\TLHR4900.pdf;Datasheet/leds/TLHR4900\TLHR4900.zip
+TLHR5200;5 mm;Red;612;;630;10;50;;10;;;;;2;3;14;Standard;83011;Datasheet/leds/TLHR5200\TLHR5200.pdf;Datasheet/leds/TLHR5200\TLHR5200.zip
+TLHR5400;5 mm;Red;612;;630;1.6;10;;10;;;;;2;3;30;Standard;83012;Datasheet/leds/TLHR5400\TLHR5400.pdf;Datasheet/leds/TLHR5400\TLHR5400.zip
+TLHR5401;5 mm;Red;612;;630;4;12;;10;;;;;2;3;30;Standard;83012;Datasheet/leds/TLHR5401\TLHR5401.pdf;Datasheet/leds/TLHR5401\TLHR5401.zip
+TLHR5405;5 mm;Red;612;;630;6.3;14;;10;;;;;2;3;30;Standard;83012;Datasheet/leds/TLHR5405\TLHR5405.pdf;Datasheet/leds/TLHR5405\TLHR5405.zip
+TLHR5405-KS21;5 mm;Red;612;;630;6.3;14;;10;;;;;2;3;30;Standard;83012;Datasheet/leds/TLHR5405-KS21\TLHR5405-KS21.pdf;Datasheet/leds/TLHR5405-KS21\TLHR5405-KS21.zip
+TLHR5405-KSZ;5 mm;Red;612;;630;6.3;14;;10;;;;;2;3;30;Standard;83012;Datasheet/leds/TLHR5405-KSZ\TLHR5405-KSZ.pdf;Datasheet/leds/TLHR5405-KSZ\TLHR5405-KSZ.zip
+TLHR6400;5 mm;Red;612;;630;1.6;10;;10;;;;;2;3;30;Standard;83219;Datasheet/leds/TLHR6400\TLHR6400.pdf;Datasheet/leds/TLHR6400\TLHR6400.zip
+TLHR6401;5 mm;Red;612;;630;4;12;;10;;;;;2;3;30;Standard;83219;Datasheet/leds/TLHR6401\TLHR6401.pdf;Datasheet/leds/TLHR6401\TLHR6401.zip
+TLHR6405;5 mm;Red;612;;630;6.3;14;;10;;;;;2;3;30;Standard;83219;Datasheet/leds/TLHR6405\TLHR6405.pdf;Datasheet/leds/TLHR6405\TLHR6405.zip
+TLHY4200;3 mm;Yellow;581;;594;4;10;;10;;;;;2.4;3;22;Standard;83005;Datasheet/leds/TLHY4200\TLHY4200.pdf;Datasheet/leds/TLHY4200\TLHY4200.zip
+TLHY4205;3 mm;Yellow;581;;594;10;20;;10;;;;;2.4;3;22;Standard;83005;Datasheet/leds/TLHY4205\TLHY4205.pdf;Datasheet/leds/TLHY4205\TLHY4205.zip
+TLHY4400;3 mm;Yellow;581;;594;1.6;10;;10;;;;;2.4;3;30;Standard;83006;Datasheet/leds/TLHY4400\TLHY4400.pdf;Datasheet/leds/TLHY4400\TLHY4400.zip
+TLHY4401;3 mm;Yellow;581;;594;2.5;10.5;;10;;;;;2.4;3;30;Standard;83006;Datasheet/leds/TLHY4401\TLHY4401.pdf;Datasheet/leds/TLHY4401\TLHY4401.zip
+TLHY4405;3 mm;Yellow;581;;594;6.3;11;;10;;;;;2.4;3;30;Standard;83006;Datasheet/leds/TLHY4405\TLHY4405.pdf;Datasheet/leds/TLHY4405\TLHY4405.zip
+TLHY4600;3 mm;Yellow;581;;594;0.63;3.5;;10;;;;;2.4;3;60;Standard;83007;Datasheet/leds/TLHY4600\TLHY4600.pdf;Datasheet/leds/TLHY4600\TLHY4600.zip
+TLHY4605;3 mm;Yellow;581;;594;2.5;5;;10;;;;;2.4;3;60;Standard;83007;Datasheet/leds/TLHY4605\TLHY4605.pdf;Datasheet/leds/TLHY4605\TLHY4605.zip
+TLHY5400;5 mm;Yellow;581;;594;1.6;10;;10;;;;;2.4;3;30;Standard;83012;Datasheet/leds/TLHY5400\TLHY5400.pdf;Datasheet/leds/TLHY5400\TLHY5400.zip
+TLHY5401;5 mm;Yellow;581;;594;4;12;;10;;;;;2.4;3;30;Standard;83012;Datasheet/leds/TLHY5401\TLHY5401.pdf;Datasheet/leds/TLHY5401\TLHY5401.zip
+TLHY5405;5 mm;Yellow;581;;594;6.3;14;;10;;;;;2.4;3;30;Standard;83012;Datasheet/leds/TLHY5405\TLHY5405.pdf;Datasheet/leds/TLHY5405\TLHY5405.zip
+TLHY6400;5 mm;Yellow;581;;594;1.6;10;;10;;;;;2.4;3;30;Standard;83219;Datasheet/leds/TLHY6400\TLHY6400.pdf;Datasheet/leds/TLHY6400\TLHY6400.zip
+TLHY6405;5 mm;Yellow;581;;594;6.3;14;;10;;;;;2.4;3;30;Standard;83219;Datasheet/leds/TLHY6405\TLHY6405.pdf;Datasheet/leds/TLHY6405\TLHY6405.zip
+TLMG1100;SMD 0603;Green;564;570;575;12.5;35;;20;;;;;2.1;2.4;80;Standard;83173;Datasheet/leds/TLMG1100\TLMG1100.pdf;Datasheet/leds/TLMG1100\TLMG1100.zip
+TLMO1100;SMD 0603;Orange;600;606;609;50;80;;20;;;;;2.1;2.4;80;Standard;83173;Datasheet/leds/TLMO1100\TLMO1100.pdf;Datasheet/leds/TLMO1100\TLMO1100.zip
+TLMP1100;SMD 0603;Pure green;551;561;566;6.3;15;;20;;;;;2.1;2.4;80;Standard;83173;Datasheet/leds/TLMP1100\TLMP1100.pdf;Datasheet/leds/TLMP1100\TLMP1100.zip
+TLMS1100;SMD 0603;Red;627;633;639;32;63;;20;;;;;2.1;2.4;80;Standard;83173;Datasheet/leds/TLMS1100\TLMS1100.pdf;Datasheet/leds/TLMS1100\TLMS1100.zip
+TLMS1101;SMD 0603;Red;627;633;639;50;;125;20;;;;;2.1;2.4;80;Standard;83173;Datasheet/leds/TLMS1101\TLMS1101.pdf;Datasheet/leds/TLMS1101\TLMS1101.zip
+TLMY1100;SMD 0603;Yellow;580;589;595;50;80;;20;;;;;2.1;2.4;80;Standard;83173;Datasheet/leds/TLMY1100\TLMY1100.pdf;Datasheet/leds/TLMY1100\TLMY1100.zip
+TLUG2400;1.8 mm (miniplast);Green;562;568;575;1.6;10;;10;;;;;2.4;3;20;Standard;83053;Datasheet/leds/TLUG2400\TLUG2400.pdf;None
+TLUG2401;1.8 mm (miniplast);Green;562;568;575;4;12;20;10;;;;;2.4;3;20;Standard;83053;Datasheet/leds/TLUG2401\TLUG2401.pdf;None
+TLUO2401;1.8 mm (miniplast);Red;612;618;625;4;10;20;10;;;;;2;3;20;Standard;83053;Datasheet/leds/TLUO2401\TLUO2401.pdf;None
+TLUR2400;1.8 mm (miniplast);Red;;630;;4;15;;10;;;;;2;3;20;Standard;83288;Datasheet/leds/TLUR2400\TLUR2400.pdf;None
+TLUR2401;1.8 mm (miniplast);Red;;630;;4;;32;10;;;;;2;3;20;Standard;83288;Datasheet/leds/TLUR2401\TLUR2401.pdf;None
+TLUR4400;3 mm;Red;;630;;4;15;;10;;;;;2;3;30;Standard;83054;Datasheet/leds/TLUR4400\TLUR4400.pdf;Datasheet/leds/TLUR4400\TLUR4400.zip
+TLUR4401;3 mm;Red;;630;;4;;32;10;;;;;2;3;30;Standard;83054;Datasheet/leds/TLUR4401\TLUR4401.pdf;Datasheet/leds/TLUR4401\TLUR4401.zip
+TLUR5400;5 mm;Red;;630;;4;15;;10;;;;;2;3;30;Standard;83055;Datasheet/leds/TLUR5400\TLUR5400.pdf;Datasheet/leds/TLUR5400\TLUR5400.zip
+TLUR5401;5 mm;Red;;630;;4;15;32;10;;;;;2;3;30;Standard;83055;Datasheet/leds/TLUR5401\TLUR5401.pdf;Datasheet/leds/TLUR5401\TLUR5401.zip
+TLUY2400;1.8 mm (miniplast);Yellow;581;586;594;1;8;;10;;;;;2.4;3;20;Standard;83053;Datasheet/leds/TLUY2400\TLUY2400.pdf;None
+TLUY2401;1.8 mm (miniplast);Yellow;581;586;594;2.5;6;12.5;10;;;;;2.4;3;20;Standard;83053;Datasheet/leds/TLUY2401\TLUY2401.pdf;None
+TLVD4200;3 mm backlighting;Red;;640;;;;;;40;130;;15;1.8;2.2;85;Standard;83058;Datasheet/leds/TLVD4200\TLVD4200.pdf;Datasheet/leds/TLVD4200\TLVD4200.zip
+TLVG4200;3 mm backlighting;Green;562;;575;;;;;10;30;;15;2.4;3;85;Standard;83057;Datasheet/leds/TLVG4200\TLVG4200.pdf;Datasheet/leds/TLVG4200\TLVG4200.zip
+TLVY4200;3 mm backlighting;Yellow;581;;594;;;;;10;30;;15;2.4;3;85;Standard;83057;Datasheet/leds/TLVY4200\TLVY4200.pdf;Datasheet/leds/TLVY4200\TLVY4200.zip
+TLVY42N1P2-34;3 mm backlighting;Yellow;585;;590;;;;;28;;71;15;2.4;3;85;Standard;83392;Datasheet/leds/TLVY42N1P2-34\TLVY42N1P2-34.pdf;None
+TLWR7600;TELUX;Red;611;618;634;;;;;1500;2800;;70;2.2;2.67;30;Standard;83138;Datasheet/leds/TLWR7600\TLWR7600.pdf;None
+TLWR7900;TELUX;Red;611;618;634;;;;;1500;2800;;70;2.2;2.67;45;Standard;83144;Datasheet/leds/TLWR7900\TLWR7900.pdf;Datasheet/leds/TLWR7900\TLWR7900.zip
+TLWY7600;TELUX;Yellow;585;592;597;;;;;1000;2800;;70;2.1;2.67;30;Standard;83138;Datasheet/leds/TLWY7600\TLWY7600.pdf;None
+TLWY7900;TELUX;Yellow;585;592;597;;;;;1000;2800;;70;2.1;2.67;45;Standard;83144;Datasheet/leds/TLWY7900\TLWY7900.pdf;Datasheet/leds/TLWY7900\TLWY7900.zip
+VLHW5100;5 mm;White;;0.33, 0.33;;5600;;11200;20;;;;;;3.6;10;Standard;81159;Datasheet/leds/VLHW5100\VLHW5100.pdf;Datasheet/leds/VLHW5100\VLHW5100.zip
+VLMB1300;SMD 0603 ChipLED;Blue;465;;475;28;;180;20;;;;;;3.8;65;Standard;82437;Datasheet/leds/VLMB1300\VLMB1300.pdf;Datasheet/leds/VLMB1300\VLMB1300.zip
+VLMB1302;SMD 0603 ChipLED;Blue;465;;475;45;;112;20;;;;;;3.8;65;Standard;82437;Datasheet/leds/VLMB1302\VLMB1302.pdf;Datasheet/leds/VLMB1302\VLMB1302.zip
+VLMB1310;SMD 0603 ChipLED;Blue;465;;475;28;;180;20;;;;;;3.8;65;Standard;82437;Datasheet/leds/VLMB1310\VLMB1310.pdf;Datasheet/leds/VLMB1310\VLMB1310.zip
+VLMB1500;SMD 0402 ChipLED;Blue;470;472;475;11.2;28;45;5;;;;;2.80;3.15;65;Standard;82554;Datasheet/leds/VLMB1500\VLMB1500.pdf;Datasheet/leds/VLMB1500\VLMB1500.zip
+VLMB1501;SMD 0402 ChipLED;Blue;470;472;475;22.4;28;71;5;;;;;2.80;3.15;65;Standard;82554;Datasheet/leds/VLMB1501\VLMB1501.pdf;Datasheet/leds/VLMB1501\VLMB1501.zip
+VLMB2332T1U2;SMD MiniLED;Blue;458;465;472;280;440;710;20;;;;;2.9;3.4;60;Standard;80264;Datasheet/leds/VLMB2332T1U2\VLMB2332T1U2.pdf;Datasheet/leds/VLMB2332T1U2\VLMB2332T1U2.zip
+VLMB41P1Q2;SMD PLCC-2;Blue;462;469;476;45;90;112;10;;;;;3.2;4.2;60;Standard;81641;Datasheet/leds/VLMB41P1Q2\VLMB41P1Q2.pdf;Datasheet/leds/VLMB41P1Q2\VLMB41P1Q2.zip
+VLMB41P2Q2;SMD PLCC-2;Blue;462;469;476;56;90;112;10;;;;;3.2;4.2;60;Standard;81641;Datasheet/leds/VLMB41P2Q2\VLMB41P2Q2.pdf;Datasheet/leds/VLMB41P2Q2\VLMB41P2Q2.zip
+VLMD3100;SMD PLCC-2;Red;;648;;11.2;22;;10;;;;;1.8;2.2;60;Standard;81351;Datasheet/leds/VLMD3100\VLMD3100.pdf;Datasheet/leds/VLMD3100\VLMD3100.zip
+VLMD3105;SMD PLCC-2;Red;;648;;11.2;22;28;10;;;;;1.8;2.2;60;Standard;81351;Datasheet/leds/VLMD3105\VLMD3105.pdf;Datasheet/leds/VLMD3105\VLMD3105.zip
+VLMD31L2N1;SMD PLCC-2;Red;;648;;14;22;35.5;10;;;;;1.8;2.2;60;Standard;81351;Datasheet/leds/VLMD31L2N1\VLMD31L2N1.pdf;Datasheet/leds/VLMD31L2N1\VLMD31L2N1.zip
+VLMD31M2P1;SMD PLCC-2;Red;;648;;22.4;25;56;10;;;;;1.8;2.2;60;Standard;81351;Datasheet/leds/VLMD31M2P1\VLMD31M2P1.pdf;Datasheet/leds/VLMD31M2P1\VLMD31M2P1.zip
+VLME3100;SMD PLCC-2;Yellow;581;588;594;28;75;;10;;;;;2.0;2.6;60;Standard;81231;Datasheet/leds/VLME3100\VLME3100.pdf;Datasheet/leds/VLME3100\VLME3100.zip
+VLME31Q2T1;SMD PLCC-2;Yellow;581;588;594;90;190;355;20;;;;;2.0;2.6;60;Standard;81324;Datasheet/leds/VLME31Q2T1\VLME31Q2T1.pdf;Datasheet/leds/VLME31Q2T1\VLME31Q2T1.zip
+VLME31R1S2;SMD PLCC-2;Yellow;581;588;594;112;195;280;20;;;;;2.0;2.6;60;Standard;81324;Datasheet/leds/VLME31R1S2\VLME31R1S2.pdf;Datasheet/leds/VLME31R1S2\VLME31R1S2.zip
+VLME31S1T1;SMD PLCC-2;Yellow;581;588;594;180;210;355;20;;;;;2.0;2.6;60;Standard;81324;Datasheet/leds/VLME31S1T1\VLME31S1T1.pdf;Datasheet/leds/VLME31S1T1\VLME31S1T1.zip
+VLMF3100;SMD PLCC-2;Soft orange;598;605;611;28;90;;10;;;;;2.0;2.6;60;Standard;81235;Datasheet/leds/VLMF3100\VLMF3100.pdf;Datasheet/leds/VLMF3100\VLMF3100.zip
+VLMF31Q2T1;SMD PLCC-2;Soft orange;598;605;611;90;200;355;20;;;;;2.0;2.6;60;Standard;81330;Datasheet/leds/VLMF31Q2T1\VLMF31Q2T1.pdf;Datasheet/leds/VLMF31Q2T1\VLMF31Q2T1.zip
+VLMG1300;SMD 0603 ChipLED;Yellow green;;571;;18;35;;20;;;;;2.0;2.4;65;Standard;82437;Datasheet/leds/VLMG1300\VLMG1300.pdf;Datasheet/leds/VLMG1300\VLMG1300.zip
+VLMG1500;SMD 0402 ChipLED;Yellow green;567.5;571;576.5;18;35;112;20;;;;;2.00;2.40;65;Standard;82554;Datasheet/leds/VLMG1500\VLMG1500.pdf;Datasheet/leds/VLMG1500\VLMG1500.zip
+VLMG21J2L1;SMD MiniLED;Green;562;572;575;5.6;11.5;14;10;;;;;2.1;2.8;60;Standard;81750;Datasheet/leds/VLMG21J2L1\VLMG21J2L1.pdf;Datasheet/leds/VLMG21J2L1\VLMG21J2L1.zip
+VLMG21J2M1;SMD MiniLED;Green;562;572;575;5.6;12;22.4;10;;;;;2.1;2.8;60;Standard;81750;Datasheet/leds/VLMG21J2M1\VLMG21J2M1.pdf;Datasheet/leds/VLMG21J2M1\VLMG21J2M1.zip
+VLMG21K1L2;SMD MiniLED;Green;562;572;575;7.1;12;18;10;;;;;2.1;2.8;60;Standard;81750;Datasheet/leds/VLMG21K1L2\VLMG21K1L2.pdf;Datasheet/leds/VLMG21K1L2\VLMG21K1L2.zip
+VLMG3100;SMD PLCC-2;Green;562;572;575;4.5;16;;10;;;;;2.1;2.8;60;Standard;84789;Datasheet/leds/VLMG3100\VLMG3100.pdf;Datasheet/leds/VLMG3100\VLMG3100.zip
+VLMG3102;SMD PLCC-2;Green;562;572;575;11.2;16;18;10;;;;;2.1;2.8;60;Standard;84789;Datasheet/leds/VLMG3102\VLMG3102.pdf;Datasheet/leds/VLMG3102\VLMG3102.zip
+VLMG3105;SMD PLCC-2;Green;562;572;575;7.1;16;18;10;;;;;2.1;2.8;60;Standard;84789;Datasheet/leds/VLMG3105\VLMG3105.pdf;Datasheet/leds/VLMG3105\VLMG3105.zip
+VLMG31K1L2;SMD PLCC-2;Green;562;572;575;7.1;15;18;10;;;;;2.1;2.8;60;Standard;81323;Datasheet/leds/VLMG31K1L2\VLMG31K1L2.pdf;Datasheet/leds/VLMG31K1L2\VLMG31K1L2.zip
+VLMG31K1M2;SMD PLCC-2;Green;562;572;575;7.1;15;28;10;;;;;2.1;2.8;60;Standard;81323;Datasheet/leds/VLMG31K1M2\VLMG31K1M2.pdf;Datasheet/leds/VLMG31K1M2\VLMG31K1M2.zip
+VLMG31L1M2;SMD PLCC-2;Green;562;572;575;11.2;16;28;10;;;;;2.1;2.8;60;Standard;81323;Datasheet/leds/VLMG31L1M2\VLMG31L1M2.pdf;Datasheet/leds/VLMG31L1M2\VLMG31L1M2.zip
+VLMH3100;SMD PLCC-2;Amber;612;619;625;2.8;12;;10;;;;;2;2.8;60;Standard;84789;Datasheet/leds/VLMH3100\VLMH3100.pdf;Datasheet/leds/VLMH3100\VLMH3100.zip
+VLMH3102;SMD PLCC-2;Amber;612;619;625;7.1;12;18;10;;;;;2;2.8;60;Standard;84789;Datasheet/leds/VLMH3102\VLMH3102.pdf;Datasheet/leds/VLMH3102\VLMH3102.zip
+VLMK3100;SMD PLCC-2;Red;;630;;11.2;50;;10;;;;;1.9;2.6;60;Standard;81230;Datasheet/leds/VLMK3100\VLMK3100.pdf;Datasheet/leds/VLMK3100\VLMK3100.zip
+VLMK3102;SMD PLCC-2;Red;;630;;22.4;43;56;10;;;;;1.9;2.6;60;Standard;81230;Datasheet/leds/VLMK3102\VLMK3102.pdf;Datasheet/leds/VLMK3102\VLMK3102.zip
+VLMK3105;SMD PLCC-2;Red;;630;;35.5;50;90;10;;;;;1.9;2.6;60;Standard;81230;Datasheet/leds/VLMK3105\VLMK3105.pdf;Datasheet/leds/VLMK3105\VLMK3105.zip
+VLMK31Q1R2;SMD PLCC-2;Red;;630;;71;138;180;20;;;;;1.9;2.6;60;Standard;81329;Datasheet/leds/VLMK31Q1R2\VLMK31Q1R2.pdf;Datasheet/leds/VLMK31Q1R2\VLMK31Q1R2.zip
+VLMK31R1S1;SMD PLCC-2;Red;;630;;112;142;224;20;;;;;1.9;2.6;60;Standard;81329;Datasheet/leds/VLMK31R1S1\VLMK31R1S1.pdf;Datasheet/leds/VLMK31R1S1\VLMK31R1S1.zip
+VLMK31R1S2;SMD PLCC-2;Red;;630;;112;142;280;20;;;;;1.9;2.6;60;Standard;81329;Datasheet/leds/VLMK31R1S2\VLMK31R1S2.pdf;Datasheet/leds/VLMK31R1S2\VLMK31R1S2.zip
+VLMK31R2S2;SMD PLCC-2;Red;;630;;140;160;280;20;;;;;1.9;2.6;60;Standard;81329;Datasheet/leds/VLMK31R2S2\VLMK31R2S2.pdf;Datasheet/leds/VLMK31R2S2\VLMK31R2S2.zip
+VLMO1300;SMD 0603 ChipLED;Soft orange;;605;;45;90;;20;;;;;2.0;2.4;65;Standard;82437;Datasheet/leds/VLMO1300\VLMO1300.pdf;Datasheet/leds/VLMO1300\VLMO1300.zip
+VLMO1500;SMD 0402 ChipLED;Soft orange;598;605;612;45;90;280;20;;;;;2.00;2.40;65;Standard;82554;Datasheet/leds/VLMO1500\VLMO1500.pdf;Datasheet/leds/VLMO1500\VLMO1500.zip
+VLMO2100;SMD MiniLED;Soft orange;598;605;611;3.55;7.0;;10;;;;;2.1;3;60;Standard;81233;Datasheet/leds/VLMO2100\VLMO2100.pdf;Datasheet/leds/VLMO2100\VLMO2100.zip
+VLMO3100;SMD PLCC-2;Soft orange;598;605;611;2.8;8;;10;;;;;2;2.8;60;Standard;84789;Datasheet/leds/VLMO3100\VLMO3100.pdf;Datasheet/leds/VLMO3100\VLMO3100.zip
+VLMO31J1K2;SMD PLCC-2;Soft orange;598;605;611;4.5;8;11.2;10;;;;;2.0;2.8;60;Standard;81333;Datasheet/leds/VLMO31J1K2\VLMO31J1K2.pdf;Datasheet/leds/VLMO31J1K2\VLMO31J1K2.zip
+VLMO31K1L2;SMD PLCC-2;Soft orange;598;605;611;7.1;8.5;18;10;;;;;2.0;2.8;60;Standard;81333;Datasheet/leds/VLMO31K1L2\VLMO31K1L2.pdf;Datasheet/leds/VLMO31K1L2\VLMO31K1L2.zip
+VLMP23L2M2;SMD MiniLED;Pure green;555;560;565;14;;28;20;;;;;2.2;2.6;60;Standard;81704;Datasheet/leds/VLMP23L2M2\VLMP23L2M2.pdf;Datasheet/leds/VLMP23L2M2\VLMP23L2M2.zip
+VLMP3100;SMD PLCC-2;Pure green;555;560;565;1.12;4;;6;;;;;2.1;2.8;60;Standard;81328;Datasheet/leds/VLMP3100\VLMP3100.pdf;Datasheet/leds/VLMP3100\VLMP3100.zip
+VLMP3102;SMD PLCC-2;Pure green;555;560;565;2.8;4;5.6;6;;;;;2.1;2.8;60;Standard;81328;Datasheet/leds/VLMP3102\VLMP3102.pdf;Datasheet/leds/VLMP3102\VLMP3102.zip
+VLMP31G2J1;SMD PLCC-2;Pure green;555;560;565;2.24;3.6;5.6;6;;;;;2.1;2.8;60;Standard;81328;Datasheet/leds/VLMP31G2J1\VLMP31G2J1.pdf;Datasheet/leds/VLMP31G2J1\VLMP31G2J1.zip
+VLMP31H2J2;SMD PLCC-2;Pure green;555;560;565;3.55;4.3;7.1;6;;;;;2.1;2.8;60;Standard;81328;Datasheet/leds/VLMP31H2J2\VLMP31H2J2.pdf;Datasheet/leds/VLMP31H2J2\VLMP31H2J2.zip
+VLMPG31L1M2;SMD PLCC-2;Pure green;555;559;565;11.2;18;28;20;;;;;2.0;2.6;60;Standard;81653;Datasheet/leds/VLMPG31L1M2\VLMPG31L1M2.pdf;Datasheet/leds/VLMPG31L1M2\VLMPG31L1M2.zip
+VLMR31Q2T1;SMD PLCC-2;Amber;612;618;624;90;160;355;20;;;;;2.0;2.4;60;Standard;82419;Datasheet/leds/VLMR31Q2T1\VLMR31Q2T1.pdf;Datasheet/leds/VLMR31Q2T1\VLMR31Q2T1.zip
+VLMS1300;SMD 0603 ChipLED;Super red;;631;;18;54;;20;;;;;2.0;2.4;65;Standard;82437;Datasheet/leds/VLMS1300\VLMS1300.pdf;Datasheet/leds/VLMS1300\VLMS1300.zip
+VLMS1500;SMD 0402 ChipLED;Super red;;631;;18;54;180;20;;;;;2.00;2.40;65;Standard;82554;Datasheet/leds/VLMS1500\VLMS1500.pdf;Datasheet/leds/VLMS1500\VLMS1500.zip
+VLMS1501;SMD 0402 ChipLED;Super red;;631;;28;54;180;20;;;;;2.00;2.40;65;Standard;82554;Datasheet/leds/VLMS1501\VLMS1501.pdf;Datasheet/leds/VLMS1501\VLMS1501.zip
+VLMS1502;SMD 0402 ChipLED;Super red;624;631;636;45;;112;20;;;;;2.00;2.40;65;Standard;82554;Datasheet/leds/VLMS1502\VLMS1502.pdf;Datasheet/leds/VLMS1502\VLMS1502.zip
+VLMS3100;SMD PLCC-2;Red;624;630;636;2.8;9.4;;10;;;;;2.0;2.6;60;Standard;81214;Datasheet/leds/VLMS3100\VLMS3100.pdf;Datasheet/leds/VLMS3100\VLMS3100.zip
+VLMS31J1K2;SMD PLCC-2;Red;624;630;638;4.5;9;11.2;10;;;;;1.9;2.6;60;Standard;81327;Datasheet/leds/VLMS31J1K2\VLMS31J1K2.pdf;Datasheet/leds/VLMS31J1K2\VLMS31J1K2.zip
+VLMS31J1L2;SMD PLCC-2;Red;624;630;638;4.5;9;18;10;;;;;1.9;2.6;60;Standard;81327;Datasheet/leds/VLMS31J1L2\VLMS31J1L2.pdf;Datasheet/leds/VLMS31J1L2\VLMS31J1L2.zip
+VLMS31J2L1;SMD PLCC-2;Red;624;630;638;5.6;9;14;10;;;;;1.9;2.6;60;Standard;81327;Datasheet/leds/VLMS31J2L1\VLMS31J2L1.pdf;Datasheet/leds/VLMS31J2L1\VLMS31J2L1.zip
+VLMS31K1L2;SMD PLCC-2;Red;624;630;638;7.1;9.4;18;10;;;;;1.9;2.6;60;Standard;81327;Datasheet/leds/VLMS31K1L2\VLMS31K1L2.pdf;Datasheet/leds/VLMS31K1L2\VLMS31K1L2.zip
+VLMTG1300;SMD 0603 ChipLED;True green;;525;;71;;450;20;;;;;3.2;3.6;65;Standard;82437;Datasheet/leds/VLMTG1300\VLMTG1300.pdf;Datasheet/leds/VLMTG1300\VLMTG1300.zip
+VLMTG1500;SMD 0402 ChipLED;True green;520;;535;28;;280;5;;;;;;3.10;65;Standard;82554;Datasheet/leds/VLMTG1500\VLMTG1500.pdf;Datasheet/leds/VLMTG1500\VLMTG1500.zip
+VLMTG1501;SMD 0402 ChipLED;True green;520;;535;56;;180;5;;;;;;3.10;65;Standard;82554;Datasheet/leds/VLMTG1501\VLMTG1501.pdf;Datasheet/leds/VLMTG1501\VLMTG1501.zip
+VLMTG2332ABCA;SMD MiniLED;True green;515;525;541;1400;2300;3550;20;;;;;2.9;3.4;60;Standard;80264;Datasheet/leds/VLMTG2332ABCA\VLMTG2332ABCA.pdf;Datasheet/leds/VLMTG2332ABCA\VLMTG2332ABCA.zip
+VLMTG41S2U1;SMD PLCC-2;True green;515;530;541;224;380;560;10;;;;;3.2;4.2;60;Standard;83377;Datasheet/leds/VLMTG41S2U1\VLMTG41S2U1.pdf;Datasheet/leds/VLMTG41S2U1\VLMTG41S2U1.zip
+VLMU3100;SMD PLCC-2;Ultraviolet;400;405;410;;;;20;;;;;3.2;3.6;60;Standard;82556;Datasheet/leds/VLMU3100\VLMU3100.pdf;Datasheet/leds/VLMU3100\VLMU3100.zip
+VLMW1300;SMD 0603 ChipLED;White;;0.294, 0.286;;45;;180;5;;;;;;3.15;65;Standard;82435;Datasheet/leds/VLMW1300\VLMW1300.pdf;Datasheet/leds/VLMW1300\VLMW1300.zip
+VLMW1301;SMD 0603 ChipLED;White;;0.294, 0.286;;90;;180;5;;;;;;3.00;65;Standard;84248;Datasheet/leds/VLMW1301\VLMW1301.pdf;Datasheet/leds/VLMW1301\VLMW1301.zip
+VLMW1500;SMD 0402 ChipLED;White;;0.304, 0.300;;45;90;180;5;;;;;2.90;3.05;65;Standard;82522;Datasheet/leds/VLMW1500\VLMW1500.pdf;Datasheet/leds/VLMW1500\VLMW1500.zip
+VLMW1501;SMD 0402 ChipLED;White;;0.294, 0.286;;71;90;180;5;;;;;2.90;3.05;65;Standard;82522;Datasheet/leds/VLMW1501\VLMW1501.pdf;Datasheet/leds/VLMW1501\VLMW1501.zip
+VLMW1502;SMD 0402 ChipLED;White;;0.314, 0.315;;71;90;180;5;;;;;2.90;3.05;65;Standard;82522;Datasheet/leds/VLMW1502\VLMW1502.pdf;Datasheet/leds/VLMW1502\VLMW1502.zip
+VLMW1503;SMD 0402 ChipLED;White;;0.304, 0.300;;71;90;180;5;;;;;2.90;3.05;65;Standard;82522;Datasheet/leds/VLMW1503\VLMW1503.pdf;Datasheet/leds/VLMW1503\VLMW1503.zip
+VLMW41R1T1-5K8L;SMD PLCC-2;White;;0.33, 0.33;;112;275;355;10;;;;;3.3;4.2;60;Standard;81370;Datasheet/leds/VLMW41R1T1-5K8L\VLMW41R1T1-5K8L.pdf;Datasheet/leds/VLMW41R1T1-5K8L\VLMW41R1T1-5K8L.zip
+VLMW41R1T1-7K8L;SMD PLCC-2;White;;0.345, 0.352;;112;275;355;10;;;;;3.3;4.2;60;Standard;81190;Datasheet/leds/VLMW41R1T1-7K8L\VLMW41R1T1-7K8L.pdf;Datasheet/leds/VLMW41R1T1-7K8L\VLMW41R1T1-7K8L.zip
+VLMW41S1T1-5K8L;SMD PLCC-2;White;;0.33, 0.33;;180;275;355;10;;;;;3.3;4.2;60;Standard;81370;Datasheet/leds/VLMW41S1T1-5K8L\VLMW41S1T1-5K8L.pdf;Datasheet/leds/VLMW41S1T1-5K8L\VLMW41S1T1-5K8L.zip
+VLMW41S1T2-7K8L;SMD PLCC-2;White;;0.33, 0.33;;180;275;450;10;;;;;3.3;4.2;60;Standard;81370;Datasheet/leds/VLMW41S1T2-7K8L\VLMW41S1T2-7K8L.pdf;Datasheet/leds/VLMW41S1T2-7K8L\VLMW41S1T2-7K8L.zip
+VLMW41S1T2-JKKL;SMD PLCC-2;White;;0.30, 0.28;;180;275;450;10;;;;;3.3;4.2;60;Standard;82411;Datasheet/leds/VLMW41S1T2-JKKL\VLMW41S1T2-JKKL.pdf;Datasheet/leds/VLMW41S1T2-JKKL\VLMW41S1T2-JKKL.zip
+VLMW41S1T2-MKNL;SMD PLCC-2;White;;0.33, 0.33;;180;275;450;10;;;;;3.3;4.2;60;Standard;82411;Datasheet/leds/VLMW41S1T2-MKNL\VLMW41S1T2-MKNL.pdf;Datasheet/leds/VLMW41S1T2-MKNL\VLMW41S1T2-MKNL.zip
+VLMW45R1S1-5K6L;SMD PLCC-2;White;;0.33, 0.33;;112;160;224;5;;;;;3.3;4.2;60;Standard;83374;Datasheet/leds/VLMW45R1S1-5K6L\VLMW45R1S1-5K6L.pdf;Datasheet/leds/VLMW45R1S1-5K6L\VLMW45R1S1-5K6L.zip
+VLMY1300;SMD 0603 ChipLED;Yellow;584.5;;597;28;;180;20;;;;;;2.4;65;Standard;82437;Datasheet/leds/VLMY1300\VLMY1300.pdf;Datasheet/leds/VLMY1300\VLMY1300.zip
+VLMY1301;SMD 0603 ChipLED;Yellow;584.5;;597;71;;180;20;;;;;;2.4;65;Standard;82437;Datasheet/leds/VLMY1301\VLMY1301.pdf;Datasheet/leds/VLMY1301\VLMY1301.zip
+VLMY1500;SMD 0402 ChipLED;Yellow;587;590;597;28;90;180;20;;;;;2.00;2.40;65;Standard;82554;Datasheet/leds/VLMY1500\VLMY1500.pdf;Datasheet/leds/VLMY1500\VLMY1500.zip
+VLMY1501;SMD 0402 ChipLED;Yellow;587;590;597;45;90;180;20;;;;;2.00;2.40;65;Standard;82554;Datasheet/leds/VLMY1501\VLMY1501.pdf;Datasheet/leds/VLMY1501\VLMY1501.zip
+VLMY2100;SMD MiniLED;Yellow;581;588;594;3.55;8.5;;10;;;;;2.2;3;60;Standard;81233;Datasheet/leds/VLMY2100\VLMY2100.pdf;Datasheet/leds/VLMY2100\VLMY2100.zip
+VLMY3100;SMD PLCC-2;Yellow;581;588;594;2.8;11;;10;;;;;2.1;2.8;60;Standard;84789;Datasheet/leds/VLMY3100\VLMY3100.pdf;Datasheet/leds/VLMY3100\VLMY3100.zip
+VLMY3101;SMD PLCC-2;Yellow;581;588;594;4.5;10;11.2;10;;;;;2.1;2.8;60;Standard;84789;Datasheet/leds/VLMY3101\VLMY3101.pdf;Datasheet/leds/VLMY3101\VLMY3101.zip
+VLMY3102;SMD PLCC-2;Yellow;581;588;594;7.1;11;18;10;;;;;2.1;2.8;60;Standard;84789;Datasheet/leds/VLMY3102\VLMY3102.pdf;Datasheet/leds/VLMY3102\VLMY3102.zip
+VLMY31J1K2;SMD PLCC-2;Yellow;581;588;594;4.5;7.6;11.2;10;;;;;2.1;2.8;60;Standard;81326;Datasheet/leds/VLMY31J1K2\VLMY31J1K2.pdf;Datasheet/leds/VLMY31J1K2\VLMY31J1K2.zip
+VLMY31K1L2;SMD PLCC-2;Yellow;581;588;594;7.1;8.6;18;10;;;;;2.1;2.8;60;Standard;81326;Datasheet/leds/VLMY31K1L2\VLMY31K1L2.pdf;Datasheet/leds/VLMY31K1L2\VLMY31K1L2.zip
+VLRE31R1S2;SMD reverse gullwing;Yellow;581;588;594;112;;285;20;;;;;2.1;2.3;60;Standard;81779;Datasheet/leds/VLRE31R1S2\VLRE31R1S2.pdf;Datasheet/leds/VLRE31R1S2\VLRE31R1S2.zip
+VLRE31R2S2-XY;SMD reverse gullwing;Yellow;585;588;591;140;;285;20;;;;;2.1;2.3;60;Standard;81779;Datasheet/leds/VLRE31R2S2-XY\VLRE31R2S2-XY.pdf;Datasheet/leds/VLRE31R2S2-XY\VLRE31R2S2-XY.zip
+VLRK31Q1R2;SMD reverse gullwing;Red;620;630;635;71;;180;20;;;;;2.1;2.3;60;Standard;81778;Datasheet/leds/VLRK31Q1R2\VLRK31Q1R2.pdf;Datasheet/leds/VLRK31Q1R2\VLRK31Q1R2.zip
+VLRK31R1S2;SMD reverse gullwing;Red;620;630;635;112;;285;20;;;;;2.1;2.3;60;Standard;81778;Datasheet/leds/VLRK31R1S2\VLRK31R1S2.pdf;Datasheet/leds/VLRK31R1S2\VLRK31R1S2.zip
+VLRYG31P1Q2;SMD reverse gullwing;Yellow green;564.5;571;576.5;45;72;112.5;20;;;;;2.1;2.3;60;Standard;80249;Datasheet/leds/VLRYG31P1Q2\VLRYG31P1Q2.pdf;Datasheet/leds/VLRYG31P1Q2\VLRYG31P1Q2.zip
+VLRYG31Q1R2;SMD reverse gullwing;Yellow green;564.5;571;576.5;71.5;112;180;20;;;;;2.1;2.3;60;Standard;80249;Datasheet/leds/VLRYG31Q1R2\VLRYG31Q1R2.pdf;Datasheet/leds/VLRYG31Q1R2\VLRYG31Q1R2.zip

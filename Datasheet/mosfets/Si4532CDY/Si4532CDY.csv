@@ -1,3 +1,3 @@
 Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
-Si4532CDY;Enlarge;N- and p-pair;SO-8;P;-30.0;20.0;;;;;;0.14;;;0.089;2.75;7.8;1.3;1.8;-4.3;2.78;-1.0;10.0;image/mosfets/75843.png;Datasheet/mosfets/Si4532CDY/Si4532CDY.pdf;Datasheet/mosfets/Si4532CDY/Si4532CDY.zip
-Si4532CDY;Enlarge;N- and p-pair;SO-8;N;30.0;20.0;;;;;;0.065;;;0.047;2.75;6.0;1.3;0.9;6.0;2.78;1.0;3.1;image/mosfets/72579.png;Datasheet/mosfets/Si4532CDY/Si4532CDY.pdf;Datasheet/mosfets/Si4532CDY/Si4532CDY.zip
+Si4532CDY;Enlarge;N- and p-pair;SO-8;P;-30.0;20.0;;;;;;0.14;;;0.089;2.75;7.8;1.3;1.8;-4.3;2.78;-1.0;10.0;image/mosfets/72579.png;Datasheet\/mosfets/Si4532CDY\Si4532CDY.pdf;Datasheet\/mosfets/Si4532CDY\Si4532CDY.zip
+Si4532CDY;Enlarge;N- and p-pair;SO-8;N;30.0;20.0;;;;;;0.065;;;0.047;2.75;6.0;1.3;0.9;6.0;2.78;1.0;3.1;image/mosfets/73106.png;Datasheet\/mosfets/Si4532CDY\Si4532CDY.pdf;Datasheet\/mosfets/Si4532CDY\Si4532CDY.zip

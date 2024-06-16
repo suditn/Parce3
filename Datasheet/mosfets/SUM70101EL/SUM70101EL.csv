@@ -1,2 +1,2 @@
 Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
-SUM70101EL;Enlarge;Single;D2PAK (TO-263);P;-100.0;20.0;;;;;;0.015;;;0.0101;;125.0;29.0;30.0;-120.0;375.0;-1.5;6.5;image/mosfets/77632.png;Datasheet/mosfets/SUM70101EL/SUM70101EL.pdf;
+SUM70101EL;Enlarge;Single;D2PAK (TO-263);P;-100.0;20.0;;;;;;0.015;;;0.0101;;125.0;29.0;30.0;-120.0;375.0;-1.5;6.5;image/mosfets/65384.png;Datasheet\/mosfets/SUM70101EL\SUM70101EL.pdf;Datasheet\/mosfets/SUM70101EL\SUM70101EL.zip

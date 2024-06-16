@@ -1,0 +1,2 @@
+Series;Product Image;Type;Description;Technology;Resistance (min)(Ω);Resistance (max)(Ω);TCR Absolute(ppm/°C);TCR Tracking(ppm/°C);Absolute Tolerance(%);Ratio Tolerance(%);Power(W);Package Type;Case (EIA & Mil);Image path;Datasheet part;3d model part
+CS;Enlarge;Resistor Networks;Ceramic Sandwich, Single-In-Line Thin Film Resistor, Through Hole Network (Low Profile 0.20 Custom);Thin Film;20;500 K;50.0;5.0;0.05;0.02;0.1;Ceramic sandwich;;image/networks-and-arrays/60081.png;Datasheet\/networks-and-arrays/CS\CS.pdf;

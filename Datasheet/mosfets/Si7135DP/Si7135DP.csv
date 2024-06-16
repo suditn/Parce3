@@ -1,2 +1,2 @@
 Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
-Si7135DP;Enlarge;Single;PowerPAK SO-8;P;-30.0;20.0;;;;;;0.0062;;;0.0039;78.0;167.0;27.0;35.0;-60.0;104.0;-1.0;1.7;image/mosfets/63650.png;Datasheet/mosfets/Si7135DP/Si7135DP.pdf;Datasheet/mosfets/Si7135DP/Si7135DP.zip
+Si7135DP;Enlarge;Single;PowerPAK SO-8;P;-30.0;20.0;;;;;;0.0062;;;0.0039;78.0;167.0;27.0;35.0;-60.0;104.0;-1.0;1.7;image/mosfets/63163.png;Datasheet\/mosfets/Si7135DP\Si7135DP.pdf;Datasheet\/mosfets/Si7135DP\Si7135DP.zip

@@ -1,2 +1,2 @@
 Part Number;Configuration;SingleSupplyMin.;SingleSupplyMax.;DualSupplyMin.;DualSupplyMax.;On-Resistance(Ω);Is(off)Max.;tonMax.;QINJTyp.;XTALK&OIRR;Package;CS(on)(pF);CS(off)(pF);-3 dBBandwidth(MHz);Image path;Datasheet part;3d model part
-DG2503;Quad SPST;1.8;5.5;;;150.0;1.0;150.0;-0.7;-85.0;WCSP16 0.35mm;;2.9;510.0;62962;Datasheet/analog-switches/DG2503/DG2503.pdf;
+DG2503;Quad SPST;1.8;5.5;;;150.0;1.0;150.0;-0.7;-85.0;WCSP16 0.35mm;;2.9;510.0;62962;Datasheet//analog-switches/DG2503\DG2503.pdf;

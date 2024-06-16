@@ -1,2 +1,2 @@
-Part Number;Status;Description;Product type;VinMin.(V);VinMax.(V);Package;PackageSize(W,L,H)(mm);Image path;Datasheet part;3d model part
-SiP32461;Active;1.2 V to 5.5 V, 50 mΩ, 200 µs rise time, bidirectional off isolation, output discharge;Slew rate;1.2;5.5;WCSP4;0.8 x 0.8 x 0.5;67754;Datasheet/power-ics/computer/SiP32461/SiP32461.pdf;
+Part Number;Status;Description;Configuration;Slew Rate Time(µs);On Delay Time(µs);VINMin.(V);VINMax.(V);RDS(on)at VINMin.(mΩ);RDS(on)at VINMax.(mΩ);IQat VINMin.(µA);IQat VINMax.(µA);Output Discharge(Y / N);Reverse Blocking(Y / N);Cont. Current(A);Package;Package Size(W, L, H)(mm);Image path;Datasheet part;3d model part
+SiP32461;Active;1.2 V to 5.5 V, 50 mΩ, 200 µs rise time, bidirectional off isolation, output discharge;Single;170;130;1.2;5.5;95.0;50.0;1.2;5.5;Yes;Yes;1.2;WCSP4;0.8 x 0.8 x 0.5;67754;Datasheet/power-ics/SiP32461\SiP32461.pdf;

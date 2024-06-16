@@ -1,0 +1,13 @@
+Series;Product Image;Resistance Min.(Ω);Resistance Max.(Ω);E-Series;Tolerance(± %);Power Rating(W);Maximum Voltage(V);TCR(± ppm/°C);MountingTechnology;Size / Device Style;OperatingTemperature(°C);Automotive;Image path;Datasheet part;3d model part
+CCF07;Enlarge;1.1;2M;E24;5.0;0.25;250;250;Through-hole;0207;-65 to +150;No;image/resistors-fixed/31013.png;Datasheet\/resistors-fixed/CCF07\CCF07.pdf;
+CCF07;Enlarge;1.1;2M;E24;5.0;0.25;250;250;Through-hole;Axial;-65 to +150;No;image/resistors-fixed/31013.png;Datasheet\/resistors-fixed/CCF07\CCF07.pdf;
+CCF07;Enlarge;1.1;2M;E24;5.0;0.5;250;250;Through-hole;0207;-65 to +150;No;image/resistors-fixed/31013.png;Datasheet\/resistors-fixed/CCF07\CCF07.pdf;
+CCF07;Enlarge;1.1;2M;E24;5.0;0.5;250;250;Through-hole;Axial;-65 to +150;No;image/resistors-fixed/31013.png;Datasheet\/resistors-fixed/CCF07\CCF07.pdf;
+CCF07;Enlarge;10;1M;E24;2.0;0.25;250;100;Through-hole;0207;-65 to +150;No;image/resistors-fixed/31013.png;Datasheet\/resistors-fixed/CCF07\CCF07.pdf;
+CCF07;Enlarge;10;1M;E24;2.0;0.25;250;100;Through-hole;Axial;-65 to +150;No;image/resistors-fixed/31013.png;Datasheet\/resistors-fixed/CCF07\CCF07.pdf;
+CCF07;Enlarge;10;1M;E24;2.0;0.5;250;100;Through-hole;0207;-65 to +150;No;image/resistors-fixed/31013.png;Datasheet\/resistors-fixed/CCF07\CCF07.pdf;
+CCF07;Enlarge;10;1M;E24;2.0;0.5;250;100;Through-hole;Axial;-65 to +150;No;image/resistors-fixed/31013.png;Datasheet\/resistors-fixed/CCF07\CCF07.pdf;
+CCF07;Enlarge;10;1M;E24;5.0;0.25;250;100;Through-hole;0207;-65 to +150;No;image/resistors-fixed/31013.png;Datasheet\/resistors-fixed/CCF07\CCF07.pdf;
+CCF07;Enlarge;10;1M;E24;5.0;0.25;250;100;Through-hole;Axial;-65 to +150;No;image/resistors-fixed/31013.png;Datasheet\/resistors-fixed/CCF07\CCF07.pdf;
+CCF07;Enlarge;10;1M;E24;5.0;0.5;250;100;Through-hole;0207;-65 to +150;No;image/resistors-fixed/31013.png;Datasheet\/resistors-fixed/CCF07\CCF07.pdf;
+CCF07;Enlarge;10;1M;E24;5.0;0.5;250;100;Through-hole;Axial;-65 to +150;No;image/resistors-fixed/31013.png;Datasheet\/resistors-fixed/CCF07\CCF07.pdf;

@@ -1,3 +1,3 @@
 Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
-Si7998DP;Enlarge;DUAL N;PowerPAK SO-8;N;30.0;20.0;;;;;;0.0124;;;0.0093;8.2;17.0;3.2;2.7;25.0;22.0;1.2;3.5;image/mosfets/91637.png;Datasheet/mosfets/Si7998DP/Si7998DP.pdf;Datasheet/mosfets/Si7998DP/Si7998DP.zip
-Si7998DP;Enlarge;DUAL N;PowerPAK SO-8;N;30.0;20.0;;;;;;0.007;;;0.0053;15.3;32.0;6.3;4.7;30.0;40.0;1.2;3.5;image/mosfets/91569.png;Datasheet/mosfets/Si7998DP/Si7998DP.pdf;Datasheet/mosfets/Si7998DP/Si7998DP.zip
+Si7998DP;Enlarge;DUAL N;PowerPAK SO-8;N;30.0;20.0;;;;;;0.0124;;;0.0093;8.2;17.0;3.2;2.7;25.0;22.0;1.2;3.5;image/mosfets/91569.png;Datasheet\/mosfets/Si7998DP\Si7998DP.pdf;Datasheet\/mosfets/Si7998DP\Si7998DP.zip
+Si7998DP;Enlarge;DUAL N;PowerPAK SO-8;N;30.0;20.0;;;;;;0.007;;;0.0053;15.3;32.0;6.3;4.7;30.0;40.0;1.2;3.5;image/mosfets/91706.png;Datasheet\/mosfets/Si7998DP\Si7998DP.pdf;Datasheet\/mosfets/Si7998DP\Si7998DP.zip

@@ -1,0 +1,2 @@
+Series;Product Image;Description;Resistance at Tref.(min.)(Ω);Resistance at Tref.(max.)(Ω);Tref.(°C);Tolerance at Tref.(min.)(°C);Tolerance at Tref.(min.)(%);Typical TCR(ppm/°C);Operating Temperature(min.)(°C);Operating Temperature(max.)(°C);Image path;Datasheet part;3d model part
+PTS AT;Enlarge;Temperature Dependent Platinum Thin Film Chip Resistor (RTD);100;1000;0;0.3;;3850;-55.0;175.0;image/thermistors\28899.png;Datasheet\thermistors\PTS AT\PTS AT.pdf;Datasheet\thermistors\PTS AT\PTS AT.zip

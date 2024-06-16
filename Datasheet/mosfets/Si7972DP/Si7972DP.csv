@@ -1,2 +1,2 @@
 Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
-Si7972DP;Enlarge;Dual;PowerPAK SO-8;N;60.0;20.0;;;;;;0.021;;;0.018;7.1;15.2;4.4;1.3;8.0;22.0;1.2;0.6;image/mosfets/92006.png;Datasheet/mosfets/Si7972DP/Si7972DP.pdf;Datasheet/mosfets/Si7972DP/Si7972DP.zip
+Si7972DP;Enlarge;Dual;PowerPAK SO-8;N;60.0;20.0;;;;;;0.021;;;0.018;7.1;15.2;4.4;1.3;8.0;22.0;1.2;0.6;image/mosfets/92115.png;Datasheet\/mosfets/Si7972DP\Si7972DP.pdf;Datasheet\/mosfets/Si7972DP\Si7972DP.zip

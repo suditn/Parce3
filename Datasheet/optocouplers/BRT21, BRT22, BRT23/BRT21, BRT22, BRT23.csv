@@ -1,4 +1,4 @@
 Part Number;Product Image;Zero or Non-zero crossing;Package;Trigger Current IFTMax.(mA);Blocking Voltage VDRM(V);On-state Current(mA);Static dv / dt;Isolation Voltage VISOVRMS;Ambient Temperature Range(°C);Creepage Min.(mm);Working Voltage VIORM(Vpeak);Safety Standard;Image path;Datasheet part;3d model part
-BRT21, BRT22, BRT23;Enlarge;Zero;DIP-6;1.2 to 2;800;300;10000.0;4420;-40 to +100;7.0;630.0;UL, cUL, VDE;image/optocouplers/83690.png;Datasheet/optocouplers/opto-triac/BRT21, BRT22, BRT23/BRT21, BRT22, BRT23.pdf;
-BRT21, BRT22, BRT23;Enlarge;Zero;DIP-6, 400 mil;1.2 to 2;800;300;10000.0;4420;-40 to +100;;630.0;UL, cUL, VDE;image/optocouplers/83690.png;Datasheet/optocouplers/opto-triac/BRT21, BRT22, BRT23/BRT21, BRT22, BRT23.pdf;
-BRT21, BRT22, BRT23;Enlarge;Zero;SMD-6;1.2 to 2;800;300;10000.0;4420;-40 to +100;7.0;630.0;UL, cUL, VDE;image/optocouplers/83690.png;Datasheet/optocouplers/opto-triac/BRT21, BRT22, BRT23/BRT21, BRT22, BRT23.pdf;
+BRT21, BRT22, BRT23;Enlarge;Zero;DIP-6;1.2 to 2;800;300;10000.0;4420;-40 to +100;7.0;630.0;UL, cUL, VDE;image/optocouplers\83690.png;Datasheet\optocouplers\BRT21, BRT22, BRT23\BRT21, BRT22, BRT23.pdf;
+BRT21, BRT22, BRT23;Enlarge;Zero;DIP-6, 400 mil;1.2 to 2;800;300;10000.0;4420;-40 to +100;;630.0;UL, cUL, VDE;image/optocouplers\83690.png;Datasheet\optocouplers\BRT21, BRT22, BRT23\BRT21, BRT22, BRT23.pdf;
+BRT21, BRT22, BRT23;Enlarge;Zero;SMD-6;1.2 to 2;800;300;10000.0;4420;-40 to +100;7.0;630.0;UL, cUL, VDE;image/optocouplers\83690.png;Datasheet\optocouplers\BRT21, BRT22, BRT23\BRT21, BRT22, BRT23.pdf;

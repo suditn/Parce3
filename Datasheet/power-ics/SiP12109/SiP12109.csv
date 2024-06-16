@@ -1,2 +1,2 @@
-Part Number;Status;Description;Product type;VinMin.(V);VinMax.(V);Package;PackageSize(W,L,H)(mm);Image path;Datasheet part;3d model part
-SiP12109;Active;4 A, 4.5 V to 15 V input, 1.5 MHz synchronous buck regulator;microBUCK (step down regulator);4.5;15.0;QFN16-33G;3.0 x 3.0 x 0.8;62694;Datasheet/power-ics/computer/SiP12109/SiP12109.pdf;
+Part Number;Description;VinMin.(V);VinMax.(V);VoutMin(V);VoutMax(V);Continuous Output Current(A);Switch Freq Min.(kHz);Switch Freq Max.(kHz);Pre Bias Oper.(Y/N);Internal Bias Regulator;Compen-sation(Y/N);Enable (Y/N);PGOOD(Y/N);Over Current Protection (Y/N);Protection;Light Load Mode;Peak Eff.(%);Package;Package Size (W,L,H)(mm);Image path;Datasheet part;3d model part
+SiP12109;4 A, 4.5 V to 15 V input, 1.5 MHz synchronous buck regulator;4.5;15;0.6;5.5;4;200;1500;Yes;Yes;External;Yes;Yes;Fixed;OVP, OCP, OTP, SCP, UVLO;Powersave;95;QFN16-33G;3.0 x 3.0 x 0.8;62694;Datasheet/power-ics/SiP12109\SiP12109.pdf;

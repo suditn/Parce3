@@ -1,2 +1,2 @@
 Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
-IRFL210, SiHFL210;Enlarge;Single;SOT-223;N;200.0;20.0;;;;;;;;;1.5;;8.2;1.8;4.5;0.96;3.1;2.0;;image/mosfets/91202.png;Datasheet/mosfets/IRFL210, SiHFL210/IRFL210, SiHFL210.pdf;
+IRFL210, SiHFL210;Enlarge;Single;SOT-223;N;200.0;20.0;;;;;;;;;1.5;;8.2;1.8;4.5;0.96;3.1;2.0;;image/mosfets/91202.png;Datasheet\/mosfets/IRFL210, SiHFL210\IRFL210, SiHFL210.pdf;

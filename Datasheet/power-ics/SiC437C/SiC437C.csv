@@ -1,2 +1,2 @@
 Part Number;Status;Description;Product Type;VINMin.(V);VINMax.(V);Package;Package Size(W, L, H)(mm);Image path;Datasheet part;3d model part
-SiC437C;New;12 A, 3 V to 28 V input, 300 kHz, 500 kHz, 750 kHz, 1 MHz, synchronous buck regulator with ultrasonic mode, requires external 5 V bias;microBUCK (step down regulator);3.0;28.0;PowerPAK MLP44-24L;4 x 4 x 0.75;75921;Datasheet/power-ics/networking/SiC437C/SiC437C.pdf;
+SiC437C;New;12 A, 3 V to 28 V input, 300 kHz, 500 kHz, 750 kHz, 1 MHz, synchronous buck regulator with ultrasonic mode, requires external 5 V bias;microBUCK (step down regulator);3.0;28.0;PowerPAK MLP44-24L;4 x 4 x 0.75;75921;Datasheet/power-ics/SiC437C\SiC437C.pdf;Datasheet/power-ics/SiC437C\SiC437C.zip

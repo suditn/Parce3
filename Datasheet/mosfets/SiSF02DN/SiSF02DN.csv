@@ -1,2 +1,2 @@
 Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
-SiSF02DN;Enlarge;Common drain;PowerPAK 1212-8SCD;N;25.0;16.0;;;;;;0.0028;;;0.00175;16.9;37.0;7.6;3.0;60.0;69.4;1.0;1.1;91068;Datasheet/mosfets/IRF840LCS, IRF840LCL, SiHF840LCS,  SiHF840LCL/IRF840LCS, IRF840LCL, SiHF840LCS,  SiHF840LCL.pdf;
+SiSF02DN;Enlarge;Common drain;PowerPAK 1212-8SCD;N;25.0;16.0;;;;;;0.0028;;;0.00175;16.9;37.0;7.6;3.0;60.0;69.4;1.0;1.1;91071;Datasheet//mosfets/IRF840S, SiHF840S\IRF840S, SiHF840S.pdf;

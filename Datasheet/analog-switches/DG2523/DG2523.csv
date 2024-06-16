@@ -1,2 +1,2 @@
 Part Number;Configuration;SingleSupplyMin.;SingleSupplyMax.;DualSupplyMin.;DualSupplyMax.;On-Resistance(Ω);Is(off)Max.;tonMax.;QINJTyp.;XTALK&OIRR;Package;CS(on)(pF);CS(off)(pF);-3 dBBandwidth(MHz);Image path;Datasheet part;3d model part
-DG2523;DPDT x 2;1.8;5.5;;;0.4;1.0;60.0;-19.0;-55.0;QFN-16 3 x 3;26.0;14.5;310.0;67894;Datasheet/analog-switches/DG2523/DG2523.pdf;
+DG2523;DPDT x 2;1.8;5.5;;;0.4;1.0;60.0;-19.0;-55.0;QFN-16 3 x 3;26.0;14.5;310.0;67894;Datasheet//analog-switches/DG2523\DG2523.pdf;

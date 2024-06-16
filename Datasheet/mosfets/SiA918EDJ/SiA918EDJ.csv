@@ -1,2 +1,2 @@
 Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
-SiA918EDJ;Enlarge;DUAL;PowerPAK SC-70;N;30.0;8.0;;;0.077;0.065;;0.058;;;;3.6;;0.45;0.53;4.5;7.8;0.4;4.3;image/mosfets/92445.png;Datasheet/mosfets/SiA918EDJ/SiA918EDJ.pdf;Datasheet/mosfets/SiA918EDJ/SiA918EDJ.zip
+SiA918EDJ;Enlarge;DUAL;PowerPAK SC-70;N;30.0;8.0;;;0.077;0.065;;0.058;;;;3.6;;0.45;0.53;4.5;7.8;0.4;4.3;image/mosfets/92029.png;Datasheet\/mosfets/SiA918EDJ\SiA918EDJ.pdf;Datasheet\/mosfets/SiA918EDJ\SiA918EDJ.zip

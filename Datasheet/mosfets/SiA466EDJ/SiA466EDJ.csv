@@ -1,2 +1,2 @@
 Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
-SiA466EDJ;Enlarge;Single;PowerPAK SC-70;N;20.0;20.0;;;;;;0.013;0.0111;;0.0095;6.3;13.0;1.6;2.1;25.0;19.2;1.0;0.9;image/mosfets/91606.png;Datasheet/mosfets/SiA466EDJ/SiA466EDJ.pdf;
+SiA466EDJ;Enlarge;Single;PowerPAK SC-70;N;20.0;20.0;;;;;;0.013;0.0111;;0.0095;6.3;13.0;1.6;2.1;25.0;19.2;1.0;0.9;image/mosfets/92344.png;Datasheet\/mosfets/SiA466EDJ\SiA466EDJ.pdf;

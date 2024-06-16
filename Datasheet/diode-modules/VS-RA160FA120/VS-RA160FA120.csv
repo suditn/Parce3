@@ -1,0 +1,2 @@
+Series;Product Image;IFAV(A);TC(°C);VRRM(V);IFSMat 50 Hz(A);IFSMat 60 Hz(A);VFat IFMat 25 °C(V at A);TJ(°C);RthJC(°C/W);Package;CircuitConfiguration;Isolation fromHeatsink;Image path;Datasheet part;3d model part
+VS-RA160FA120;Enlarge;91;90;1200;940;985;1.27 at 100;-55 to +150;0.26;SOT-227;Two separate diodes, parallel pin-out;Isolated;image\modules\96330.png;Datasheet\modules\VS-RA160FA120\VS-RA160FA120.pdf;

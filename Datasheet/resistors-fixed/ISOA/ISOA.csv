@@ -1,0 +1,7 @@
+Series;Product Image;Resistance Min.(Ω);Resistance Max.(Ω);E-Series;Tolerance(± %);Power Rating(W);Maximum Voltage(V);TCR(± ppm/°C);MountingTechnology;Size / Device Style;OperatingTemperature(°C);Automotive;Image path;Datasheet part;3d model part
+ISOA;Enlarge;0.47;2.7;E24;10.0;120;1500;300;Heatsink;SOT-227;-55 to +150;AEC-Q200 qualified;image/resistors-fixed/32598.png;Datasheet\/resistors-fixed/ISOA\ISOA.pdf;Datasheet\/resistors-fixed/ISOA\ISOA.zip
+ISOA;Enlarge;0.47;2.7;E24;5.0;120;1500;300;Heatsink;SOT-227;-55 to +150;AEC-Q200 qualified;image/resistors-fixed/32598.png;Datasheet\/resistors-fixed/ISOA\ISOA.pdf;Datasheet\/resistors-fixed/ISOA\ISOA.zip
+ISOA;Enlarge;200;1M;E24;5.0;120;1500;100;Heatsink;SOT-227;-55 to +150;AEC-Q200 qualified;image/resistors-fixed/32598.png;Datasheet\/resistors-fixed/ISOA\ISOA.pdf;Datasheet\/resistors-fixed/ISOA\ISOA.zip
+ISOA;Enlarge;220;1M;E24;10.0;120;1500;100;Heatsink;SOT-227;-55 to +150;AEC-Q200 qualified;image/resistors-fixed/32598.png;Datasheet\/resistors-fixed/ISOA\ISOA.pdf;Datasheet\/resistors-fixed/ISOA\ISOA.zip
+ISOA;Enlarge;3;196;E24;5.0;120;1500;150;Heatsink;SOT-227;-55 to +150;AEC-Q200 qualified;image/resistors-fixed/32598.png;Datasheet\/resistors-fixed/ISOA\ISOA.pdf;Datasheet\/resistors-fixed/ISOA\ISOA.zip
+ISOA;Enlarge;3;200;E24;10.0;120;1500;150;Heatsink;SOT-227;-55 to +150;AEC-Q200 qualified;image/resistors-fixed/32598.png;Datasheet\/resistors-fixed/ISOA\ISOA.pdf;Datasheet\/resistors-fixed/ISOA\ISOA.zip

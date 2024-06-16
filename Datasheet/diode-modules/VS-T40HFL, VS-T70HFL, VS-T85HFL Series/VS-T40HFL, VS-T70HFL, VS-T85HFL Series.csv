@@ -1,0 +1,4 @@
+Series;Product Image;Package;Circuit Configuration;VDRM/VRRM(V) Range;IF(AV)(A);TC(°C);IFSMat 50 Hz(A);IFSMat 60 Hz(A);VFMat 25 °C Range(V);TJ(°C);Image path;Datasheet part;3d model part
+VS-T40HFL, VS-T70HFL, VS-T85HFL Series;Enlarge;D-55 (T-module);Single;100 - 1000;40;70;475;500;1.6;-40 to +125;image\modules\93184.png;Datasheet\modules\VS-T40HFL, VS-T70HFL, VS-T85HFL Series\VS-T40HFL, VS-T70HFL, VS-T85HFL Series.pdf;
+VS-T40HFL, VS-T70HFL, VS-T85HFL Series;Enlarge;D-55 (T-module);Single;100 - 1000;70;70;830;870;1.73;-40 to +125;image\modules\93184.png;Datasheet\modules\VS-T40HFL, VS-T70HFL, VS-T85HFL Series\VS-T40HFL, VS-T70HFL, VS-T85HFL Series.pdf;
+VS-T40HFL, VS-T70HFL, VS-T85HFL Series;Enlarge;D-55 (T-module);Single;100 - 1000;85;70;1300;1370;1.55;-40 to +125;image\modules\93184.png;Datasheet\modules\VS-T40HFL, VS-T70HFL, VS-T85HFL Series\VS-T40HFL, VS-T70HFL, VS-T85HFL Series.pdf;

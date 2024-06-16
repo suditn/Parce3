@@ -1,3 +1,3 @@
 Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
-SQJ942EP;Enlarge;Dual;PowerPAK SO-8L asymmetric;N;40.0;20.0;;;;;;0.013;;;0.011;;22.5;3.35;3.14;45.0;48.0;1.3;3.02;image/mosfets/62817.png;Datasheet/mosfets/SQJ942EP/SQJ942EP.pdf;
-SQJ942EP;Enlarge;Dual;PowerPAK SO-8L asymmetric;N;40.0;20.0;;;;;;0.026;;;0.022;;13.1;2.12;1.84;15.0;17.0;1.3;3.02;image/mosfets/78092.png;Datasheet/mosfets/SQJ942EP/SQJ942EP.pdf;
+SQJ942EP;Enlarge;Dual;PowerPAK SO-8L asymmetric;N;40.0;20.0;;;;;;0.013;;;0.011;;22.5;3.35;3.14;45.0;48.0;1.3;3.02;image/mosfets/62817.png;Datasheet\/mosfets/SQJ942EP\SQJ942EP.pdf;Datasheet\/mosfets/SQJ942EP\SQJ942EP.zip
+SQJ942EP;Enlarge;Dual;PowerPAK SO-8L asymmetric;N;40.0;20.0;;;;;;0.026;;;0.022;;13.1;2.12;1.84;15.0;17.0;1.3;3.02;image/mosfets/78092.png;Datasheet\/mosfets/SQJ942EP\SQJ942EP.pdf;Datasheet\/mosfets/SQJ942EP\SQJ942EP.zip

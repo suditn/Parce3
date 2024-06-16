@@ -1,2 +1,2 @@
 Series;Product Image;Configuration;Package;Ch;VDS(V);VGS(V);RDS(on)@1.2V(Ω);RDS(on)1.5V(Ω);RDS(on)@1.8V(Ω);RDS(on)@2.5V(Ω);RDS(on)@3V(Ω);RDS(on)@4.5V(Ω);RDS(on)@6V(Ω);RDS(on)@7.5V(Ω);RDS(on)@10V(Ω);Qg@4.5V(nC);Qg@10V(nC);Qgs(nC);Qgd(nC);IDMax.(A);PDMax.(W);VGS(th)Min.(V);RgTyp.(Ω);Image path;Datasheet part;3d model part
-SiJH400E;Enlarge;Single;PowerPAK 8 x 8L;N;40.0;20.0;;;;;;0.00074;;;0.00052;99.0;220.0;50.0;12.0;608.0;385.0;1.1;1.1;image/mosfets/62079.png;Datasheet/mosfets/SiJH400E/SiJH400E.pdf;
+SiJH400E;Enlarge;Single;PowerPAK 8 x 8L;N;40.0;20.0;;;;;;0.00074;;;0.00052;99.0;220.0;50.0;12.0;608.0;385.0;1.1;1.1;image/mosfets/79726.png;Datasheet\/mosfets/SiJH400E\SiJH400E.pdf;

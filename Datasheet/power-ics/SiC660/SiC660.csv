@@ -1,2 +1,2 @@
 Part Number;Status;Description;Product Type;VINMin.(V);VINMax.(V);Package;Package Size(W, L, H)(mm);Image path;Datasheet part;3d model part
-SiC660;New;60 A power stage plus, 2.5 VINto 16 VIN, 5 V PWM with ZCD, PS4 mode;VRPower (DrMOS);2.5;16.0;PowerPAK MLP55-31L;5 x 5 x 0.75;63014;Datasheet/power-ics/networking/SiC660/SiC660.pdf;
+SiC660;New;60 A power stage plus, 2.5 VINto 16 VIN, 5 V PWM with ZCD, PS4 mode;VRPower (DrMOS);2.5;16.0;PowerPAK MLP55-31L;5 x 5 x 0.75;63014;Datasheet/power-ics/SiC660\SiC660.pdf;

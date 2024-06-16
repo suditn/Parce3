@@ -1,2 +1,2 @@
-Part Number;Status;Description;Product type;VinMin.(V);VinMax.(V);Package;PackageSize(W,L,H)(mm);Image path;Datasheet part;3d model part
-SiP32458;Active;1.5 V to 5.5 V, 20 mΩ, bidirectional off isolation;Slew rate;1.5;5.5;WCSP6;1.0 x 1.5 x 0.5;63999;Datasheet/power-ics/computer/SiP32458/SiP32458.pdf;
+Part Number;Status;Description;Configuration;Slew Rate Time(µs);On Delay Time(µs);VINMin.(V);VINMax.(V);RDS(on)at VINMin.(mΩ);RDS(on)at VINMax.(mΩ);IQat VINMin.(µA);IQat VINMax.(µA);Output Discharge(Y / N);Reverse Blocking(Y / N);Cont. Current(A);Package;Package Size(W, L, H)(mm);Image path;Datasheet part;3d model part
+SiP32458;Active;1.5 V to 5.5 V, 20 mΩ, bidirectional off isolation;Single;3000;500;1.5;5.5;30.0;20.0;1.5;5.8;No;Yes;3.0;WCSP6;1.0 x 1.5 x 0.5;63999;Datasheet/power-ics/SiP32458\SiP32458.pdf;
